@@ -1,0 +1,1001 @@
+Name,Age,Gender,Blood Type,Medical Condition,Date of Admission,Doctor,Hospital,Insurance Provider,Billing Amount,Room Number,Admission Type,Discharge Date,Medication,Test Results
+Kevin Adams,32,Male,AB+,Cancer,2020-04-02,Dr. Priya Sharma,Rainbow Hospital,Medicare,31572.16,116,Emergency,2020-04-05,Paracetamol,Normal
+Manish Pandey,82,Male,B-,Arthritis,2022-08-23,Dr. Michael Johnson,Care Hospital,Cigna,25214.41,242,Emergency,2022-09-04,Ibuprofen,Inconclusive
+Jessica Taylor,61,Female,B+,Cancer,2024-05-14,Dr. Samantha Davies,Apollo Healthcare,Medicare,22096.73,283,Elective,2024-05-27,Salbutamol,Abnormal
+Rohit Verma,76,Male,O+,Diabetes,2022-02-04,Dr. Sarah Wilson,Medanta Hospital,Cigna,36705.73,123,Urgent,2022-02-09,Aspirin,Abnormal
+Neha Joshi,47,Male,O+,Obesity,2021-07-17,Dr. Samantha Davies,AIIMS Delhi,Star Health,20987.18,443,Elective,2021-07-28,Paracetamol,Inconclusive
+Kevin Adams,39,Male,B+,Hypertension,2021-02-16,Dr. Michael Johnson,Max Hospital,Star Health,42928.34,497,Emergency,2021-02-21,Aspirin,Normal
+Bobby Jackson,69,Female,A-,Cancer,2024-02-14,Dr. Samantha Davies,Max Hospital,Max Bupa,22803.44,429,Elective,2024-02-24,Ibuprofen,Abnormal
+Suresh Yadav,49,Female,O+,Asthma,2021-03-28,Dr. Sunita Patel,AIIMS Delhi,Max Bupa,9090.92,124,Emergency,2021-04-03,Ibuprofen,Inconclusive
+Rajesh Mishra,72,Male,O+,Hypertension,2022-05-05,Dr. Michael Johnson,Fortis Medical,Aetna,35612.75,158,Urgent,2022-05-13,Insulin,Abnormal
+Melissa Campbell,61,Male,AB+,Hypertension,2019-11-20,Dr. Rajesh Kumar,Fortis Medical,Blue Cross,27845.68,154,Urgent,2019-11-28,Lisinopril,Inconclusive
+James Lewis,43,Male,AB-,Cancer,2022-01-09,Dr. Michael Johnson,City Hospital,Star Health,26987.26,157,Elective,2022-01-22,Lisinopril,Normal
+Sunita Gupta,48,Male,A-,Arthritis,2021-09-22,Dr. Priya Sharma,Rainbow Hospital,Blue Cross,10777.62,343,Urgent,2021-10-06,Ibuprofen,Abnormal
+Megan Walker,72,Male,B-,Arthritis,2020-09-30,Dr. Samantha Davies,Sun Pharma Clinic,Max Bupa,10445.19,215,Emergency,2020-10-07,Atorvastatin,Normal
+Brittany King,47,Male,A+,Diabetes,2022-12-20,Dr. Rajesh Kumar,Max Hospital,Medicare,45743.9,269,Emergency,2022-12-31,Insulin,Normal
+Rahul Sinha,80,Male,B+,Arthritis,2024-03-30,Dr. Sarah Wilson,Global Health Center,Max Bupa,15934.88,342,Elective,2024-04-14,Aspirin,Normal
+Vikram Patel,73,Female,O+,Hypertension,2021-08-14,Dr. Rajesh Kumar,Apollo Healthcare,Aetna,23117.96,273,Emergency,2021-08-28,Aspirin,Normal
+Arjun Nair,75,Male,O+,Cancer,2020-07-24,Dr. Sunita Patel,Apollo Healthcare,Max Bupa,41361.0,381,Emergency,2020-08-01,Metformin,Inconclusive
+Daniel Allen,19,Male,B-,Cancer,2021-04-12,Dr. Emily Brown,Max Hospital,HDFC Ergo,45609.93,184,Elective,2021-04-20,Metformin,Abnormal
+Kiran Desai,76,Female,O+,Arthritis,2024-05-14,Dr. Michael Johnson,Sun Pharma Clinic,Blue Cross,13545.4,211,Emergency,2024-05-26,Salbutamol,Inconclusive
+Daniel Allen,25,Female,A+,Diabetes,2022-04-11,Dr. Michael Johnson,Rainbow Hospital,Blue Cross,7559.58,360,Emergency,2022-04-19,Ibuprofen,Normal
+Joshua Wright,26,Male,O+,Diabetes,2024-04-12,Dr. Sarah Wilson,Max Hospital,Aetna,32872.17,314,Urgent,2024-04-27,Salbutamol,Inconclusive
+Megan Walker,58,Female,B-,Arthritis,2023-01-06,Dr. Sunita Patel,Fortis Medical,HDFC Ergo,10889.52,430,Elective,2023-01-12,Amoxicillin,Abnormal
+Brandon Phillips,27,Male,O-,Asthma,2022-02-27,Dr. Priya Sharma,Rainbow Hospital,Cigna,27764.81,167,Elective,2022-03-01,Paracetamol,Normal
+Sarah Wilson,54,Male,O-,Asthma,2022-12-11,Dr. Sarah Wilson,Rainbow Hospital,Aetna,35053.84,383,Elective,2022-12-16,Paracetamol,Normal
+Kiran Desai,32,Male,B+,Obesity,2020-07-31,Dr. Sunita Patel,Medanta Hospital,Cigna,35937.37,235,Urgent,2020-08-10,Amoxicillin,Abnormal
+Sunita Gupta,29,Female,AB+,Diabetes,2019-01-08,Dr. Amit Verma,Fortis Medical,Blue Cross,38355.39,382,Urgent,2019-01-14,Omeprazole,Inconclusive
+Aarav Sharma,32,Male,B+,Asthma,2019-03-15,Dr. Samantha Davies,Global Health Center,Blue Cross,24340.4,121,Elective,2019-03-29,Atorvastatin,Normal
+Matthew Brown,44,Male,A-,Obesity,2023-05-17,Dr. John White,Global Health Center,Blue Cross,46659.37,221,Emergency,2023-05-26,Ibuprofen,Abnormal
+Priya Singh,40,Female,O+,Arthritis,2023-11-05,Dr. Sunita Patel,Fortis Medical,Blue Cross,40431.85,155,Elective,2023-11-17,Metformin,Abnormal
+Manish Pandey,43,Female,AB-,Obesity,2023-08-08,Dr. Sunita Patel,Max Hospital,Aetna,34701.49,304,Elective,2023-08-21,Lisinopril,Normal
+Melissa Campbell,53,Female,O+,Arthritis,2023-09-24,Dr. Samantha Davies,City Hospital,Medicare,44466.73,233,Emergency,2023-10-03,Salbutamol,Abnormal
+Rohit Verma,31,Female,AB-,Arthritis,2023-05-30,Dr. John White,Global Health Center,Medicare,22333.79,395,Emergency,2023-06-05,Lisinopril,Normal
+Amber Perez,73,Male,B-,Obesity,2021-06-02,Dr. Samantha Davies,Global Health Center,Star Health,34852.44,163,Urgent,2021-06-04,Lisinopril,Inconclusive
+Anil Chauhan,70,Female,O+,Arthritis,2020-08-28,Dr. Amit Verma,Max Hospital,HDFC Ergo,34921.82,294,Urgent,2020-09-06,Ibuprofen,Inconclusive
+Ryan Scott,56,Female,A+,Obesity,2020-08-10,Dr. John White,Global Health Center,Star Health,25924.47,326,Urgent,2020-08-14,Aspirin,Inconclusive
+David Clark,39,Male,AB+,Asthma,2022-09-21,Dr. Sarah Wilson,Medanta Hospital,Medicare,41829.06,484,Emergency,2022-10-02,Lisinopril,Normal
+Arjun Nair,36,Male,A+,Cancer,2021-08-31,Dr. Priya Sharma,Sun Pharma Clinic,HDFC Ergo,44876.16,394,Emergency,2021-09-10,Omeprazole,Abnormal
+Emily Davis,49,Male,A+,Diabetes,2023-05-14,Dr. Sunita Patel,AIIMS Delhi,Max Bupa,7259.83,227,Emergency,2023-05-21,Amoxicillin,Normal
+Amanda White,85,Female,O-,Asthma,2023-07-28,Dr. Michael Johnson,Care Hospital,Max Bupa,45374.36,480,Elective,2023-08-09,Amoxicillin,Abnormal
+Brandon Phillips,49,Female,O-,Arthritis,2020-05-04,Dr. Emily Brown,Apollo Healthcare,United Health,15552.21,271,Elective,2020-05-09,Insulin,Normal
+Suresh Yadav,37,Male,O+,Arthritis,2019-11-09,Dr. Sunita Patel,Apollo Healthcare,HDFC Ergo,23341.97,377,Elective,2019-11-21,Omeprazole,Normal
+Deepika Rao,71,Female,A+,Asthma,2021-02-18,Dr. Rajesh Kumar,Medanta Hospital,United Health,38906.38,314,Urgent,2021-02-26,Insulin,Inconclusive
+Manish Pandey,80,Male,AB+,Hypertension,2021-09-21,Dr. John White,Medanta Hospital,HDFC Ergo,37588.16,339,Emergency,2021-09-22,Salbutamol,Inconclusive
+Priya Singh,68,Male,A-,Arthritis,2021-05-27,Dr. Emily Brown,AIIMS Delhi,Aetna,16707.03,267,Emergency,2021-05-30,Amoxicillin,Abnormal
+Leslie Terry,66,Female,O+,Obesity,2023-09-06,Dr. Emily Brown,City Hospital,Aetna,49995.85,279,Emergency,2023-09-08,Paracetamol,Inconclusive
+Rohit Verma,21,Male,B-,Diabetes,2022-06-26,Dr. Sunita Patel,AIIMS Delhi,Max Bupa,35125.65,388,Emergency,2022-06-29,Amoxicillin,Inconclusive
+Kiran Desai,65,Male,A-,Cancer,2024-05-29,Dr. Priya Sharma,Global Health Center,Aetna,46799.92,394,Urgent,2024-06-03,Omeprazole,Abnormal
+Amber Perez,43,Male,B-,Diabetes,2022-11-28,Dr. Matthew Smith,Global Health Center,Medicare,40830.22,389,Emergency,2022-12-11,Atorvastatin,Inconclusive
+Jessica Taylor,65,Male,AB-,Diabetes,2023-10-06,Dr. Emily Brown,Apollo Healthcare,HDFC Ergo,48235.44,425,Elective,2023-10-13,Ibuprofen,Abnormal
+Kavita Dubey,84,Female,O-,Hypertension,2021-06-11,Dr. Sarah Wilson,Fortis Medical,Star Health,43327.09,144,Elective,2021-06-25,Amoxicillin,Normal
+Brandon Phillips,77,Female,AB-,Diabetes,2021-10-09,Dr. Samantha Davies,AIIMS Delhi,Max Bupa,14545.39,232,Elective,2021-10-23,Lisinopril,Inconclusive
+Justin Mitchell,53,Male,B-,Diabetes,2020-05-09,Dr. John White,Sun Pharma Clinic,Cigna,36077.42,430,Urgent,2020-05-21,Amoxicillin,Abnormal
+Priya Singh,29,Female,B-,Hypertension,2022-11-17,Dr. Matthew Smith,Global Health Center,Star Health,26296.72,371,Elective,2022-11-21,Omeprazole,Inconclusive
+Ashley Young,60,Female,O-,Obesity,2020-09-19,Dr. Sunita Patel,Apollo Healthcare,Cigna,19199.66,480,Urgent,2020-09-24,Ibuprofen,Normal
+Deepika Rao,79,Female,AB+,Diabetes,2023-09-02,Dr. Matthew Smith,Max Hospital,Star Health,13074.87,107,Urgent,2023-09-06,Insulin,Normal
+Rahul Sinha,23,Male,AB+,Arthritis,2024-04-17,Dr. Emily Brown,Apollo Healthcare,Aetna,30832.89,340,Elective,2024-04-20,Amoxicillin,Abnormal
+Kavita Dubey,24,Female,O-,Diabetes,2023-08-11,Dr. John White,Sun Pharma Clinic,Medicare,30965.95,451,Emergency,2023-08-13,Ibuprofen,Normal
+Ryan Scott,56,Male,B-,Diabetes,2022-02-16,Dr. John White,Global Health Center,Cigna,39906.21,294,Elective,2022-03-01,Amoxicillin,Abnormal
+Brittany King,72,Female,A+,Asthma,2024-05-20,Dr. Priya Sharma,Max Hospital,Cigna,16909.08,141,Emergency,2024-06-01,Aspirin,Normal
+Ashley Young,27,Male,A+,Hypertension,2021-07-11,Dr. Sarah Wilson,Sun Pharma Clinic,United Health,6468.79,247,Urgent,2021-07-23,Lisinopril,Inconclusive
+Amanda White,27,Male,AB+,Arthritis,2022-04-22,Dr. Sunita Patel,Care Hospital,Medicare,29505.31,431,Emergency,2022-05-03,Lisinopril,Normal
+Amit Kumar,25,Male,AB+,Asthma,2023-03-14,Dr. Sarah Wilson,Fortis Medical,Max Bupa,10595.91,452,Elective,2023-03-28,Omeprazole,Abnormal
+James Lewis,81,Female,A-,Asthma,2019-03-23,Dr. John White,Medanta Hospital,United Health,6163.92,217,Urgent,2019-04-07,Salbutamol,Inconclusive
+Priya Singh,52,Male,B+,Hypertension,2021-11-28,Dr. Emily Brown,Fortis Medical,Blue Cross,49862.55,323,Urgent,2021-12-09,Amoxicillin,Normal
+David Clark,62,Female,AB-,Obesity,2022-10-04,Dr. Amit Verma,Medanta Hospital,HDFC Ergo,36215.32,247,Urgent,2022-10-06,Omeprazole,Inconclusive
+Rohit Verma,76,Male,AB-,Obesity,2020-10-24,Dr. John White,Rainbow Hospital,Aetna,34594.72,377,Elective,2020-10-26,Omeprazole,Normal
+Arjun Nair,84,Female,O-,Arthritis,2021-06-24,Dr. Rajesh Kumar,Max Hospital,United Health,29714.88,247,Elective,2021-07-07,Amoxicillin,Normal
+Priya Singh,48,Male,AB+,Asthma,2019-01-29,Dr. John White,Apollo Healthcare,Cigna,49651.57,158,Elective,2019-02-07,Paracetamol,Inconclusive
+Anjali Tiwari,81,Female,AB+,Hypertension,2023-09-06,Dr. Emily Brown,Max Hospital,Max Bupa,29806.93,296,Emergency,2023-09-14,Salbutamol,Inconclusive
+Crystal Turner,35,Male,AB+,Hypertension,2020-11-27,Dr. Michael Johnson,Fortis Medical,Aetna,17727.75,252,Urgent,2020-12-12,Salbutamol,Inconclusive
+Laura Hall,37,Female,O-,Obesity,2020-11-11,Dr. Michael Johnson,Care Hospital,Max Bupa,46978.35,196,Urgent,2020-11-20,Aspirin,Inconclusive
+John Smith,47,Female,A+,Obesity,2023-03-06,Dr. John White,Care Hospital,Blue Cross,27289.79,118,Emergency,2023-03-14,Insulin,Inconclusive
+Leslie Terry,30,Female,A-,Asthma,2024-02-08,Dr. Rajesh Kumar,AIIMS Delhi,HDFC Ergo,44191.98,179,Emergency,2024-02-16,Amoxicillin,Abnormal
+Leslie Terry,68,Male,AB-,Arthritis,2023-10-26,Dr. John White,Medanta Hospital,Max Bupa,44257.24,118,Urgent,2023-11-04,Paracetamol,Normal
+Kevin Adams,54,Male,A-,Hypertension,2019-07-21,Dr. Priya Sharma,Sun Pharma Clinic,Blue Cross,36230.05,114,Emergency,2019-08-03,Atorvastatin,Normal
+Meena Jain,63,Female,O+,Cancer,2020-05-15,Dr. John White,Global Health Center,Blue Cross,12649.26,140,Urgent,2020-05-24,Omeprazole,Inconclusive
+Rachel Carter,48,Female,B+,Cancer,2021-08-02,Dr. Matthew Smith,Sun Pharma Clinic,United Health,35007.83,338,Elective,2021-08-13,Insulin,Normal
+Amit Kumar,74,Female,AB+,Arthritis,2024-05-24,Dr. Matthew Smith,Sun Pharma Clinic,United Health,13964.76,296,Elective,2024-05-31,Paracetamol,Normal
+John Smith,63,Female,AB+,Diabetes,2023-08-27,Dr. John White,Fortis Medical,Aetna,30466.81,451,Urgent,2023-09-07,Metformin,Inconclusive
+Crystal Turner,81,Female,B-,Asthma,2023-07-01,Dr. Sunita Patel,Max Hospital,United Health,35499.4,469,Urgent,2023-07-07,Ibuprofen,Inconclusive
+Vikram Patel,23,Female,O-,Diabetes,2022-04-01,Dr. Amit Verma,Apollo Healthcare,United Health,19702.36,312,Emergency,2022-04-07,Aspirin,Normal
+Daniel Allen,64,Female,B+,Obesity,2024-02-15,Dr. Emily Brown,Fortis Medical,Star Health,41190.46,339,Emergency,2024-02-29,Ibuprofen,Normal
+Rachel Carter,68,Female,A-,Hypertension,2019-01-29,Dr. Michael Johnson,Apollo Healthcare,Max Bupa,21586.35,483,Urgent,2019-02-03,Lisinopril,Inconclusive
+John Smith,65,Male,B-,Hypertension,2019-02-21,Dr. Michael Johnson,Medanta Hospital,Cigna,34144.36,425,Elective,2019-03-03,Lisinopril,Inconclusive
+Michael Johnson,32,Male,A+,Diabetes,2020-09-15,Dr. Priya Sharma,Apollo Healthcare,Cigna,44926.67,169,Elective,2020-09-23,Amoxicillin,Abnormal
+Brian Nelson,71,Male,O+,Arthritis,2019-07-22,Dr. Emily Brown,Global Health Center,HDFC Ergo,47257.39,243,Emergency,2019-08-05,Atorvastatin,Normal
+Chris Martin,74,Male,AB-,Diabetes,2022-11-05,Dr. Michael Johnson,Medanta Hospital,Aetna,22916.28,197,Emergency,2022-11-11,Amoxicillin,Normal
+Brian Nelson,45,Male,A+,Obesity,2020-05-13,Dr. Sarah Wilson,Max Hospital,Medicare,42341.8,383,Emergency,2020-05-16,Salbutamol,Normal
+Manish Pandey,60,Male,A+,Obesity,2023-10-25,Dr. Amit Verma,Rainbow Hospital,United Health,40933.12,156,Urgent,2023-10-28,Metformin,Normal
+Aarav Sharma,63,Male,AB-,Diabetes,2019-12-23,Dr. Rajesh Kumar,AIIMS Delhi,HDFC Ergo,28673.85,481,Emergency,2019-12-28,Amoxicillin,Abnormal
+Melissa Campbell,64,Male,O-,Asthma,2020-03-29,Dr. Rajesh Kumar,Rainbow Hospital,United Health,25611.91,115,Emergency,2020-04-08,Amoxicillin,Abnormal
+Jessica Taylor,31,Female,O-,Diabetes,2024-01-16,Dr. Samantha Davies,Global Health Center,Blue Cross,7955.7,240,Urgent,2024-01-18,Salbutamol,Inconclusive
+Amber Perez,59,Female,AB+,Hypertension,2021-11-01,Dr. John White,Apollo Healthcare,Medicare,43375.67,433,Urgent,2021-11-11,Aspirin,Abnormal
+Chris Martin,47,Female,AB-,Hypertension,2021-03-27,Dr. Priya Sharma,Medanta Hospital,HDFC Ergo,19063.56,230,Elective,2021-04-03,Ibuprofen,Inconclusive
+David Clark,26,Male,A-,Diabetes,2021-06-03,Dr. Samantha Davies,AIIMS Delhi,Aetna,31390.93,387,Urgent,2021-06-05,Atorvastatin,Inconclusive
+Pooja Mehta,70,Female,O+,Arthritis,2019-04-16,Dr. Sarah Wilson,Fortis Medical,Star Health,9662.03,359,Emergency,2019-04-21,Ibuprofen,Inconclusive
+David Clark,46,Male,AB-,Asthma,2021-01-22,Dr. Matthew Smith,Global Health Center,Cigna,41324.96,387,Urgent,2021-01-24,Salbutamol,Inconclusive
+Stephanie Baker,21,Female,A+,Cancer,2020-07-13,Dr. Matthew Smith,Medanta Hospital,Star Health,5274.76,173,Urgent,2020-07-25,Omeprazole,Normal
+Anjali Tiwari,21,Male,B-,Hypertension,2021-05-09,Dr. Samantha Davies,AIIMS Delhi,Star Health,19023.68,266,Urgent,2021-05-17,Salbutamol,Normal
+Sunita Gupta,37,Male,A+,Arthritis,2019-06-17,Dr. Emily Brown,Care Hospital,Max Bupa,32318.42,312,Elective,2019-06-22,Aspirin,Inconclusive
+Pooja Mehta,62,Female,A-,Obesity,2022-10-20,Dr. Sarah Wilson,Sun Pharma Clinic,United Health,7043.78,302,Urgent,2022-10-31,Metformin,Normal
+Deepika Rao,56,Male,B+,Obesity,2020-08-15,Dr. Priya Sharma,City Hospital,Max Bupa,38615.64,189,Emergency,2020-08-21,Omeprazole,Inconclusive
+Amber Perez,47,Female,A-,Hypertension,2023-10-31,Dr. Rajesh Kumar,Care Hospital,Aetna,25688.94,139,Elective,2023-11-12,Salbutamol,Abnormal
+Ryan Scott,69,Female,AB+,Diabetes,2021-04-09,Dr. Samantha Davies,AIIMS Delhi,Max Bupa,42441.17,285,Emergency,2021-04-10,Omeprazole,Normal
+Sneha Iyer,73,Female,A-,Hypertension,2023-11-18,Dr. Samantha Davies,Max Hospital,Star Health,40060.3,139,Urgent,2023-11-23,Paracetamol,Inconclusive
+James Lewis,42,Female,AB-,Arthritis,2024-05-16,Dr. Amit Verma,Max Hospital,Medicare,11589.99,201,Emergency,2024-05-30,Salbutamol,Normal
+Brandon Phillips,27,Male,O-,Hypertension,2023-03-26,Dr. Sarah Wilson,Sun Pharma Clinic,Star Health,43891.11,421,Elective,2023-04-05,Ibuprofen,Abnormal
+Amit Kumar,78,Female,AB+,Obesity,2022-04-26,Dr. Samantha Davies,Rainbow Hospital,Medicare,18968.35,331,Emergency,2022-04-27,Metformin,Abnormal
+Meena Jain,27,Male,O+,Hypertension,2022-04-03,Dr. Rajesh Kumar,Sun Pharma Clinic,Cigna,19468.7,343,Urgent,2022-04-12,Ibuprofen,Normal
+Chris Martin,31,Female,A-,Asthma,2022-08-16,Dr. Rajesh Kumar,Max Hospital,Max Bupa,49594.37,368,Urgent,2022-08-19,Salbutamol,Normal
+Sarah Wilson,65,Female,O+,Hypertension,2023-05-06,Dr. Sarah Wilson,City Hospital,Star Health,7966.03,148,Urgent,2023-05-12,Omeprazole,Abnormal
+Kiran Desai,37,Female,A-,Asthma,2022-09-21,Dr. Samantha Davies,Fortis Medical,HDFC Ergo,10802.82,462,Emergency,2022-09-24,Lisinopril,Inconclusive
+John Smith,60,Male,A-,Arthritis,2022-10-05,Dr. Michael Johnson,Medanta Hospital,Aetna,21316.9,192,Emergency,2022-10-12,Atorvastatin,Abnormal
+Arjun Nair,46,Male,B+,Diabetes,2020-08-28,Dr. Priya Sharma,Rainbow Hospital,Aetna,34786.82,492,Urgent,2020-09-11,Ibuprofen,Inconclusive
+John Smith,37,Male,B+,Arthritis,2023-04-29,Dr. Amit Verma,Sun Pharma Clinic,Aetna,23488.64,446,Urgent,2023-05-09,Aspirin,Abnormal
+Samantha Green,54,Female,B-,Asthma,2020-05-04,Dr. Emily Brown,Max Hospital,Star Health,35523.81,392,Elective,2020-05-09,Amoxicillin,Abnormal
+Melissa Campbell,66,Female,B+,Cancer,2023-06-29,Dr. Amit Verma,Fortis Medical,Aetna,33853.06,290,Urgent,2023-07-09,Paracetamol,Inconclusive
+Megan Walker,33,Female,A-,Cancer,2020-07-12,Dr. Michael Johnson,AIIMS Delhi,HDFC Ergo,9127.11,213,Elective,2020-07-20,Atorvastatin,Normal
+Michael Johnson,24,Female,AB-,Cancer,2021-03-01,Dr. Samantha Davies,Max Hospital,Aetna,19340.82,150,Urgent,2021-03-03,Atorvastatin,Normal
+Suresh Yadav,22,Female,O-,Arthritis,2023-08-30,Dr. Emily Brown,Sun Pharma Clinic,Aetna,45763.59,109,Elective,2023-09-02,Aspirin,Normal
+Ashley Young,85,Female,A-,Obesity,2020-05-01,Dr. Priya Sharma,City Hospital,Cigna,23892.15,418,Elective,2020-05-06,Paracetamol,Normal
+Laura Hall,20,Male,B+,Obesity,2021-05-29,Dr. Sarah Wilson,Medanta Hospital,Cigna,30679.87,195,Urgent,2021-05-30,Paracetamol,Inconclusive
+Sarah Wilson,26,Male,O+,Hypertension,2019-03-31,Dr. John White,Medanta Hospital,United Health,38629.25,282,Emergency,2019-04-11,Atorvastatin,Normal
+Andrew Roberts,31,Female,B+,Diabetes,2020-12-22,Dr. Samantha Davies,AIIMS Delhi,Max Bupa,49136.86,345,Urgent,2020-12-31,Ibuprofen,Normal
+Amit Kumar,76,Male,AB+,Cancer,2019-03-31,Dr. Sunita Patel,City Hospital,Star Health,47001.69,363,Elective,2019-04-13,Insulin,Abnormal
+Kiran Desai,22,Male,AB+,Obesity,2023-11-01,Dr. Rajesh Kumar,Medanta Hospital,United Health,10601.38,288,Elective,2023-11-14,Omeprazole,Inconclusive
+Chris Martin,67,Female,B+,Hypertension,2022-11-18,Dr. Samantha Davies,Rainbow Hospital,United Health,41051.66,472,Elective,2022-11-26,Paracetamol,Abnormal
+Joshua Wright,41,Female,AB-,Diabetes,2019-06-13,Dr. Matthew Smith,Fortis Medical,Max Bupa,32117.97,318,Emergency,2019-06-19,Amoxicillin,Abnormal
+Chris Martin,23,Female,O+,Obesity,2022-08-02,Dr. Rajesh Kumar,Apollo Healthcare,HDFC Ergo,21349.0,483,Urgent,2022-08-15,Ibuprofen,Normal
+Anjali Tiwari,74,Male,B+,Diabetes,2020-04-28,Dr. Samantha Davies,Medanta Hospital,HDFC Ergo,47726.02,116,Urgent,2020-05-11,Ibuprofen,Inconclusive
+Chris Martin,65,Female,O-,Diabetes,2022-03-21,Dr. Michael Johnson,Medanta Hospital,HDFC Ergo,19147.34,242,Emergency,2022-03-24,Paracetamol,Normal
+Crystal Turner,41,Female,O+,Asthma,2019-08-30,Dr. Matthew Smith,Sun Pharma Clinic,Cigna,49836.43,246,Urgent,2019-09-04,Amoxicillin,Normal
+Pooja Mehta,35,Male,O-,Cancer,2024-01-15,Dr. Emily Brown,Apollo Healthcare,Star Health,35052.79,463,Emergency,2024-01-27,Insulin,Inconclusive
+Meena Jain,56,Male,B+,Obesity,2021-11-07,Dr. Priya Sharma,Max Hospital,Blue Cross,15653.13,352,Emergency,2021-11-11,Atorvastatin,Inconclusive
+Ryan Scott,65,Female,B+,Asthma,2023-12-16,Dr. Priya Sharma,Fortis Medical,HDFC Ergo,49981.78,468,Elective,2023-12-18,Insulin,Abnormal
+Melissa Campbell,70,Male,B+,Obesity,2022-08-08,Dr. Emily Brown,Sun Pharma Clinic,Star Health,10775.06,499,Urgent,2022-08-10,Salbutamol,Normal
+Melissa Campbell,34,Female,A+,Diabetes,2021-11-27,Dr. Matthew Smith,AIIMS Delhi,Blue Cross,19519.73,463,Emergency,2021-11-30,Atorvastatin,Inconclusive
+Meena Jain,28,Female,B-,Arthritis,2024-05-12,Dr. Matthew Smith,AIIMS Delhi,United Health,32649.27,147,Urgent,2024-05-21,Ibuprofen,Inconclusive
+Brittany King,37,Male,AB-,Asthma,2019-03-26,Dr. Rajesh Kumar,Apollo Healthcare,Aetna,47684.61,494,Urgent,2019-04-09,Lisinopril,Inconclusive
+Deepika Rao,71,Male,O-,Arthritis,2022-01-22,Dr. Matthew Smith,Sun Pharma Clinic,Cigna,41210.97,450,Elective,2022-01-27,Lisinopril,Abnormal
+Amit Kumar,25,Male,O-,Hypertension,2021-09-18,Dr. Sunita Patel,Medanta Hospital,Blue Cross,19066.21,467,Elective,2021-09-26,Atorvastatin,Abnormal
+Suresh Yadav,65,Male,AB-,Cancer,2021-08-13,Dr. Matthew Smith,Sun Pharma Clinic,Cigna,11339.49,125,Elective,2021-08-15,Omeprazole,Inconclusive
+Michael Johnson,49,Male,AB-,Asthma,2023-01-16,Dr. Sunita Patel,AIIMS Delhi,Max Bupa,49818.62,339,Elective,2023-01-22,Lisinopril,Abnormal
+Priya Singh,29,Female,O-,Cancer,2020-03-16,Dr. Samantha Davies,City Hospital,Aetna,17661.04,405,Urgent,2020-03-26,Amoxicillin,Abnormal
+Daniel Allen,19,Male,O+,Cancer,2023-12-13,Dr. Samantha Davies,Care Hospital,Star Health,7035.91,126,Urgent,2023-12-18,Insulin,Normal
+Sarah Wilson,54,Male,O+,Asthma,2021-07-11,Dr. Michael Johnson,Fortis Medical,Medicare,10789.85,149,Elective,2021-07-24,Atorvastatin,Abnormal
+Ashley Young,64,Male,B-,Asthma,2021-11-08,Dr. Michael Johnson,City Hospital,Aetna,6751.13,465,Elective,2021-11-15,Amoxicillin,Inconclusive
+Amanda White,37,Male,AB-,Asthma,2020-10-14,Dr. John White,Global Health Center,United Health,31717.61,359,Urgent,2020-10-17,Insulin,Abnormal
+Amber Perez,56,Female,A+,Obesity,2020-11-09,Dr. Priya Sharma,Care Hospital,United Health,40853.97,471,Urgent,2020-11-20,Metformin,Inconclusive
+David Clark,51,Male,A+,Asthma,2021-09-10,Dr. Michael Johnson,Global Health Center,HDFC Ergo,11649.91,448,Emergency,2021-09-13,Metformin,Inconclusive
+Justin Mitchell,32,Male,A+,Hypertension,2020-10-04,Dr. Amit Verma,Care Hospital,Cigna,23466.98,496,Urgent,2020-10-11,Amoxicillin,Inconclusive
+Andrew Roberts,25,Male,B-,Asthma,2020-10-27,Dr. Emily Brown,Rainbow Hospital,HDFC Ergo,19118.87,188,Elective,2020-11-07,Insulin,Abnormal
+Daniel Allen,63,Female,O-,Cancer,2024-05-14,Dr. Matthew Smith,Rainbow Hospital,United Health,15119.02,252,Elective,2024-05-18,Aspirin,Inconclusive
+Amber Perez,80,Female,O-,Obesity,2022-02-21,Dr. Matthew Smith,Fortis Medical,Medicare,30806.46,378,Elective,2022-03-08,Omeprazole,Abnormal
+Melissa Campbell,36,Female,A+,Obesity,2024-05-10,Dr. Priya Sharma,Medanta Hospital,Max Bupa,34518.74,482,Elective,2024-05-22,Aspirin,Normal
+Daniel Allen,52,Female,B+,Diabetes,2022-06-14,Dr. Sarah Wilson,Max Hospital,Cigna,7284.44,371,Emergency,2022-06-26,Aspirin,Normal
+Vikram Patel,70,Female,O-,Diabetes,2022-10-27,Dr. Amit Verma,City Hospital,Blue Cross,23310.84,343,Elective,2022-11-09,Aspirin,Abnormal
+Bobby Jackson,54,Male,A-,Arthritis,2022-03-21,Dr. Michael Johnson,City Hospital,Blue Cross,23804.82,190,Emergency,2022-03-25,Omeprazole,Abnormal
+Kavita Dubey,55,Male,A+,Obesity,2022-03-09,Dr. Priya Sharma,Medanta Hospital,United Health,25445.71,428,Urgent,2022-03-19,Insulin,Abnormal
+Suresh Yadav,82,Female,AB+,Cancer,2023-07-15,Dr. Samantha Davies,AIIMS Delhi,Max Bupa,34172.84,467,Emergency,2023-07-17,Metformin,Inconclusive
+Leslie Terry,55,Male,B+,Asthma,2023-10-20,Dr. John White,Care Hospital,Star Health,8903.2,442,Emergency,2023-10-31,Ibuprofen,Normal
+David Clark,59,Male,A+,Obesity,2021-02-24,Dr. Emily Brown,Fortis Medical,Star Health,18587.56,470,Urgent,2021-02-28,Metformin,Abnormal
+Stephanie Baker,64,Male,A+,Arthritis,2019-08-31,Dr. Matthew Smith,AIIMS Delhi,HDFC Ergo,35873.31,460,Elective,2019-09-08,Paracetamol,Inconclusive
+Meena Jain,65,Male,B-,Cancer,2021-09-06,Dr. Emily Brown,Global Health Center,Star Health,23713.05,381,Elective,2021-09-09,Insulin,Inconclusive
+Deepika Rao,49,Male,O-,Asthma,2022-12-12,Dr. Priya Sharma,Global Health Center,Medicare,7779.11,380,Urgent,2022-12-18,Aspirin,Inconclusive
+Daniel Allen,37,Male,AB-,Asthma,2021-06-23,Dr. Sunita Patel,Global Health Center,Max Bupa,9092.37,361,Elective,2021-06-25,Metformin,Abnormal
+Suresh Yadav,83,Female,O-,Asthma,2019-04-29,Dr. Emily Brown,Fortis Medical,Aetna,22817.69,101,Urgent,2019-05-08,Aspirin,Inconclusive
+Amit Kumar,23,Female,AB-,Arthritis,2019-05-11,Dr. Rajesh Kumar,Apollo Healthcare,Max Bupa,6428.07,309,Emergency,2019-05-20,Ibuprofen,Inconclusive
+Andrew Roberts,71,Female,O+,Hypertension,2023-11-16,Dr. John White,Care Hospital,Medicare,35722.87,438,Urgent,2023-12-01,Ibuprofen,Inconclusive
+Matthew Brown,33,Male,O+,Asthma,2019-09-18,Dr. Sunita Patel,City Hospital,Aetna,49032.08,337,Urgent,2019-09-30,Insulin,Abnormal
+Daniel Allen,66,Male,B-,Hypertension,2020-12-09,Dr. Matthew Smith,Max Hospital,Medicare,6449.78,438,Elective,2020-12-12,Salbutamol,Normal
+Sneha Iyer,44,Male,A-,Asthma,2019-03-10,Dr. Sarah Wilson,City Hospital,Cigna,38324.35,305,Elective,2019-03-18,Aspirin,Inconclusive
+Deepika Rao,25,Male,AB+,Cancer,2023-07-29,Dr. Sarah Wilson,Medanta Hospital,Star Health,15660.68,173,Urgent,2023-08-13,Insulin,Normal
+Michael Johnson,56,Female,A+,Asthma,2024-04-26,Dr. Amit Verma,Care Hospital,Max Bupa,7109.78,276,Urgent,2024-05-06,Omeprazole,Inconclusive
+Bobby Jackson,71,Female,B+,Obesity,2021-02-09,Dr. Michael Johnson,Sun Pharma Clinic,Cigna,43220.34,253,Urgent,2021-02-12,Ibuprofen,Abnormal
+Sunita Gupta,70,Female,B+,Hypertension,2020-05-12,Dr. Sunita Patel,Medanta Hospital,Medicare,46500.17,289,Emergency,2020-05-17,Insulin,Inconclusive
+Arjun Nair,24,Female,O+,Arthritis,2022-05-23,Dr. Rajesh Kumar,Apollo Healthcare,Cigna,41209.28,400,Urgent,2022-06-02,Insulin,Normal
+David Clark,44,Female,AB+,Diabetes,2020-03-09,Dr. Sunita Patel,Apollo Healthcare,Max Bupa,46149.86,456,Urgent,2020-03-24,Aspirin,Abnormal
+Sneha Iyer,59,Female,O+,Hypertension,2021-12-28,Dr. Samantha Davies,Fortis Medical,United Health,21184.01,354,Elective,2022-01-08,Paracetamol,Inconclusive
+David Clark,58,Male,AB-,Obesity,2021-04-27,Dr. Sarah Wilson,Max Hospital,Blue Cross,5729.9,383,Urgent,2021-04-28,Salbutamol,Inconclusive
+Michael Johnson,55,Male,B-,Obesity,2020-04-16,Dr. Sarah Wilson,Max Hospital,Max Bupa,29778.91,450,Elective,2020-04-23,Lisinopril,Abnormal
+Andrew Roberts,80,Female,B+,Arthritis,2023-06-17,Dr. Amit Verma,AIIMS Delhi,Max Bupa,13282.15,377,Urgent,2023-06-23,Metformin,Inconclusive
+Rohit Verma,27,Male,A+,Hypertension,2019-10-09,Dr. Sunita Patel,Apollo Healthcare,Blue Cross,5411.37,358,Elective,2019-10-23,Atorvastatin,Normal
+Samantha Green,79,Female,A+,Diabetes,2021-12-25,Dr. John White,City Hospital,Aetna,28823.79,240,Urgent,2022-01-03,Lisinopril,Normal
+James Lewis,73,Male,A-,Diabetes,2021-12-09,Dr. Sunita Patel,Max Hospital,United Health,41684.65,236,Elective,2021-12-12,Paracetamol,Abnormal
+Emily Davis,76,Male,B-,Obesity,2022-11-01,Dr. Priya Sharma,City Hospital,Medicare,23237.52,293,Urgent,2022-11-15,Amoxicillin,Normal
+Kevin Adams,19,Male,A-,Hypertension,2023-09-28,Dr. Samantha Davies,Global Health Center,Medicare,45265.6,121,Emergency,2023-10-05,Aspirin,Inconclusive
+Ryan Scott,78,Female,A+,Diabetes,2022-11-02,Dr. Matthew Smith,Rainbow Hospital,Aetna,13070.95,261,Emergency,2022-11-17,Aspirin,Inconclusive
+Anjali Tiwari,68,Male,AB+,Cancer,2022-02-28,Dr. Sarah Wilson,Care Hospital,Star Health,22273.08,478,Emergency,2022-03-04,Paracetamol,Inconclusive
+Crystal Turner,62,Male,A-,Hypertension,2020-04-20,Dr. Priya Sharma,Medanta Hospital,HDFC Ergo,48601.42,267,Emergency,2020-05-04,Lisinopril,Abnormal
+Laura Hall,47,Female,O+,Hypertension,2020-01-16,Dr. Sarah Wilson,Care Hospital,Medicare,39747.53,251,Emergency,2020-01-27,Paracetamol,Normal
+Rahul Sinha,37,Female,B+,Arthritis,2021-03-08,Dr. Samantha Davies,Apollo Healthcare,Medicare,5233.79,257,Elective,2021-03-14,Atorvastatin,Abnormal
+Vikram Patel,34,Male,B+,Hypertension,2021-07-08,Dr. Michael Johnson,Rainbow Hospital,HDFC Ergo,9648.18,145,Elective,2021-07-17,Insulin,Normal
+Joshua Wright,59,Female,A+,Obesity,2021-04-27,Dr. Priya Sharma,Rainbow Hospital,Cigna,30738.22,186,Urgent,2021-05-04,Omeprazole,Normal
+Suresh Yadav,52,Female,AB+,Hypertension,2019-10-26,Dr. Amit Verma,Care Hospital,United Health,23949.61,347,Emergency,2019-10-28,Atorvastatin,Abnormal
+Sneha Iyer,81,Male,O-,Diabetes,2019-10-05,Dr. Rajesh Kumar,Care Hospital,Star Health,42872.6,294,Elective,2019-10-10,Amoxicillin,Abnormal
+Jessica Taylor,35,Female,AB-,Asthma,2024-04-24,Dr. Sunita Patel,Sun Pharma Clinic,Star Health,12993.68,303,Elective,2024-05-06,Lisinopril,Inconclusive
+Justin Mitchell,80,Male,AB-,Hypertension,2020-07-28,Dr. John White,Medanta Hospital,Medicare,46943.02,202,Urgent,2020-08-11,Insulin,Normal
+Rachel Carter,21,Female,B-,Hypertension,2023-06-22,Dr. Priya Sharma,Care Hospital,Max Bupa,11263.06,255,Emergency,2023-06-27,Lisinopril,Inconclusive
+Anjali Tiwari,72,Female,A-,Hypertension,2022-05-09,Dr. Sarah Wilson,Care Hospital,HDFC Ergo,29464.03,284,Urgent,2022-05-17,Insulin,Inconclusive
+Kevin Adams,28,Male,B-,Arthritis,2022-09-23,Dr. Amit Verma,Global Health Center,Aetna,30344.91,430,Urgent,2022-09-29,Omeprazole,Abnormal
+Jessica Taylor,31,Male,A-,Obesity,2020-03-30,Dr. Michael Johnson,Rainbow Hospital,Cigna,25060.03,300,Elective,2020-04-08,Salbutamol,Inconclusive
+James Lewis,37,Female,A+,Hypertension,2019-08-03,Dr. John White,Apollo Healthcare,Medicare,42409.3,473,Emergency,2019-08-08,Atorvastatin,Abnormal
+Leslie Terry,76,Male,O-,Obesity,2021-09-02,Dr. Emily Brown,Sun Pharma Clinic,Star Health,8022.85,122,Urgent,2021-09-04,Paracetamol,Normal
+Leslie Terry,31,Male,B-,Asthma,2019-12-24,Dr. Amit Verma,Medanta Hospital,HDFC Ergo,48130.82,218,Elective,2020-01-02,Ibuprofen,Normal
+Kevin Adams,73,Female,A+,Arthritis,2022-06-11,Dr. Sunita Patel,Sun Pharma Clinic,HDFC Ergo,22497.61,460,Emergency,2022-06-26,Aspirin,Abnormal
+Brandon Phillips,26,Male,B+,Obesity,2020-10-29,Dr. Emily Brown,Apollo Healthcare,United Health,35181.56,350,Urgent,2020-11-02,Atorvastatin,Inconclusive
+John Smith,68,Male,AB-,Obesity,2023-09-28,Dr. Sarah Wilson,AIIMS Delhi,United Health,46340.72,402,Emergency,2023-10-06,Ibuprofen,Abnormal
+Pooja Mehta,48,Female,A-,Cancer,2021-02-03,Dr. Amit Verma,Rainbow Hospital,HDFC Ergo,23820.76,170,Urgent,2021-02-15,Omeprazole,Abnormal
+Kavita Dubey,80,Male,B+,Hypertension,2020-08-14,Dr. Amit Verma,Medanta Hospital,Max Bupa,32873.45,283,Emergency,2020-08-17,Amoxicillin,Normal
+Arjun Nair,67,Female,O+,Arthritis,2021-10-04,Dr. Emily Brown,Sun Pharma Clinic,Blue Cross,8720.18,115,Emergency,2021-10-11,Lisinopril,Normal
+Rahul Sinha,46,Female,B+,Hypertension,2022-03-04,Dr. Emily Brown,Rainbow Hospital,Medicare,30772.13,237,Urgent,2022-03-16,Atorvastatin,Inconclusive
+Brandon Phillips,23,Female,B-,Hypertension,2019-07-29,Dr. Sunita Patel,Fortis Medical,Aetna,25237.96,278,Emergency,2019-08-10,Amoxicillin,Normal
+Melissa Campbell,48,Male,AB-,Arthritis,2022-06-03,Dr. John White,AIIMS Delhi,Blue Cross,40318.22,205,Emergency,2022-06-14,Salbutamol,Abnormal
+Daniel Allen,53,Male,AB-,Arthritis,2020-08-22,Dr. Sarah Wilson,Fortis Medical,Medicare,11101.5,484,Elective,2020-08-27,Metformin,Abnormal
+Stephanie Baker,34,Male,B-,Cancer,2022-12-27,Dr. Sunita Patel,Care Hospital,Max Bupa,11397.72,423,Elective,2023-01-02,Omeprazole,Abnormal
+Chris Martin,27,Male,O+,Asthma,2023-03-16,Dr. Samantha Davies,Sun Pharma Clinic,Max Bupa,19728.02,101,Urgent,2023-03-21,Paracetamol,Inconclusive
+Amanda White,63,Male,O+,Cancer,2024-06-05,Dr. Sunita Patel,Sun Pharma Clinic,United Health,19528.93,245,Elective,2024-06-12,Insulin,Inconclusive
+Suresh Yadav,80,Female,A+,Diabetes,2019-07-23,Dr. Emily Brown,City Hospital,Medicare,46824.48,180,Elective,2019-08-03,Amoxicillin,Normal
+Jessica Taylor,43,Male,AB+,Cancer,2023-11-26,Dr. Matthew Smith,Apollo Healthcare,Star Health,16267.52,290,Urgent,2023-12-11,Ibuprofen,Normal
+Emily Davis,57,Male,O+,Arthritis,2019-07-06,Dr. Priya Sharma,City Hospital,Cigna,26456.3,167,Urgent,2019-07-18,Aspirin,Inconclusive
+Rachel Carter,74,Male,A+,Arthritis,2020-12-04,Dr. Priya Sharma,Care Hospital,Blue Cross,26496.51,217,Elective,2020-12-18,Paracetamol,Inconclusive
+Vikram Patel,31,Female,AB-,Obesity,2019-10-08,Dr. Amit Verma,AIIMS Delhi,Medicare,28872.87,104,Urgent,2019-10-15,Ibuprofen,Abnormal
+Matthew Brown,45,Male,O+,Asthma,2022-11-07,Dr. Sunita Patel,Apollo Healthcare,Medicare,11300.59,163,Urgent,2022-11-15,Omeprazole,Abnormal
+Jessica Taylor,58,Male,B-,Obesity,2022-08-13,Dr. Sunita Patel,Rainbow Hospital,United Health,40053.63,453,Emergency,2022-08-15,Lisinopril,Normal
+Megan Walker,83,Male,O+,Obesity,2022-08-16,Dr. Sunita Patel,Sun Pharma Clinic,HDFC Ergo,10073.46,355,Urgent,2022-08-17,Salbutamol,Normal
+Megan Walker,19,Female,AB-,Cancer,2021-03-03,Dr. Sarah Wilson,Care Hospital,Star Health,29586.03,188,Elective,2021-03-17,Paracetamol,Normal
+Brittany King,26,Male,AB+,Cancer,2019-03-23,Dr. Rajesh Kumar,Care Hospital,United Health,33285.68,356,Elective,2019-04-07,Omeprazole,Inconclusive
+Emily Davis,28,Male,AB+,Diabetes,2020-09-26,Dr. Michael Johnson,Max Hospital,Blue Cross,29137.56,300,Urgent,2020-09-28,Paracetamol,Abnormal
+Justin Mitchell,73,Male,A+,Cancer,2019-06-26,Dr. John White,Apollo Healthcare,Max Bupa,32553.36,128,Elective,2019-07-11,Ibuprofen,Normal
+Aarav Sharma,35,Male,B+,Hypertension,2024-05-05,Dr. Michael Johnson,Rainbow Hospital,United Health,12513.33,164,Urgent,2024-05-11,Lisinopril,Inconclusive
+Pooja Mehta,21,Female,O+,Obesity,2021-12-08,Dr. Matthew Smith,Global Health Center,Medicare,27326.64,361,Elective,2021-12-10,Metformin,Abnormal
+Ryan Scott,39,Female,B+,Obesity,2023-05-03,Dr. Sarah Wilson,Apollo Healthcare,Cigna,38335.1,101,Emergency,2023-05-05,Metformin,Normal
+Rohit Verma,78,Female,O+,Cancer,2020-01-02,Dr. Rajesh Kumar,Rainbow Hospital,HDFC Ergo,15103.19,227,Elective,2020-01-17,Atorvastatin,Abnormal
+Amit Kumar,65,Male,A+,Cancer,2020-04-02,Dr. Michael Johnson,City Hospital,HDFC Ergo,8101.69,338,Elective,2020-04-15,Lisinopril,Abnormal
+Neha Joshi,76,Male,AB-,Cancer,2020-08-20,Dr. Matthew Smith,Global Health Center,Cigna,25876.7,402,Elective,2020-08-30,Aspirin,Inconclusive
+Daniel Allen,49,Male,A+,Hypertension,2019-02-18,Dr. Michael Johnson,Medanta Hospital,Aetna,47794.56,100,Urgent,2019-02-22,Omeprazole,Inconclusive
+Andrew Roberts,57,Male,B-,Asthma,2020-05-02,Dr. Emily Brown,City Hospital,Blue Cross,37024.36,147,Emergency,2020-05-09,Aspirin,Inconclusive
+Michael Johnson,65,Female,A-,Asthma,2019-07-15,Dr. Amit Verma,Care Hospital,Medicare,31635.31,131,Elective,2019-07-24,Ibuprofen,Normal
+Meena Jain,51,Female,O+,Arthritis,2023-08-31,Dr. Samantha Davies,Medanta Hospital,Max Bupa,17238.01,138,Emergency,2023-09-12,Ibuprofen,Inconclusive
+Vikram Patel,37,Male,B+,Hypertension,2021-08-12,Dr. John White,Apollo Healthcare,Star Health,48408.56,206,Elective,2021-08-18,Lisinopril,Abnormal
+Kiran Desai,33,Male,B+,Arthritis,2020-09-15,Dr. Sarah Wilson,City Hospital,Cigna,42616.61,267,Emergency,2020-09-29,Paracetamol,Inconclusive
+Sneha Iyer,63,Female,A+,Arthritis,2020-09-04,Dr. Amit Verma,City Hospital,HDFC Ergo,43457.06,384,Urgent,2020-09-09,Insulin,Normal
+Vikram Patel,77,Male,B+,Diabetes,2019-01-25,Dr. Sunita Patel,AIIMS Delhi,Cigna,42065.3,290,Urgent,2019-01-26,Paracetamol,Inconclusive
+Brittany King,51,Male,A+,Diabetes,2020-02-09,Dr. Emily Brown,AIIMS Delhi,Medicare,45728.51,269,Emergency,2020-02-24,Metformin,Abnormal
+Sunita Gupta,39,Female,O+,Hypertension,2019-03-02,Dr. John White,AIIMS Delhi,Star Health,14662.22,195,Elective,2019-03-09,Lisinopril,Abnormal
+Anjali Tiwari,22,Male,AB+,Hypertension,2021-04-23,Dr. Michael Johnson,Sun Pharma Clinic,Aetna,8947.47,296,Emergency,2021-05-08,Omeprazole,Normal
+Stephanie Baker,85,Male,A+,Hypertension,2023-05-21,Dr. Samantha Davies,Sun Pharma Clinic,Max Bupa,20481.54,389,Urgent,2023-06-02,Atorvastatin,Abnormal
+Rahul Sinha,41,Male,AB-,Asthma,2020-03-24,Dr. Matthew Smith,City Hospital,Max Bupa,28824.45,492,Urgent,2020-03-25,Aspirin,Normal
+Vikram Patel,49,Male,AB+,Asthma,2023-07-30,Dr. Rajesh Kumar,Max Hospital,HDFC Ergo,20966.21,188,Emergency,2023-08-12,Aspirin,Inconclusive
+Bobby Jackson,63,Male,AB-,Asthma,2022-02-28,Dr. Sarah Wilson,Max Hospital,Max Bupa,29395.61,189,Elective,2022-03-03,Metformin,Normal
+Sunita Gupta,47,Male,A+,Asthma,2021-09-05,Dr. Samantha Davies,Global Health Center,Cigna,41290.04,274,Urgent,2021-09-06,Ibuprofen,Abnormal
+Sunita Gupta,20,Male,B+,Diabetes,2023-09-30,Dr. Samantha Davies,Apollo Healthcare,Star Health,36704.21,439,Elective,2023-10-09,Salbutamol,Normal
+Leslie Terry,56,Female,B+,Cancer,2023-02-08,Dr. Emily Brown,Medanta Hospital,Blue Cross,36823.23,387,Urgent,2023-02-15,Salbutamol,Abnormal
+Manish Pandey,40,Female,AB+,Arthritis,2022-11-11,Dr. Amit Verma,AIIMS Delhi,Aetna,47695.46,393,Elective,2022-11-16,Salbutamol,Normal
+Kavita Dubey,58,Male,A-,Hypertension,2019-10-16,Dr. Priya Sharma,Max Hospital,Star Health,49207.08,185,Urgent,2019-10-22,Paracetamol,Inconclusive
+Brian Nelson,60,Female,A+,Obesity,2020-03-05,Dr. Priya Sharma,Medanta Hospital,United Health,40415.9,468,Emergency,2020-03-09,Metformin,Abnormal
+Chris Martin,71,Male,O+,Hypertension,2023-12-11,Dr. Samantha Davies,Rainbow Hospital,HDFC Ergo,9564.29,345,Urgent,2023-12-18,Aspirin,Normal
+Chris Martin,27,Male,AB+,Diabetes,2020-10-14,Dr. Priya Sharma,Apollo Healthcare,Star Health,12654.73,292,Emergency,2020-10-19,Paracetamol,Inconclusive
+Neha Joshi,61,Female,A+,Hypertension,2024-04-14,Dr. Amit Verma,Global Health Center,HDFC Ergo,12069.67,151,Elective,2024-04-25,Aspirin,Normal
+Michael Johnson,51,Female,AB+,Cancer,2019-07-16,Dr. John White,Global Health Center,Max Bupa,11911.55,284,Emergency,2019-07-17,Omeprazole,Normal
+Meena Jain,79,Male,A-,Diabetes,2020-02-28,Dr. Matthew Smith,Apollo Healthcare,Max Bupa,42969.61,257,Elective,2020-03-02,Amoxicillin,Abnormal
+Brian Nelson,51,Male,O+,Cancer,2021-01-29,Dr. John White,Medanta Hospital,Blue Cross,25059.89,234,Elective,2021-02-13,Amoxicillin,Abnormal
+Manish Pandey,52,Male,B+,Arthritis,2022-09-28,Dr. Priya Sharma,Medanta Hospital,HDFC Ergo,48681.75,401,Emergency,2022-09-30,Insulin,Normal
+John Smith,84,Female,O-,Asthma,2023-12-11,Dr. Emily Brown,Fortis Medical,Medicare,22766.2,465,Emergency,2023-12-15,Insulin,Inconclusive
+Megan Walker,36,Male,O-,Cancer,2024-04-27,Dr. Sunita Patel,Max Hospital,Blue Cross,6920.42,140,Urgent,2024-04-30,Omeprazole,Normal
+Kevin Adams,36,Female,AB-,Arthritis,2024-02-16,Dr. Priya Sharma,Apollo Healthcare,HDFC Ergo,30036.39,382,Elective,2024-02-29,Lisinopril,Inconclusive
+Amanda White,19,Female,A-,Hypertension,2019-11-03,Dr. Sarah Wilson,Global Health Center,Medicare,46621.77,388,Emergency,2019-11-06,Lisinopril,Inconclusive
+Matthew Brown,70,Female,O+,Arthritis,2021-09-21,Dr. Sarah Wilson,Sun Pharma Clinic,Aetna,12748.99,306,Emergency,2021-10-01,Salbutamol,Inconclusive
+Rachel Carter,69,Male,O+,Obesity,2022-11-15,Dr. Rajesh Kumar,Sun Pharma Clinic,United Health,45366.41,110,Elective,2022-11-19,Lisinopril,Abnormal
+Rahul Sinha,80,Male,B-,Cancer,2020-09-07,Dr. Emily Brown,Medanta Hospital,United Health,37795.97,409,Urgent,2020-09-19,Paracetamol,Normal
+Chris Martin,45,Female,O-,Asthma,2023-11-12,Dr. Rajesh Kumar,Rainbow Hospital,Blue Cross,7952.76,463,Urgent,2023-11-18,Omeprazole,Normal
+Melissa Campbell,85,Male,B+,Cancer,2023-11-28,Dr. Sunita Patel,City Hospital,Cigna,6488.2,125,Elective,2023-12-12,Aspirin,Abnormal
+Sarah Wilson,77,Female,A-,Arthritis,2019-03-04,Dr. Samantha Davies,Sun Pharma Clinic,Max Bupa,12991.27,342,Urgent,2019-03-08,Insulin,Abnormal
+Matthew Brown,38,Female,A-,Obesity,2019-02-26,Dr. Rajesh Kumar,AIIMS Delhi,Cigna,43570.0,431,Emergency,2019-03-05,Aspirin,Abnormal
+Stephanie Baker,70,Male,A+,Hypertension,2024-02-10,Dr. Amit Verma,Global Health Center,Aetna,15069.65,411,Elective,2024-02-13,Lisinopril,Abnormal
+John Smith,62,Female,AB+,Cancer,2021-08-13,Dr. Michael Johnson,Global Health Center,HDFC Ergo,31301.92,103,Urgent,2021-08-18,Atorvastatin,Inconclusive
+Stephanie Baker,54,Female,A-,Hypertension,2019-05-11,Dr. Matthew Smith,Medanta Hospital,United Health,16751.61,464,Urgent,2019-05-17,Lisinopril,Normal
+Anjali Tiwari,84,Male,A+,Asthma,2021-04-07,Dr. Samantha Davies,AIIMS Delhi,Aetna,34493.03,251,Elective,2021-04-18,Omeprazole,Abnormal
+John Smith,22,Male,AB-,Arthritis,2022-12-31,Dr. Michael Johnson,Sun Pharma Clinic,Star Health,27829.17,187,Urgent,2023-01-04,Insulin,Normal
+Meena Jain,30,Female,B+,Arthritis,2020-06-13,Dr. Michael Johnson,AIIMS Delhi,Star Health,34449.56,213,Elective,2020-06-25,Aspirin,Inconclusive
+Anil Chauhan,71,Female,AB-,Obesity,2022-04-14,Dr. Emily Brown,Apollo Healthcare,Max Bupa,7415.46,424,Urgent,2022-04-19,Salbutamol,Inconclusive
+Amit Kumar,78,Male,A-,Arthritis,2021-02-20,Dr. Matthew Smith,Care Hospital,Aetna,44188.21,177,Emergency,2021-03-01,Aspirin,Abnormal
+Michael Johnson,76,Male,AB-,Arthritis,2020-01-05,Dr. Priya Sharma,Sun Pharma Clinic,Star Health,33396.47,190,Elective,2020-01-18,Metformin,Normal
+Chris Martin,53,Male,B+,Asthma,2023-04-15,Dr. Emily Brown,Apollo Healthcare,Blue Cross,32651.59,424,Elective,2023-04-18,Omeprazole,Abnormal
+David Clark,67,Male,A+,Asthma,2020-02-13,Dr. Samantha Davies,City Hospital,Star Health,39058.15,371,Emergency,2020-02-25,Metformin,Inconclusive
+Aarav Sharma,49,Male,AB-,Obesity,2019-09-22,Dr. John White,Rainbow Hospital,United Health,12515.91,123,Elective,2019-09-24,Lisinopril,Abnormal
+Andrew Roberts,84,Female,O+,Arthritis,2019-10-02,Dr. Emily Brown,Medanta Hospital,Cigna,12419.76,306,Emergency,2019-10-08,Aspirin,Normal
+Andrew Roberts,34,Male,A+,Asthma,2021-10-30,Dr. Priya Sharma,Medanta Hospital,Aetna,21883.66,427,Elective,2021-11-02,Insulin,Inconclusive
+Sunita Gupta,24,Male,A+,Diabetes,2022-11-13,Dr. John White,Sun Pharma Clinic,HDFC Ergo,10561.78,229,Elective,2022-11-15,Ibuprofen,Normal
+Justin Mitchell,19,Female,O+,Arthritis,2019-07-26,Dr. Michael Johnson,Fortis Medical,Blue Cross,23847.16,153,Urgent,2019-08-06,Salbutamol,Normal
+Meena Jain,32,Male,O-,Cancer,2022-06-01,Dr. Matthew Smith,Rainbow Hospital,Cigna,21106.48,309,Elective,2022-06-05,Ibuprofen,Normal
+Ashley Young,81,Male,O-,Obesity,2020-04-25,Dr. Rajesh Kumar,Apollo Healthcare,Medicare,42585.45,442,Elective,2020-04-26,Ibuprofen,Normal
+Melissa Campbell,83,Male,A-,Obesity,2022-08-12,Dr. Emily Brown,Fortis Medical,United Health,25892.48,151,Emergency,2022-08-16,Metformin,Abnormal
+Sarah Wilson,58,Female,A-,Diabetes,2023-10-10,Dr. Rajesh Kumar,City Hospital,Blue Cross,34850.98,187,Elective,2023-10-23,Atorvastatin,Abnormal
+Samantha Green,52,Male,AB-,Obesity,2020-01-10,Dr. John White,Care Hospital,Max Bupa,17232.49,297,Urgent,2020-01-12,Amoxicillin,Abnormal
+Stephanie Baker,39,Male,B+,Arthritis,2023-01-27,Dr. Amit Verma,Apollo Healthcare,HDFC Ergo,46005.2,347,Urgent,2023-01-28,Amoxicillin,Normal
+Samantha Green,66,Female,A+,Arthritis,2023-12-08,Dr. Amit Verma,Sun Pharma Clinic,Max Bupa,10082.19,310,Elective,2023-12-22,Metformin,Normal
+Kiran Desai,58,Male,B-,Arthritis,2023-11-24,Dr. Michael Johnson,Rainbow Hospital,Medicare,24478.16,472,Emergency,2023-11-30,Amoxicillin,Abnormal
+Brian Nelson,67,Male,A+,Diabetes,2022-08-10,Dr. Amit Verma,Rainbow Hospital,Max Bupa,43334.2,184,Emergency,2022-08-25,Amoxicillin,Abnormal
+Sneha Iyer,60,Female,A+,Asthma,2020-04-01,Dr. John White,Care Hospital,Cigna,8547.38,327,Urgent,2020-04-10,Amoxicillin,Normal
+Laura Hall,75,Female,A-,Hypertension,2023-03-07,Dr. Rajesh Kumar,Apollo Healthcare,HDFC Ergo,23555.23,385,Urgent,2023-03-18,Metformin,Normal
+Joshua Wright,56,Male,O-,Obesity,2021-01-14,Dr. Rajesh Kumar,Max Hospital,Max Bupa,19938.77,492,Urgent,2021-01-28,Salbutamol,Abnormal
+Amber Perez,64,Female,A-,Diabetes,2023-04-05,Dr. Sunita Patel,City Hospital,Star Health,20981.25,424,Elective,2023-04-16,Insulin,Inconclusive
+Sarah Wilson,31,Male,B+,Hypertension,2019-10-15,Dr. John White,Apollo Healthcare,United Health,32488.33,196,Emergency,2019-10-29,Omeprazole,Normal
+Amanda White,42,Female,A-,Hypertension,2019-04-06,Dr. Sarah Wilson,Apollo Healthcare,Max Bupa,25582.45,401,Urgent,2019-04-21,Ibuprofen,Abnormal
+Aarav Sharma,85,Male,O+,Asthma,2021-09-16,Dr. Michael Johnson,AIIMS Delhi,Blue Cross,37872.26,165,Emergency,2021-10-01,Omeprazole,Inconclusive
+Joshua Wright,59,Female,O+,Asthma,2024-02-19,Dr. Sunita Patel,Fortis Medical,HDFC Ergo,48361.71,250,Elective,2024-03-02,Ibuprofen,Normal
+Michael Johnson,83,Female,AB-,Arthritis,2023-02-18,Dr. Michael Johnson,Max Hospital,Cigna,14437.07,465,Elective,2023-03-05,Atorvastatin,Inconclusive
+Suresh Yadav,40,Female,A-,Obesity,2022-02-25,Dr. Sarah Wilson,Global Health Center,HDFC Ergo,35340.96,373,Elective,2022-03-05,Omeprazole,Normal
+Megan Walker,31,Male,O+,Cancer,2019-04-19,Dr. Rajesh Kumar,Max Hospital,United Health,38758.33,182,Elective,2019-04-30,Lisinopril,Normal
+Sunita Gupta,55,Male,A+,Obesity,2023-07-26,Dr. Priya Sharma,Global Health Center,Cigna,38408.57,387,Elective,2023-08-03,Aspirin,Inconclusive
+Justin Mitchell,54,Male,O+,Hypertension,2021-05-03,Dr. Samantha Davies,Rainbow Hospital,Aetna,5583.44,228,Emergency,2021-05-16,Salbutamol,Abnormal
+Manish Pandey,65,Male,B-,Obesity,2021-07-08,Dr. Priya Sharma,AIIMS Delhi,Blue Cross,38078.58,161,Elective,2021-07-11,Metformin,Abnormal
+Rahul Sinha,51,Male,B+,Asthma,2023-09-29,Dr. Rajesh Kumar,Medanta Hospital,Max Bupa,36936.02,179,Emergency,2023-10-04,Ibuprofen,Abnormal
+Joshua Wright,24,Female,O-,Asthma,2022-01-31,Dr. Priya Sharma,Medanta Hospital,Cigna,48064.45,366,Emergency,2022-02-06,Insulin,Normal
+Michael Johnson,69,Male,AB-,Cancer,2023-12-15,Dr. Samantha Davies,Medanta Hospital,Star Health,18210.85,485,Urgent,2023-12-19,Insulin,Abnormal
+Ashley Young,19,Male,AB-,Hypertension,2020-05-07,Dr. Sarah Wilson,Global Health Center,Cigna,48150.36,449,Elective,2020-05-22,Omeprazole,Normal
+John Smith,50,Female,A+,Asthma,2023-08-11,Dr. Samantha Davies,Rainbow Hospital,Max Bupa,26906.21,251,Urgent,2023-08-24,Aspirin,Abnormal
+James Lewis,28,Male,B+,Asthma,2021-12-28,Dr. Priya Sharma,Max Hospital,Cigna,43922.79,317,Emergency,2021-12-29,Aspirin,Inconclusive
+Justin Mitchell,73,Male,B+,Diabetes,2021-07-29,Dr. Samantha Davies,City Hospital,Medicare,8296.16,191,Elective,2021-08-10,Insulin,Normal
+Ryan Scott,47,Female,O+,Hypertension,2021-07-12,Dr. John White,Care Hospital,Star Health,5760.09,444,Emergency,2021-07-23,Insulin,Normal
+Stephanie Baker,26,Male,A-,Obesity,2024-03-15,Dr. Priya Sharma,Fortis Medical,United Health,32295.46,244,Elective,2024-03-24,Omeprazole,Abnormal
+Brian Nelson,21,Female,B+,Asthma,2020-03-26,Dr. John White,Rainbow Hospital,United Health,48206.04,173,Elective,2020-03-29,Atorvastatin,Normal
+Ashley Young,36,Male,A+,Diabetes,2022-03-18,Dr. John White,Rainbow Hospital,Medicare,18711.1,483,Urgent,2022-03-28,Atorvastatin,Normal
+Michael Johnson,83,Male,B+,Cancer,2020-03-28,Dr. Matthew Smith,Max Hospital,Medicare,13161.11,390,Emergency,2020-04-07,Insulin,Abnormal
+Stephanie Baker,27,Female,A-,Obesity,2019-07-21,Dr. Sarah Wilson,Sun Pharma Clinic,Star Health,21071.23,443,Urgent,2019-07-25,Aspirin,Normal
+Meena Jain,26,Male,AB-,Hypertension,2021-07-11,Dr. Sarah Wilson,Fortis Medical,Blue Cross,30449.84,286,Elective,2021-07-17,Omeprazole,Normal
+Aarav Sharma,58,Male,B-,Arthritis,2023-02-24,Dr. John White,Fortis Medical,Star Health,11043.76,475,Elective,2023-03-07,Amoxicillin,Abnormal
+Chris Martin,63,Female,O-,Asthma,2019-08-11,Dr. Sarah Wilson,Apollo Healthcare,United Health,43642.11,171,Urgent,2019-08-14,Aspirin,Abnormal
+Andrew Roberts,27,Male,A+,Asthma,2022-07-17,Dr. Sarah Wilson,Global Health Center,HDFC Ergo,39614.01,208,Emergency,2022-07-18,Insulin,Abnormal
+Daniel Allen,78,Male,AB-,Hypertension,2020-04-02,Dr. Sarah Wilson,Fortis Medical,Blue Cross,25911.55,361,Emergency,2020-04-17,Omeprazole,Abnormal
+James Lewis,19,Male,B+,Asthma,2019-10-15,Dr. Amit Verma,AIIMS Delhi,Blue Cross,38116.39,347,Elective,2019-10-23,Metformin,Normal
+Brandon Phillips,80,Male,A-,Obesity,2021-01-26,Dr. Rajesh Kumar,Max Hospital,Star Health,22464.19,332,Emergency,2021-01-30,Metformin,Inconclusive
+Bobby Jackson,31,Female,AB+,Asthma,2022-01-19,Dr. Amit Verma,Care Hospital,HDFC Ergo,21438.36,434,Emergency,2022-01-29,Insulin,Abnormal
+John Smith,46,Female,AB-,Obesity,2021-09-24,Dr. Emily Brown,Global Health Center,Aetna,27582.66,171,Elective,2021-10-07,Ibuprofen,Normal
+Amit Kumar,83,Female,B-,Cancer,2020-01-18,Dr. Samantha Davies,Global Health Center,Medicare,34749.93,312,Elective,2020-01-21,Paracetamol,Abnormal
+Rachel Carter,79,Female,B-,Asthma,2019-11-27,Dr. John White,City Hospital,Cigna,6941.49,393,Urgent,2019-12-08,Ibuprofen,Normal
+Kevin Adams,83,Male,B+,Diabetes,2019-12-07,Dr. Amit Verma,Rainbow Hospital,HDFC Ergo,31971.09,388,Urgent,2019-12-12,Metformin,Inconclusive
+Andrew Roberts,54,Male,B-,Hypertension,2022-05-27,Dr. Emily Brown,AIIMS Delhi,Cigna,42366.36,407,Emergency,2022-06-04,Salbutamol,Normal
+Samantha Green,83,Female,B+,Arthritis,2022-11-05,Dr. Emily Brown,Global Health Center,Medicare,15341.62,297,Emergency,2022-11-11,Paracetamol,Normal
+Arjun Nair,84,Female,B+,Asthma,2019-07-17,Dr. Emily Brown,Global Health Center,Aetna,44498.87,372,Urgent,2019-07-20,Paracetamol,Normal
+David Clark,34,Male,O+,Asthma,2021-05-11,Dr. Rajesh Kumar,Rainbow Hospital,HDFC Ergo,15326.88,346,Elective,2021-05-17,Atorvastatin,Inconclusive
+Crystal Turner,30,Female,B+,Obesity,2021-09-04,Dr. Sunita Patel,Apollo Healthcare,United Health,31923.16,378,Elective,2021-09-17,Lisinopril,Normal
+Aarav Sharma,18,Male,A+,Hypertension,2022-09-02,Dr. Samantha Davies,Care Hospital,Star Health,9796.24,318,Urgent,2022-09-06,Salbutamol,Abnormal
+Kiran Desai,72,Female,AB+,Arthritis,2021-03-24,Dr. Sunita Patel,Care Hospital,Max Bupa,13042.38,386,Urgent,2021-04-06,Amoxicillin,Abnormal
+Anil Chauhan,62,Female,B+,Arthritis,2019-09-01,Dr. Sunita Patel,Sun Pharma Clinic,Blue Cross,9512.54,360,Elective,2019-09-13,Atorvastatin,Inconclusive
+Samantha Green,24,Male,O+,Arthritis,2019-01-11,Dr. Priya Sharma,AIIMS Delhi,Max Bupa,46663.78,322,Emergency,2019-01-24,Paracetamol,Abnormal
+Manish Pandey,65,Male,A+,Arthritis,2021-02-26,Dr. John White,Global Health Center,United Health,37022.26,405,Emergency,2021-03-13,Ibuprofen,Inconclusive
+Laura Hall,74,Male,B-,Arthritis,2024-03-21,Dr. Michael Johnson,Fortis Medical,Cigna,6512.42,406,Urgent,2024-04-03,Insulin,Inconclusive
+Manish Pandey,39,Male,AB-,Cancer,2022-09-03,Dr. Amit Verma,Apollo Healthcare,United Health,40085.28,280,Urgent,2022-09-04,Omeprazole,Abnormal
+Brittany King,43,Male,A-,Diabetes,2022-01-30,Dr. Michael Johnson,Global Health Center,Star Health,20636.38,241,Emergency,2022-02-04,Salbutamol,Normal
+Amanda White,69,Male,AB+,Cancer,2021-04-13,Dr. Priya Sharma,Rainbow Hospital,Medicare,27642.61,274,Emergency,2021-04-22,Insulin,Abnormal
+Daniel Allen,50,Female,O+,Asthma,2021-09-17,Dr. Sunita Patel,Medanta Hospital,Max Bupa,35671.76,400,Emergency,2021-09-30,Amoxicillin,Normal
+Kiran Desai,26,Female,B-,Arthritis,2022-12-07,Dr. Samantha Davies,Care Hospital,Star Health,28242.69,104,Urgent,2022-12-11,Lisinopril,Normal
+Meena Jain,29,Female,AB-,Diabetes,2022-02-09,Dr. Amit Verma,Sun Pharma Clinic,Star Health,20909.21,393,Elective,2022-02-24,Ibuprofen,Inconclusive
+Rachel Carter,42,Female,B-,Cancer,2023-02-15,Dr. Matthew Smith,Max Hospital,Cigna,14124.5,227,Urgent,2023-02-19,Atorvastatin,Normal
+Melissa Campbell,31,Male,A-,Arthritis,2024-05-11,Dr. Emily Brown,Global Health Center,Aetna,39390.99,377,Emergency,2024-05-22,Amoxicillin,Abnormal
+Samantha Green,58,Female,AB+,Hypertension,2020-01-10,Dr. Michael Johnson,Fortis Medical,HDFC Ergo,14994.18,395,Emergency,2020-01-23,Metformin,Inconclusive
+Jessica Taylor,79,Male,AB-,Hypertension,2023-10-29,Dr. Amit Verma,Sun Pharma Clinic,Medicare,36421.01,335,Elective,2023-11-09,Metformin,Normal
+Rachel Carter,44,Female,A-,Obesity,2021-01-10,Dr. Matthew Smith,AIIMS Delhi,United Health,15671.26,341,Urgent,2021-01-20,Atorvastatin,Abnormal
+Kavita Dubey,81,Female,B-,Hypertension,2022-12-06,Dr. Samantha Davies,Medanta Hospital,HDFC Ergo,17583.33,192,Urgent,2022-12-19,Ibuprofen,Inconclusive
+Rachel Carter,47,Male,AB+,Cancer,2022-02-11,Dr. John White,Max Hospital,Blue Cross,41001.69,478,Emergency,2022-02-18,Amoxicillin,Normal
+Kavita Dubey,71,Female,B+,Arthritis,2021-11-24,Dr. Samantha Davies,Sun Pharma Clinic,United Health,16293.83,390,Emergency,2021-12-03,Omeprazole,Normal
+Justin Mitchell,38,Male,B-,Obesity,2021-09-02,Dr. Priya Sharma,Sun Pharma Clinic,Star Health,16689.61,284,Urgent,2021-09-16,Insulin,Abnormal
+Matthew Brown,20,Female,A-,Obesity,2023-11-12,Dr. Sarah Wilson,Max Hospital,Blue Cross,49071.79,245,Elective,2023-11-23,Atorvastatin,Inconclusive
+James Lewis,80,Female,A-,Hypertension,2022-06-10,Dr. Emily Brown,AIIMS Delhi,Blue Cross,33826.13,272,Elective,2022-06-15,Salbutamol,Inconclusive
+Emily Davis,27,Male,B+,Obesity,2020-04-12,Dr. Samantha Davies,Fortis Medical,United Health,32242.32,302,Elective,2020-04-18,Amoxicillin,Abnormal
+Crystal Turner,84,Female,O+,Cancer,2020-01-12,Dr. Rajesh Kumar,AIIMS Delhi,Cigna,34791.01,480,Urgent,2020-01-26,Paracetamol,Normal
+Rajesh Mishra,68,Male,A-,Diabetes,2024-04-02,Dr. Emily Brown,Rainbow Hospital,Aetna,6186.42,303,Urgent,2024-04-17,Paracetamol,Normal
+Kiran Desai,37,Male,O+,Obesity,2020-04-14,Dr. Matthew Smith,Sun Pharma Clinic,Blue Cross,10907.47,187,Emergency,2020-04-18,Metformin,Inconclusive
+Matthew Brown,59,Female,O-,Asthma,2024-03-29,Dr. Michael Johnson,Sun Pharma Clinic,Blue Cross,48629.4,457,Urgent,2024-04-03,Ibuprofen,Inconclusive
+Joshua Wright,76,Female,AB+,Obesity,2021-09-13,Dr. Sunita Patel,Apollo Healthcare,Max Bupa,18854.07,311,Elective,2021-09-22,Ibuprofen,Abnormal
+Aarav Sharma,18,Male,AB-,Obesity,2021-08-18,Dr. Rajesh Kumar,Sun Pharma Clinic,Max Bupa,18482.47,492,Elective,2021-08-27,Lisinopril,Inconclusive
+Manish Pandey,18,Female,B-,Hypertension,2023-12-12,Dr. John White,Care Hospital,Cigna,12347.13,477,Urgent,2023-12-21,Omeprazole,Abnormal
+Manish Pandey,51,Male,O+,Arthritis,2020-05-05,Dr. Sarah Wilson,Fortis Medical,United Health,34180.57,372,Elective,2020-05-14,Omeprazole,Normal
+Amit Kumar,41,Male,AB+,Diabetes,2022-07-28,Dr. Sarah Wilson,Sun Pharma Clinic,United Health,36521.27,351,Emergency,2022-08-05,Atorvastatin,Normal
+Anjali Tiwari,24,Male,B+,Diabetes,2020-07-31,Dr. Amit Verma,Sun Pharma Clinic,Aetna,15476.47,177,Emergency,2020-08-05,Amoxicillin,Normal
+Leslie Terry,71,Female,O-,Obesity,2021-08-07,Dr. Rajesh Kumar,Medanta Hospital,Medicare,42959.58,174,Emergency,2021-08-19,Lisinopril,Abnormal
+Amit Kumar,78,Male,B-,Obesity,2023-08-01,Dr. Rajesh Kumar,Apollo Healthcare,Cigna,22315.91,326,Emergency,2023-08-08,Metformin,Normal
+Amanda White,30,Male,O-,Hypertension,2022-10-27,Dr. Samantha Davies,AIIMS Delhi,Aetna,38512.61,381,Urgent,2022-11-01,Paracetamol,Abnormal
+David Clark,56,Male,AB-,Diabetes,2023-11-04,Dr. Sunita Patel,Apollo Healthcare,Cigna,33480.9,266,Emergency,2023-11-15,Ibuprofen,Abnormal
+Brittany King,33,Female,B-,Diabetes,2024-06-07,Dr. Sarah Wilson,Sun Pharma Clinic,Blue Cross,21712.94,145,Emergency,2024-06-08,Ibuprofen,Abnormal
+Neha Joshi,61,Male,A+,Obesity,2022-08-13,Dr. Michael Johnson,Apollo Healthcare,Blue Cross,26952.93,262,Urgent,2022-08-16,Atorvastatin,Abnormal
+Andrew Roberts,42,Male,O+,Obesity,2023-01-23,Dr. Matthew Smith,City Hospital,Max Bupa,36798.17,386,Elective,2023-01-26,Insulin,Inconclusive
+Laura Hall,42,Male,AB-,Obesity,2023-02-08,Dr. Matthew Smith,Global Health Center,Blue Cross,8099.45,179,Elective,2023-02-16,Lisinopril,Abnormal
+Daniel Allen,64,Female,A+,Arthritis,2021-11-02,Dr. Amit Verma,City Hospital,Star Health,39920.75,222,Elective,2021-11-09,Paracetamol,Inconclusive
+Daniel Allen,67,Male,O-,Asthma,2019-11-12,Dr. Matthew Smith,Medanta Hospital,HDFC Ergo,33840.68,156,Emergency,2019-11-22,Insulin,Inconclusive
+Amit Kumar,23,Male,B+,Diabetes,2020-02-18,Dr. Emily Brown,Max Hospital,Medicare,6431.77,428,Elective,2020-02-20,Amoxicillin,Inconclusive
+Samantha Green,50,Male,AB-,Cancer,2022-05-25,Dr. Priya Sharma,City Hospital,Cigna,34508.72,140,Elective,2022-06-06,Metformin,Abnormal
+Ashley Young,71,Female,A+,Asthma,2020-06-28,Dr. Rajesh Kumar,Apollo Healthcare,United Health,8507.09,210,Urgent,2020-07-07,Paracetamol,Normal
+Andrew Roberts,47,Female,B-,Cancer,2021-12-13,Dr. Sunita Patel,Global Health Center,Blue Cross,30129.06,385,Elective,2021-12-24,Paracetamol,Inconclusive
+Ryan Scott,63,Female,O+,Diabetes,2019-12-08,Dr. Amit Verma,Rainbow Hospital,HDFC Ergo,27711.18,436,Emergency,2019-12-21,Insulin,Inconclusive
+Chris Martin,63,Female,AB-,Obesity,2021-04-24,Dr. John White,Medanta Hospital,Cigna,30341.51,209,Elective,2021-05-07,Insulin,Inconclusive
+Kiran Desai,64,Female,O-,Hypertension,2019-01-01,Dr. Rajesh Kumar,Fortis Medical,Aetna,28292.42,254,Emergency,2019-01-13,Lisinopril,Normal
+Deepika Rao,58,Male,AB+,Asthma,2021-11-13,Dr. Sarah Wilson,Global Health Center,Blue Cross,9242.92,335,Elective,2021-11-22,Ibuprofen,Normal
+Kiran Desai,64,Male,B-,Obesity,2023-07-20,Dr. Priya Sharma,Global Health Center,HDFC Ergo,30607.92,211,Urgent,2023-07-25,Paracetamol,Inconclusive
+Bobby Jackson,79,Male,O-,Arthritis,2022-12-10,Dr. Priya Sharma,Global Health Center,United Health,6681.72,395,Elective,2022-12-20,Paracetamol,Normal
+Melissa Campbell,60,Female,O+,Hypertension,2024-03-20,Dr. Priya Sharma,Max Hospital,Aetna,33524.92,423,Elective,2024-04-03,Metformin,Abnormal
+Megan Walker,23,Female,B+,Obesity,2021-10-25,Dr. Sunita Patel,AIIMS Delhi,Aetna,35313.59,301,Elective,2021-11-06,Salbutamol,Inconclusive
+James Lewis,29,Male,O+,Obesity,2023-05-30,Dr. Amit Verma,AIIMS Delhi,Star Health,8714.53,392,Urgent,2023-06-06,Metformin,Inconclusive
+Emily Davis,51,Male,O+,Asthma,2021-06-08,Dr. Amit Verma,AIIMS Delhi,Max Bupa,30168.33,349,Elective,2021-06-21,Salbutamol,Normal
+Ashley Young,85,Male,B-,Diabetes,2020-06-29,Dr. John White,Medanta Hospital,Medicare,10063.84,311,Elective,2020-07-12,Atorvastatin,Abnormal
+Arjun Nair,59,Female,A+,Obesity,2019-12-13,Dr. Sarah Wilson,Sun Pharma Clinic,Blue Cross,24820.85,219,Emergency,2019-12-19,Atorvastatin,Normal
+Brandon Phillips,28,Male,A+,Cancer,2024-04-27,Dr. Amit Verma,Fortis Medical,Aetna,20447.21,156,Elective,2024-05-07,Amoxicillin,Abnormal
+Priya Singh,60,Male,B-,Cancer,2022-01-24,Dr. Matthew Smith,Rainbow Hospital,Max Bupa,33036.89,172,Urgent,2022-02-02,Metformin,Abnormal
+Brittany King,85,Male,AB+,Cancer,2019-05-04,Dr. Sunita Patel,Global Health Center,United Health,7388.84,435,Emergency,2019-05-09,Paracetamol,Abnormal
+Brian Nelson,52,Female,A-,Diabetes,2020-08-22,Dr. John White,Max Hospital,HDFC Ergo,27884.31,463,Emergency,2020-09-05,Atorvastatin,Abnormal
+Joshua Wright,29,Male,B-,Asthma,2024-06-02,Dr. Michael Johnson,City Hospital,Aetna,16132.65,371,Elective,2024-06-10,Atorvastatin,Abnormal
+Emily Davis,38,Male,AB-,Arthritis,2020-12-21,Dr. Matthew Smith,Max Hospital,United Health,41535.18,420,Elective,2020-12-27,Omeprazole,Normal
+Ashley Young,53,Male,B+,Obesity,2024-01-12,Dr. Amit Verma,Apollo Healthcare,HDFC Ergo,28432.3,447,Urgent,2024-01-19,Aspirin,Abnormal
+Sneha Iyer,37,Female,AB+,Asthma,2020-11-05,Dr. Michael Johnson,AIIMS Delhi,Cigna,34361.27,397,Urgent,2020-11-13,Aspirin,Normal
+Anil Chauhan,85,Male,O+,Cancer,2022-09-05,Dr. Sarah Wilson,AIIMS Delhi,Star Health,8051.63,372,Urgent,2022-09-20,Paracetamol,Normal
+Bobby Jackson,36,Male,AB-,Hypertension,2024-05-22,Dr. Matthew Smith,Sun Pharma Clinic,United Health,11838.07,196,Emergency,2024-05-29,Ibuprofen,Normal
+Priya Singh,52,Male,B-,Cancer,2022-11-08,Dr. Samantha Davies,Apollo Healthcare,Max Bupa,11033.9,409,Elective,2022-11-09,Atorvastatin,Normal
+John Smith,80,Female,B+,Cancer,2020-01-31,Dr. Rajesh Kumar,Care Hospital,Aetna,46644.58,311,Emergency,2020-02-04,Aspirin,Normal
+Amit Kumar,40,Female,O-,Arthritis,2020-10-27,Dr. Emily Brown,Max Hospital,HDFC Ergo,23219.0,121,Urgent,2020-11-10,Omeprazole,Inconclusive
+Bobby Jackson,68,Male,A-,Hypertension,2021-07-24,Dr. Rajesh Kumar,Max Hospital,HDFC Ergo,49272.38,120,Urgent,2021-08-07,Omeprazole,Inconclusive
+Brandon Phillips,24,Male,AB+,Hypertension,2021-03-26,Dr. Matthew Smith,Fortis Medical,Max Bupa,12491.9,250,Urgent,2021-04-10,Metformin,Inconclusive
+Megan Walker,36,Female,O-,Diabetes,2023-01-19,Dr. Priya Sharma,AIIMS Delhi,Blue Cross,22688.0,265,Elective,2023-01-28,Metformin,Normal
+Amanda White,43,Female,A-,Obesity,2020-10-25,Dr. Amit Verma,Apollo Healthcare,Medicare,10137.42,330,Urgent,2020-11-06,Atorvastatin,Normal
+Megan Walker,67,Male,O+,Asthma,2021-02-18,Dr. Amit Verma,Medanta Hospital,Blue Cross,12295.58,174,Emergency,2021-02-19,Metformin,Abnormal
+Anil Chauhan,57,Female,AB+,Arthritis,2020-01-06,Dr. Amit Verma,Max Hospital,Aetna,33015.21,229,Emergency,2020-01-08,Amoxicillin,Abnormal
+Laura Hall,18,Female,B-,Cancer,2022-04-20,Dr. Emily Brown,Sun Pharma Clinic,HDFC Ergo,24884.39,407,Urgent,2022-05-01,Metformin,Normal
+Ashley Young,53,Male,A+,Cancer,2019-10-31,Dr. Samantha Davies,City Hospital,Blue Cross,43422.32,441,Urgent,2019-11-01,Salbutamol,Abnormal
+Leslie Terry,29,Male,A-,Hypertension,2020-01-01,Dr. Matthew Smith,Global Health Center,Blue Cross,48483.2,483,Urgent,2020-01-04,Atorvastatin,Normal
+Neha Joshi,56,Female,AB-,Hypertension,2023-08-07,Dr. John White,Rainbow Hospital,Medicare,18177.47,168,Emergency,2023-08-09,Lisinopril,Abnormal
+Megan Walker,70,Male,B-,Asthma,2019-04-30,Dr. Sarah Wilson,Rainbow Hospital,Medicare,26764.83,452,Urgent,2019-05-02,Lisinopril,Abnormal
+Joshua Wright,58,Female,AB-,Cancer,2022-06-12,Dr. Emily Brown,Rainbow Hospital,Max Bupa,27162.7,192,Urgent,2022-06-22,Aspirin,Inconclusive
+Meena Jain,42,Male,A-,Diabetes,2021-08-10,Dr. Priya Sharma,Max Hospital,HDFC Ergo,23631.85,270,Elective,2021-08-21,Insulin,Inconclusive
+Deepika Rao,19,Male,AB+,Obesity,2023-06-07,Dr. Matthew Smith,Fortis Medical,Star Health,39516.47,158,Urgent,2023-06-09,Atorvastatin,Abnormal
+Emily Davis,21,Male,B-,Obesity,2023-09-04,Dr. Emily Brown,Sun Pharma Clinic,Aetna,34054.35,346,Emergency,2023-09-10,Amoxicillin,Inconclusive
+Leslie Terry,77,Female,A+,Asthma,2020-09-05,Dr. Samantha Davies,Rainbow Hospital,Aetna,14371.81,450,Elective,2020-09-15,Atorvastatin,Normal
+Anjali Tiwari,53,Male,AB-,Hypertension,2022-07-07,Dr. Amit Verma,Global Health Center,HDFC Ergo,13432.05,159,Elective,2022-07-16,Atorvastatin,Inconclusive
+Rohit Verma,52,Female,A-,Hypertension,2023-12-02,Dr. Samantha Davies,Sun Pharma Clinic,United Health,14726.29,254,Emergency,2023-12-06,Paracetamol,Abnormal
+Rohit Verma,43,Male,O-,Asthma,2019-02-21,Dr. Emily Brown,Rainbow Hospital,Blue Cross,13559.53,347,Urgent,2019-03-06,Insulin,Abnormal
+Melissa Campbell,59,Male,A-,Asthma,2022-10-17,Dr. Sunita Patel,City Hospital,Max Bupa,22441.47,367,Emergency,2022-10-20,Metformin,Abnormal
+Rohit Verma,29,Female,O-,Diabetes,2019-07-31,Dr. Matthew Smith,City Hospital,United Health,33748.29,207,Elective,2019-08-09,Aspirin,Normal
+Meena Jain,53,Female,O-,Arthritis,2019-08-29,Dr. Amit Verma,AIIMS Delhi,United Health,10150.72,418,Urgent,2019-09-03,Insulin,Normal
+Deepika Rao,62,Female,AB+,Cancer,2024-04-15,Dr. Matthew Smith,Global Health Center,Cigna,12707.37,259,Urgent,2024-04-27,Atorvastatin,Inconclusive
+Chris Martin,24,Male,A+,Hypertension,2024-01-24,Dr. Rajesh Kumar,Apollo Healthcare,HDFC Ergo,7420.99,318,Elective,2024-02-04,Ibuprofen,Inconclusive
+Joshua Wright,75,Female,AB+,Obesity,2023-08-02,Dr. Michael Johnson,Apollo Healthcare,Max Bupa,30550.52,147,Urgent,2023-08-06,Amoxicillin,Normal
+Amanda White,57,Female,O-,Cancer,2024-04-24,Dr. Amit Verma,Global Health Center,United Health,46078.77,300,Emergency,2024-04-28,Atorvastatin,Abnormal
+Amanda White,80,Male,A-,Hypertension,2019-08-20,Dr. Emily Brown,Sun Pharma Clinic,Blue Cross,17701.58,278,Urgent,2019-08-26,Salbutamol,Normal
+James Lewis,31,Female,A-,Obesity,2022-02-12,Dr. Priya Sharma,Fortis Medical,Max Bupa,23036.74,311,Emergency,2022-02-23,Salbutamol,Normal
+Ashley Young,38,Female,O+,Diabetes,2020-11-28,Dr. Sarah Wilson,Care Hospital,HDFC Ergo,30524.5,275,Urgent,2020-12-02,Aspirin,Normal
+Brian Nelson,27,Female,A-,Asthma,2022-05-05,Dr. Samantha Davies,Rainbow Hospital,Medicare,41991.04,190,Elective,2022-05-13,Omeprazole,Normal
+Joshua Wright,31,Female,AB-,Hypertension,2022-08-13,Dr. Rajesh Kumar,Apollo Healthcare,Cigna,41766.51,397,Urgent,2022-08-24,Metformin,Normal
+Brian Nelson,37,Female,AB+,Hypertension,2022-06-14,Dr. Emily Brown,Max Hospital,Cigna,35668.26,262,Elective,2022-06-24,Salbutamol,Inconclusive
+Anil Chauhan,73,Female,A-,Asthma,2019-01-17,Dr. Michael Johnson,Care Hospital,Blue Cross,43362.73,131,Elective,2019-01-27,Insulin,Normal
+Aarav Sharma,63,Male,AB+,Diabetes,2020-04-26,Dr. Sarah Wilson,Care Hospital,Star Health,37029.81,307,Elective,2020-05-03,Omeprazole,Inconclusive
+Deepika Rao,40,Female,B+,Cancer,2022-02-11,Dr. Samantha Davies,Care Hospital,Blue Cross,17981.19,443,Emergency,2022-02-18,Ibuprofen,Normal
+Amit Kumar,20,Male,O-,Arthritis,2021-06-13,Dr. Priya Sharma,AIIMS Delhi,HDFC Ergo,43706.87,456,Urgent,2021-06-16,Omeprazole,Inconclusive
+Kavita Dubey,76,Female,O-,Hypertension,2020-12-28,Dr. Amit Verma,Care Hospital,Aetna,31007.23,474,Emergency,2021-01-01,Insulin,Abnormal
+Michael Johnson,64,Male,A+,Asthma,2021-09-16,Dr. Samantha Davies,Apollo Healthcare,Max Bupa,48278.2,140,Emergency,2021-09-28,Insulin,Abnormal
+Amanda White,84,Male,A-,Cancer,2021-08-25,Dr. Priya Sharma,Rainbow Hospital,United Health,32586.76,275,Urgent,2021-09-05,Metformin,Abnormal
+Amanda White,83,Female,AB-,Hypertension,2020-12-23,Dr. Matthew Smith,Fortis Medical,Blue Cross,6589.68,405,Urgent,2021-01-05,Lisinopril,Inconclusive
+Ryan Scott,51,Male,O-,Asthma,2019-12-13,Dr. Rajesh Kumar,Fortis Medical,Aetna,17906.7,142,Emergency,2019-12-23,Insulin,Normal
+Rahul Sinha,50,Male,AB+,Obesity,2023-10-23,Dr. Rajesh Kumar,Apollo Healthcare,Blue Cross,45955.92,478,Emergency,2023-10-28,Amoxicillin,Abnormal
+Kavita Dubey,51,Male,O-,Cancer,2023-06-26,Dr. Rajesh Kumar,Medanta Hospital,Medicare,48530.55,404,Emergency,2023-07-05,Amoxicillin,Abnormal
+Melissa Campbell,67,Male,O-,Arthritis,2022-07-29,Dr. Sunita Patel,Global Health Center,Star Health,7444.66,235,Emergency,2022-08-01,Metformin,Normal
+Amanda White,69,Female,AB+,Hypertension,2023-03-09,Dr. Michael Johnson,Max Hospital,HDFC Ergo,35757.95,299,Elective,2023-03-22,Lisinopril,Normal
+Megan Walker,73,Male,AB+,Hypertension,2021-02-21,Dr. Samantha Davies,Rainbow Hospital,Aetna,9381.39,372,Urgent,2021-03-04,Atorvastatin,Abnormal
+Samantha Green,52,Female,AB+,Obesity,2023-07-02,Dr. Matthew Smith,Global Health Center,HDFC Ergo,25749.89,445,Urgent,2023-07-04,Aspirin,Inconclusive
+Rachel Carter,42,Female,B+,Obesity,2022-01-26,Dr. Rajesh Kumar,Apollo Healthcare,Aetna,23506.19,368,Emergency,2022-01-27,Amoxicillin,Abnormal
+Manish Pandey,54,Female,B-,Diabetes,2019-02-18,Dr. Priya Sharma,City Hospital,Cigna,47772.0,426,Emergency,2019-02-28,Paracetamol,Normal
+Joshua Wright,34,Female,B+,Diabetes,2022-11-25,Dr. Matthew Smith,Fortis Medical,Max Bupa,34721.5,138,Urgent,2022-11-28,Amoxicillin,Abnormal
+Melissa Campbell,72,Female,AB+,Cancer,2023-05-18,Dr. Matthew Smith,City Hospital,HDFC Ergo,22486.57,130,Elective,2023-05-20,Lisinopril,Normal
+Chris Martin,26,Female,B-,Asthma,2021-03-15,Dr. Emily Brown,Apollo Healthcare,Blue Cross,29328.45,320,Emergency,2021-03-18,Salbutamol,Inconclusive
+Vikram Patel,74,Female,A-,Diabetes,2019-05-30,Dr. Sarah Wilson,Fortis Medical,Max Bupa,5844.42,354,Emergency,2019-06-01,Metformin,Normal
+Brian Nelson,67,Female,B+,Arthritis,2020-11-06,Dr. John White,Global Health Center,Aetna,28192.24,494,Elective,2020-11-21,Amoxicillin,Abnormal
+Emily Davis,26,Male,A+,Hypertension,2024-05-08,Dr. Emily Brown,Apollo Healthcare,Star Health,20004.79,255,Elective,2024-05-20,Metformin,Inconclusive
+Stephanie Baker,29,Female,AB-,Diabetes,2023-09-19,Dr. Matthew Smith,Max Hospital,Blue Cross,29951.4,296,Urgent,2023-09-27,Aspirin,Abnormal
+Justin Mitchell,67,Male,AB-,Hypertension,2019-06-23,Dr. Emily Brown,Max Hospital,Blue Cross,6606.42,112,Urgent,2019-07-08,Salbutamol,Normal
+Laura Hall,67,Male,AB+,Hypertension,2021-12-29,Dr. Emily Brown,City Hospital,Aetna,20267.83,272,Urgent,2022-01-12,Metformin,Abnormal
+Pooja Mehta,45,Female,B+,Arthritis,2022-04-01,Dr. Priya Sharma,City Hospital,Blue Cross,27000.26,109,Elective,2022-04-05,Salbutamol,Normal
+Sneha Iyer,34,Male,B+,Arthritis,2019-04-13,Dr. Matthew Smith,Apollo Healthcare,Max Bupa,32505.17,402,Emergency,2019-04-28,Paracetamol,Normal
+Laura Hall,46,Male,B-,Hypertension,2020-11-21,Dr. John White,Medanta Hospital,Medicare,48913.4,394,Urgent,2020-12-04,Ibuprofen,Abnormal
+Deepika Rao,23,Male,AB-,Diabetes,2019-09-05,Dr. Amit Verma,Care Hospital,Blue Cross,36333.31,383,Emergency,2019-09-10,Amoxicillin,Normal
+Brittany King,23,Male,A-,Arthritis,2022-06-08,Dr. Amit Verma,City Hospital,Max Bupa,8632.52,103,Emergency,2022-06-15,Paracetamol,Inconclusive
+Stephanie Baker,54,Female,O-,Arthritis,2019-09-17,Dr. Amit Verma,Fortis Medical,Max Bupa,23541.41,189,Urgent,2019-09-21,Metformin,Inconclusive
+Kavita Dubey,81,Male,AB+,Obesity,2021-05-07,Dr. Michael Johnson,Max Hospital,Cigna,10287.85,371,Emergency,2021-05-08,Salbutamol,Abnormal
+Brandon Phillips,82,Male,O-,Arthritis,2022-09-12,Dr. Matthew Smith,City Hospital,Cigna,10070.56,176,Urgent,2022-09-16,Amoxicillin,Abnormal
+Kavita Dubey,38,Male,A+,Arthritis,2021-01-15,Dr. Sunita Patel,Care Hospital,United Health,20043.26,488,Elective,2021-01-20,Metformin,Normal
+Crystal Turner,24,Male,B+,Diabetes,2021-09-20,Dr. Priya Sharma,Apollo Healthcare,Cigna,37463.14,403,Urgent,2021-09-29,Atorvastatin,Abnormal
+Arjun Nair,59,Male,A-,Obesity,2020-04-11,Dr. Sunita Patel,Care Hospital,Cigna,21898.96,212,Emergency,2020-04-13,Amoxicillin,Inconclusive
+Laura Hall,24,Female,B+,Cancer,2024-03-15,Dr. Emily Brown,AIIMS Delhi,HDFC Ergo,21806.83,334,Urgent,2024-03-25,Aspirin,Inconclusive
+Matthew Brown,52,Male,AB-,Cancer,2019-03-07,Dr. Sarah Wilson,City Hospital,United Health,11142.57,338,Elective,2019-03-19,Omeprazole,Normal
+Brandon Phillips,61,Male,AB+,Asthma,2019-11-18,Dr. Sarah Wilson,AIIMS Delhi,Cigna,8891.34,367,Elective,2019-12-01,Aspirin,Inconclusive
+David Clark,77,Female,A+,Arthritis,2021-05-26,Dr. Sunita Patel,Max Hospital,Star Health,24541.19,213,Urgent,2021-06-07,Ibuprofen,Inconclusive
+Aarav Sharma,71,Male,A+,Hypertension,2023-02-11,Dr. Michael Johnson,City Hospital,HDFC Ergo,28900.48,345,Urgent,2023-02-24,Paracetamol,Abnormal
+Laura Hall,48,Male,A+,Arthritis,2023-02-07,Dr. Sunita Patel,AIIMS Delhi,Star Health,18310.57,431,Emergency,2023-02-14,Metformin,Abnormal
+Brian Nelson,57,Male,O-,Asthma,2023-03-11,Dr. Rajesh Kumar,Sun Pharma Clinic,Max Bupa,39732.58,460,Elective,2023-03-21,Ibuprofen,Abnormal
+Kevin Adams,77,Male,A-,Hypertension,2024-01-04,Dr. Samantha Davies,Rainbow Hospital,Aetna,18346.55,485,Elective,2024-01-16,Salbutamol,Inconclusive
+Ryan Scott,44,Male,AB-,Arthritis,2024-03-24,Dr. Michael Johnson,Medanta Hospital,Aetna,9993.49,287,Elective,2024-03-25,Salbutamol,Normal
+Sarah Wilson,64,Male,A-,Asthma,2022-12-23,Dr. Sunita Patel,AIIMS Delhi,Star Health,15738.47,158,Urgent,2023-01-05,Amoxicillin,Inconclusive
+Brandon Phillips,44,Male,AB-,Obesity,2024-01-13,Dr. Michael Johnson,Care Hospital,United Health,7450.7,290,Elective,2024-01-18,Amoxicillin,Abnormal
+James Lewis,85,Male,O-,Arthritis,2021-12-25,Dr. Michael Johnson,Fortis Medical,Max Bupa,32942.81,444,Urgent,2022-01-05,Paracetamol,Normal
+Amanda White,29,Male,O+,Cancer,2020-08-13,Dr. Priya Sharma,AIIMS Delhi,United Health,10041.11,175,Elective,2020-08-15,Ibuprofen,Normal
+Megan Walker,20,Female,O+,Arthritis,2022-01-13,Dr. Amit Verma,Sun Pharma Clinic,Star Health,23905.85,477,Urgent,2022-01-28,Metformin,Abnormal
+Arjun Nair,26,Male,B-,Asthma,2022-08-13,Dr. John White,Global Health Center,Star Health,34509.22,267,Elective,2022-08-19,Salbutamol,Inconclusive
+Justin Mitchell,85,Female,O-,Obesity,2022-03-07,Dr. Matthew Smith,AIIMS Delhi,United Health,15205.19,290,Elective,2022-03-10,Metformin,Normal
+Matthew Brown,54,Female,B+,Asthma,2024-03-07,Dr. Michael Johnson,Fortis Medical,Blue Cross,48794.27,462,Urgent,2024-03-10,Ibuprofen,Normal
+Sneha Iyer,32,Male,AB-,Asthma,2019-09-17,Dr. Matthew Smith,Medanta Hospital,Blue Cross,14231.99,462,Emergency,2019-09-25,Atorvastatin,Abnormal
+Anjali Tiwari,65,Female,B+,Asthma,2020-09-09,Dr. Rajesh Kumar,Care Hospital,Max Bupa,39583.32,334,Elective,2020-09-11,Ibuprofen,Normal
+Crystal Turner,82,Female,AB+,Hypertension,2024-01-09,Dr. Sarah Wilson,AIIMS Delhi,Max Bupa,20240.8,157,Urgent,2024-01-14,Amoxicillin,Normal
+Suresh Yadav,32,Female,A+,Hypertension,2022-06-18,Dr. Sunita Patel,Sun Pharma Clinic,Star Health,9161.65,128,Urgent,2022-07-02,Aspirin,Inconclusive
+Megan Walker,46,Female,B-,Diabetes,2019-06-21,Dr. Emily Brown,Apollo Healthcare,HDFC Ergo,13750.25,262,Urgent,2019-06-30,Salbutamol,Inconclusive
+Sunita Gupta,64,Female,B+,Arthritis,2023-10-15,Dr. Samantha Davies,Care Hospital,Star Health,5548.59,276,Elective,2023-10-22,Lisinopril,Abnormal
+Ashley Young,29,Male,O-,Arthritis,2021-05-01,Dr. Emily Brown,Fortis Medical,Blue Cross,41255.28,317,Urgent,2021-05-14,Omeprazole,Normal
+Brittany King,29,Male,B-,Obesity,2021-08-30,Dr. Michael Johnson,Medanta Hospital,Medicare,46991.88,402,Elective,2021-09-13,Paracetamol,Normal
+Michael Johnson,52,Female,B+,Asthma,2021-08-04,Dr. Sarah Wilson,AIIMS Delhi,Cigna,13370.29,295,Elective,2021-08-16,Insulin,Abnormal
+Rohit Verma,56,Female,O-,Asthma,2023-02-24,Dr. Sunita Patel,City Hospital,Aetna,11931.08,253,Urgent,2023-03-04,Amoxicillin,Normal
+Stephanie Baker,54,Female,B+,Hypertension,2024-02-01,Dr. Sunita Patel,City Hospital,Medicare,39412.33,352,Emergency,2024-02-13,Salbutamol,Inconclusive
+Sarah Wilson,79,Female,AB+,Arthritis,2022-11-05,Dr. Priya Sharma,Medanta Hospital,Aetna,43037.6,183,Urgent,2022-11-13,Metformin,Normal
+Bobby Jackson,77,Male,AB-,Cancer,2019-04-19,Dr. Samantha Davies,Care Hospital,Star Health,7192.17,249,Urgent,2019-04-24,Paracetamol,Inconclusive
+Arjun Nair,41,Male,B+,Asthma,2020-10-22,Dr. Samantha Davies,Fortis Medical,United Health,35844.97,452,Elective,2020-11-05,Paracetamol,Inconclusive
+Brittany King,63,Male,A+,Cancer,2021-11-27,Dr. Samantha Davies,Sun Pharma Clinic,HDFC Ergo,20314.09,183,Emergency,2021-12-02,Aspirin,Normal
+James Lewis,46,Male,A-,Hypertension,2021-08-01,Dr. Priya Sharma,Apollo Healthcare,Blue Cross,46553.44,345,Elective,2021-08-16,Lisinopril,Inconclusive
+Sarah Wilson,35,Female,AB-,Cancer,2022-12-24,Dr. Rajesh Kumar,Apollo Healthcare,Cigna,10792.15,455,Emergency,2022-12-29,Aspirin,Abnormal
+Suresh Yadav,44,Male,A-,Hypertension,2022-11-15,Dr. Priya Sharma,Apollo Healthcare,Aetna,39861.15,487,Elective,2022-11-28,Metformin,Normal
+Vikram Patel,22,Male,O-,Diabetes,2024-02-04,Dr. Rajesh Kumar,Apollo Healthcare,United Health,35041.39,486,Emergency,2024-02-09,Paracetamol,Inconclusive
+Deepika Rao,43,Male,AB-,Diabetes,2019-07-05,Dr. Matthew Smith,Global Health Center,Star Health,20849.15,356,Urgent,2019-07-08,Salbutamol,Normal
+James Lewis,26,Male,A+,Asthma,2020-03-20,Dr. Sunita Patel,Fortis Medical,Blue Cross,45574.71,375,Emergency,2020-04-01,Paracetamol,Normal
+James Lewis,78,Female,B+,Hypertension,2022-10-11,Dr. Amit Verma,Medanta Hospital,HDFC Ergo,24084.13,363,Emergency,2022-10-13,Omeprazole,Normal
+Brandon Phillips,58,Male,O-,Diabetes,2021-11-30,Dr. Emily Brown,Medanta Hospital,United Health,30070.95,120,Emergency,2021-12-03,Atorvastatin,Abnormal
+Pooja Mehta,67,Female,O-,Asthma,2023-02-16,Dr. Emily Brown,Max Hospital,HDFC Ergo,18076.52,319,Emergency,2023-02-21,Paracetamol,Abnormal
+Rachel Carter,65,Male,A+,Arthritis,2021-10-03,Dr. Priya Sharma,Care Hospital,Max Bupa,28519.81,446,Emergency,2021-10-14,Paracetamol,Normal
+Emily Davis,69,Male,B+,Diabetes,2021-01-14,Dr. Samantha Davies,Max Hospital,HDFC Ergo,10524.3,317,Urgent,2021-01-18,Amoxicillin,Abnormal
+Brandon Phillips,52,Female,AB-,Hypertension,2022-09-27,Dr. John White,Sun Pharma Clinic,United Health,11631.83,332,Emergency,2022-10-07,Paracetamol,Abnormal
+Laura Hall,81,Male,B+,Diabetes,2019-07-23,Dr. Rajesh Kumar,Apollo Healthcare,Max Bupa,35514.83,191,Elective,2019-08-04,Salbutamol,Inconclusive
+Bobby Jackson,37,Female,A-,Diabetes,2022-09-15,Dr. Michael Johnson,Sun Pharma Clinic,Max Bupa,14086.93,438,Elective,2022-09-28,Amoxicillin,Inconclusive
+Kiran Desai,61,Male,A+,Hypertension,2023-12-08,Dr. Priya Sharma,Care Hospital,Max Bupa,19155.16,292,Elective,2023-12-23,Amoxicillin,Normal
+Rohit Verma,40,Female,B+,Hypertension,2021-06-01,Dr. Matthew Smith,Care Hospital,Max Bupa,39380.5,391,Urgent,2021-06-04,Amoxicillin,Inconclusive
+Ashley Young,78,Female,B+,Asthma,2019-04-25,Dr. Matthew Smith,Sun Pharma Clinic,HDFC Ergo,32762.29,280,Elective,2019-05-02,Atorvastatin,Normal
+Priya Singh,23,Male,AB-,Obesity,2023-07-16,Dr. Sarah Wilson,City Hospital,Star Health,22125.8,319,Elective,2023-07-28,Atorvastatin,Abnormal
+Matthew Brown,25,Male,B-,Cancer,2022-08-20,Dr. Sarah Wilson,Apollo Healthcare,Medicare,44102.3,158,Elective,2022-08-25,Ibuprofen,Normal
+Daniel Allen,59,Male,O-,Arthritis,2023-11-04,Dr. Sarah Wilson,Rainbow Hospital,HDFC Ergo,16997.85,456,Elective,2023-11-11,Salbutamol,Normal
+Bobby Jackson,66,Female,AB-,Asthma,2019-07-20,Dr. Emily Brown,Apollo Healthcare,Cigna,20118.54,357,Urgent,2019-08-02,Atorvastatin,Normal
+Samantha Green,56,Female,O+,Cancer,2021-10-14,Dr. Priya Sharma,Rainbow Hospital,Cigna,17931.0,124,Elective,2021-10-25,Salbutamol,Abnormal
+Manish Pandey,29,Male,AB-,Obesity,2019-05-18,Dr. Michael Johnson,Sun Pharma Clinic,HDFC Ergo,14438.26,139,Urgent,2019-05-28,Lisinopril,Inconclusive
+Anil Chauhan,73,Female,B-,Hypertension,2021-04-03,Dr. Sarah Wilson,Rainbow Hospital,Max Bupa,35220.21,380,Emergency,2021-04-08,Metformin,Inconclusive
+Amber Perez,84,Male,O-,Cancer,2022-09-15,Dr. Emily Brown,Fortis Medical,HDFC Ergo,47058.62,472,Urgent,2022-09-29,Metformin,Inconclusive
+Arjun Nair,64,Female,B+,Cancer,2019-11-05,Dr. Matthew Smith,Care Hospital,HDFC Ergo,19339.39,132,Urgent,2019-11-17,Aspirin,Abnormal
+Rahul Sinha,54,Male,AB+,Arthritis,2022-05-16,Dr. John White,Max Hospital,Medicare,11748.3,114,Emergency,2022-05-20,Lisinopril,Abnormal
+Laura Hall,73,Female,A+,Cancer,2019-11-23,Dr. Amit Verma,City Hospital,United Health,40535.14,242,Urgent,2019-11-28,Insulin,Normal
+Stephanie Baker,23,Female,A+,Diabetes,2023-10-27,Dr. Priya Sharma,Medanta Hospital,United Health,44022.73,308,Elective,2023-11-11,Paracetamol,Abnormal
+Andrew Roberts,35,Male,A-,Asthma,2023-02-13,Dr. Priya Sharma,Rainbow Hospital,United Health,27340.3,146,Emergency,2023-02-22,Salbutamol,Normal
+Melissa Campbell,58,Female,O+,Arthritis,2023-03-04,Dr. John White,Max Hospital,Blue Cross,9806.63,209,Elective,2023-03-08,Amoxicillin,Abnormal
+Kiran Desai,25,Female,AB-,Arthritis,2024-04-26,Dr. Samantha Davies,Rainbow Hospital,HDFC Ergo,26368.44,226,Elective,2024-04-28,Ibuprofen,Abnormal
+David Clark,65,Female,A+,Arthritis,2024-06-03,Dr. Sarah Wilson,City Hospital,Aetna,36080.71,443,Emergency,2024-06-18,Lisinopril,Inconclusive
+John Smith,57,Female,A-,Asthma,2023-11-11,Dr. Emily Brown,Care Hospital,Aetna,45940.51,301,Elective,2023-11-15,Lisinopril,Normal
+Brandon Phillips,48,Female,B-,Cancer,2024-02-19,Dr. Samantha Davies,Care Hospital,Aetna,17331.64,141,Elective,2024-02-27,Amoxicillin,Inconclusive
+Michael Johnson,60,Female,A-,Cancer,2022-12-01,Dr. Michael Johnson,Apollo Healthcare,Star Health,23939.17,473,Urgent,2022-12-06,Atorvastatin,Abnormal
+Justin Mitchell,21,Male,B+,Arthritis,2021-06-27,Dr. Amit Verma,City Hospital,HDFC Ergo,14003.39,256,Elective,2021-07-10,Salbutamol,Normal
+Pooja Mehta,38,Male,B+,Asthma,2022-11-05,Dr. Samantha Davies,Sun Pharma Clinic,Max Bupa,44307.76,168,Elective,2022-11-12,Ibuprofen,Inconclusive
+Brittany King,59,Female,B-,Diabetes,2021-04-28,Dr. Amit Verma,Care Hospital,HDFC Ergo,47514.07,392,Emergency,2021-05-04,Metformin,Normal
+Ashley Young,47,Male,O-,Cancer,2020-06-20,Dr. Amit Verma,City Hospital,HDFC Ergo,32810.18,407,Elective,2020-07-02,Ibuprofen,Normal
+Sarah Wilson,39,Male,A+,Arthritis,2021-12-12,Dr. Emily Brown,Sun Pharma Clinic,Medicare,15101.78,204,Emergency,2021-12-19,Lisinopril,Abnormal
+Crystal Turner,81,Female,B+,Hypertension,2023-10-20,Dr. Sarah Wilson,Max Hospital,United Health,37701.86,196,Elective,2023-10-24,Ibuprofen,Abnormal
+Anjali Tiwari,21,Female,AB+,Cancer,2022-06-19,Dr. Sunita Patel,Medanta Hospital,Max Bupa,8858.24,340,Emergency,2022-06-27,Atorvastatin,Inconclusive
+Emily Davis,45,Female,O+,Arthritis,2022-05-08,Dr. Priya Sharma,Apollo Healthcare,Aetna,7345.07,220,Elective,2022-05-13,Atorvastatin,Inconclusive
+Brian Nelson,23,Male,AB+,Asthma,2022-06-23,Dr. Matthew Smith,Care Hospital,Star Health,10950.72,386,Emergency,2022-06-30,Salbutamol,Normal
+Kiran Desai,39,Female,AB-,Hypertension,2019-09-28,Dr. Samantha Davies,Rainbow Hospital,HDFC Ergo,11380.81,159,Elective,2019-09-30,Metformin,Normal
+Laura Hall,53,Female,O+,Obesity,2024-01-23,Dr. Matthew Smith,Global Health Center,United Health,28263.77,323,Emergency,2024-02-07,Atorvastatin,Inconclusive
+Laura Hall,37,Female,A+,Cancer,2019-11-01,Dr. Sunita Patel,AIIMS Delhi,Aetna,26161.14,183,Urgent,2019-11-02,Amoxicillin,Abnormal
+Pooja Mehta,81,Male,O-,Obesity,2022-12-23,Dr. Emily Brown,Sun Pharma Clinic,Max Bupa,10062.09,468,Emergency,2023-01-01,Paracetamol,Abnormal
+Neha Joshi,44,Female,B+,Cancer,2023-03-16,Dr. Matthew Smith,Global Health Center,Cigna,31259.63,102,Urgent,2023-03-25,Salbutamol,Normal
+Michael Johnson,27,Male,O-,Arthritis,2019-07-13,Dr. Samantha Davies,City Hospital,United Health,35659.06,448,Emergency,2019-07-28,Omeprazole,Abnormal
+Brittany King,31,Female,B+,Diabetes,2019-06-16,Dr. Emily Brown,Sun Pharma Clinic,United Health,31739.19,102,Elective,2019-06-24,Metformin,Inconclusive
+Samantha Green,75,Female,B+,Cancer,2023-11-03,Dr. Matthew Smith,Medanta Hospital,Aetna,38471.0,380,Urgent,2023-11-04,Omeprazole,Normal
+Emily Davis,50,Male,B-,Hypertension,2019-07-02,Dr. Sunita Patel,AIIMS Delhi,HDFC Ergo,40077.16,245,Urgent,2019-07-03,Ibuprofen,Normal
+Anil Chauhan,80,Female,AB+,Arthritis,2022-05-20,Dr. Samantha Davies,Apollo Healthcare,Star Health,28069.4,350,Elective,2022-05-23,Omeprazole,Abnormal
+Rahul Sinha,72,Male,O+,Obesity,2022-06-11,Dr. John White,Care Hospital,Medicare,6819.71,274,Elective,2022-06-14,Aspirin,Inconclusive
+Rachel Carter,37,Female,A-,Obesity,2021-08-16,Dr. Priya Sharma,Sun Pharma Clinic,United Health,11687.29,165,Urgent,2021-08-23,Lisinopril,Normal
+Megan Walker,72,Female,A+,Asthma,2019-06-06,Dr. Rajesh Kumar,Rainbow Hospital,Medicare,27979.32,311,Emergency,2019-06-21,Amoxicillin,Inconclusive
+Andrew Roberts,50,Female,AB+,Asthma,2019-06-17,Dr. Michael Johnson,City Hospital,Medicare,38323.23,336,Emergency,2019-06-30,Ibuprofen,Abnormal
+Rohit Verma,28,Female,AB+,Obesity,2022-04-17,Dr. Emily Brown,Sun Pharma Clinic,United Health,20360.05,195,Emergency,2022-04-29,Ibuprofen,Normal
+Crystal Turner,51,Male,O+,Asthma,2019-02-06,Dr. John White,Apollo Healthcare,Aetna,12728.09,344,Elective,2019-02-07,Omeprazole,Inconclusive
+Crystal Turner,80,Female,AB-,Arthritis,2022-10-11,Dr. John White,Fortis Medical,Medicare,10629.03,107,Emergency,2022-10-23,Paracetamol,Normal
+Justin Mitchell,42,Male,B-,Hypertension,2022-08-21,Dr. Sunita Patel,Care Hospital,Cigna,8874.21,494,Elective,2022-08-24,Ibuprofen,Abnormal
+Jessica Taylor,20,Male,B+,Cancer,2023-02-22,Dr. Emily Brown,Sun Pharma Clinic,Max Bupa,5883.25,330,Urgent,2023-03-06,Aspirin,Normal
+Meena Jain,68,Male,AB-,Diabetes,2019-07-30,Dr. John White,Care Hospital,Max Bupa,38168.52,405,Urgent,2019-08-10,Insulin,Abnormal
+Rohit Verma,80,Female,O-,Asthma,2022-04-25,Dr. Sarah Wilson,Sun Pharma Clinic,Cigna,37143.06,370,Emergency,2022-05-07,Omeprazole,Inconclusive
+Bobby Jackson,26,Female,O+,Hypertension,2019-08-28,Dr. Sarah Wilson,Medanta Hospital,Max Bupa,36388.15,110,Emergency,2019-09-05,Lisinopril,Inconclusive
+Arjun Nair,78,Female,O-,Cancer,2021-11-05,Dr. Sarah Wilson,Medanta Hospital,Max Bupa,10902.14,250,Urgent,2021-11-09,Omeprazole,Abnormal
+Rachel Carter,64,Female,B+,Asthma,2020-02-29,Dr. Priya Sharma,Sun Pharma Clinic,Blue Cross,12798.1,180,Urgent,2020-03-05,Amoxicillin,Normal
+Michael Johnson,81,Female,B-,Cancer,2022-02-14,Dr. Rajesh Kumar,Medanta Hospital,United Health,21066.97,181,Emergency,2022-02-15,Insulin,Normal
+Amit Kumar,61,Female,A-,Asthma,2020-04-09,Dr. Michael Johnson,Max Hospital,Max Bupa,16602.0,274,Elective,2020-04-11,Metformin,Inconclusive
+Rahul Sinha,37,Male,A+,Hypertension,2023-06-25,Dr. Priya Sharma,Apollo Healthcare,Medicare,42062.46,121,Urgent,2023-07-03,Paracetamol,Normal
+Kevin Adams,33,Male,AB-,Cancer,2023-01-31,Dr. Emily Brown,Rainbow Hospital,Max Bupa,37964.84,150,Emergency,2023-02-05,Atorvastatin,Abnormal
+Suresh Yadav,33,Male,O-,Hypertension,2023-04-25,Dr. Rajesh Kumar,Max Hospital,Max Bupa,20359.4,358,Emergency,2023-05-08,Paracetamol,Abnormal
+Sarah Wilson,71,Female,B-,Cancer,2023-03-23,Dr. Michael Johnson,Care Hospital,Cigna,11209.74,319,Elective,2023-04-05,Omeprazole,Abnormal
+Megan Walker,64,Male,O-,Cancer,2023-04-27,Dr. Michael Johnson,Apollo Healthcare,Medicare,20223.66,305,Emergency,2023-04-28,Omeprazole,Normal
+Emily Davis,22,Male,A+,Arthritis,2022-12-31,Dr. Michael Johnson,Fortis Medical,HDFC Ergo,23090.13,448,Urgent,2023-01-13,Insulin,Abnormal
+Andrew Roberts,58,Female,A+,Obesity,2024-01-18,Dr. Sarah Wilson,AIIMS Delhi,HDFC Ergo,25078.51,205,Urgent,2024-01-27,Salbutamol,Inconclusive
+Stephanie Baker,74,Female,O+,Cancer,2023-12-10,Dr. Priya Sharma,City Hospital,Star Health,22549.71,468,Urgent,2023-12-15,Ibuprofen,Inconclusive
+Daniel Allen,54,Male,A-,Asthma,2022-02-04,Dr. Michael Johnson,Medanta Hospital,Blue Cross,6053.98,376,Urgent,2022-02-09,Lisinopril,Normal
+Melissa Campbell,56,Female,A-,Arthritis,2019-05-03,Dr. Samantha Davies,Fortis Medical,Star Health,10571.59,487,Urgent,2019-05-17,Paracetamol,Abnormal
+Anil Chauhan,18,Female,AB-,Cancer,2023-07-08,Dr. Sarah Wilson,Global Health Center,Cigna,20765.17,245,Urgent,2023-07-20,Salbutamol,Inconclusive
+Suresh Yadav,66,Male,A-,Obesity,2021-11-23,Dr. Sunita Patel,Medanta Hospital,Max Bupa,9409.45,464,Elective,2021-12-03,Omeprazole,Normal
+Neha Joshi,25,Female,B+,Hypertension,2020-03-15,Dr. Priya Sharma,Medanta Hospital,HDFC Ergo,31470.78,365,Elective,2020-03-23,Lisinopril,Inconclusive
+Laura Hall,72,Female,O-,Arthritis,2024-06-16,Dr. Amit Verma,AIIMS Delhi,Blue Cross,26814.4,334,Emergency,2024-06-23,Insulin,Inconclusive
+Pooja Mehta,45,Female,O-,Diabetes,2023-03-09,Dr. Michael Johnson,Medanta Hospital,Medicare,32072.01,309,Emergency,2023-03-12,Paracetamol,Abnormal
+Ryan Scott,55,Male,B+,Diabetes,2021-01-30,Dr. Samantha Davies,Fortis Medical,United Health,26866.65,173,Emergency,2021-02-04,Salbutamol,Abnormal
+Sunita Gupta,57,Female,B-,Cancer,2023-08-05,Dr. Emily Brown,City Hospital,Medicare,29639.18,134,Emergency,2023-08-17,Omeprazole,Abnormal
+Ryan Scott,57,Female,AB-,Hypertension,2021-08-31,Dr. Sarah Wilson,AIIMS Delhi,Blue Cross,27714.37,335,Elective,2021-09-14,Amoxicillin,Normal
+Andrew Roberts,59,Male,O+,Hypertension,2020-04-21,Dr. John White,Medanta Hospital,Aetna,48113.58,326,Urgent,2020-05-06,Lisinopril,Inconclusive
+Neha Joshi,39,Male,AB+,Asthma,2022-08-14,Dr. Michael Johnson,Apollo Healthcare,Cigna,47982.57,377,Urgent,2022-08-16,Metformin,Inconclusive
+Megan Walker,42,Female,A+,Diabetes,2022-09-10,Dr. Michael Johnson,AIIMS Delhi,Aetna,17373.31,205,Emergency,2022-09-25,Salbutamol,Abnormal
+Neha Joshi,59,Female,A+,Hypertension,2023-11-01,Dr. Rajesh Kumar,Medanta Hospital,HDFC Ergo,13122.86,112,Urgent,2023-11-16,Atorvastatin,Abnormal
+Kiran Desai,29,Male,A-,Asthma,2019-12-11,Dr. Amit Verma,AIIMS Delhi,United Health,39573.71,178,Elective,2019-12-16,Omeprazole,Inconclusive
+Rajesh Mishra,25,Female,B+,Diabetes,2022-12-31,Dr. Matthew Smith,Care Hospital,Medicare,19401.87,311,Elective,2023-01-01,Lisinopril,Abnormal
+Pooja Mehta,24,Male,B-,Asthma,2022-04-15,Dr. Emily Brown,Rainbow Hospital,HDFC Ergo,47721.07,237,Emergency,2022-04-19,Atorvastatin,Abnormal
+Ashley Young,70,Male,O-,Diabetes,2021-04-14,Dr. Sunita Patel,City Hospital,United Health,29933.39,400,Urgent,2021-04-25,Paracetamol,Normal
+Brandon Phillips,34,Female,O+,Hypertension,2019-06-21,Dr. Michael Johnson,Max Hospital,Blue Cross,21798.73,186,Emergency,2019-07-05,Insulin,Abnormal
+Ashley Young,75,Male,A+,Hypertension,2024-05-22,Dr. Sarah Wilson,Fortis Medical,Blue Cross,5024.43,346,Elective,2024-06-05,Salbutamol,Abnormal
+Rachel Carter,66,Female,B-,Asthma,2023-09-18,Dr. Matthew Smith,City Hospital,Blue Cross,38263.23,388,Emergency,2023-09-27,Lisinopril,Normal
+Emily Davis,33,Male,AB+,Hypertension,2020-03-07,Dr. Michael Johnson,Medanta Hospital,Star Health,33582.64,485,Urgent,2020-03-17,Amoxicillin,Abnormal
+Sneha Iyer,59,Female,B-,Hypertension,2024-05-18,Dr. Samantha Davies,City Hospital,Blue Cross,34089.95,101,Urgent,2024-05-28,Amoxicillin,Normal
+Aarav Sharma,40,Female,O-,Hypertension,2022-01-07,Dr. Priya Sharma,Rainbow Hospital,Aetna,45165.75,443,Elective,2022-01-09,Paracetamol,Abnormal
+John Smith,63,Female,B+,Arthritis,2019-01-18,Dr. Emily Brown,Medanta Hospital,Cigna,25005.99,213,Urgent,2019-01-20,Metformin,Abnormal
+Rachel Carter,63,Male,A-,Asthma,2022-07-04,Dr. Sunita Patel,Max Hospital,Max Bupa,48528.34,118,Elective,2022-07-09,Amoxicillin,Inconclusive
+Amber Perez,44,Male,B-,Arthritis,2021-03-22,Dr. Matthew Smith,Global Health Center,Max Bupa,12671.47,199,Urgent,2021-03-24,Salbutamol,Inconclusive
+Rachel Carter,40,Male,B+,Arthritis,2019-05-14,Dr. Matthew Smith,Global Health Center,Cigna,44645.14,473,Elective,2019-05-17,Aspirin,Inconclusive
+Priya Singh,50,Female,A+,Hypertension,2022-08-05,Dr. Rajesh Kumar,Medanta Hospital,HDFC Ergo,42995.37,308,Elective,2022-08-16,Paracetamol,Inconclusive
+Megan Walker,77,Female,AB-,Asthma,2023-04-04,Dr. Sunita Patel,City Hospital,United Health,46327.62,372,Elective,2023-04-05,Atorvastatin,Normal
+Emily Davis,42,Female,A-,Asthma,2023-07-13,Dr. Sunita Patel,Care Hospital,Medicare,46264.78,200,Emergency,2023-07-14,Atorvastatin,Abnormal
+Amit Kumar,30,Male,O-,Hypertension,2023-07-13,Dr. Sarah Wilson,Medanta Hospital,United Health,16121.91,342,Emergency,2023-07-14,Atorvastatin,Normal
+Leslie Terry,84,Male,A-,Asthma,2022-06-22,Dr. Priya Sharma,Sun Pharma Clinic,Medicare,8849.06,131,Emergency,2022-06-30,Omeprazole,Abnormal
+Justin Mitchell,26,Male,A+,Hypertension,2019-04-23,Dr. Sarah Wilson,Care Hospital,Medicare,9582.24,128,Urgent,2019-04-28,Metformin,Abnormal
+John Smith,69,Male,O+,Cancer,2023-11-06,Dr. Sarah Wilson,City Hospital,Max Bupa,22276.4,319,Urgent,2023-11-16,Salbutamol,Normal
+Leslie Terry,21,Female,AB-,Asthma,2020-01-30,Dr. Priya Sharma,City Hospital,Medicare,31679.89,199,Urgent,2020-02-01,Ibuprofen,Inconclusive
+James Lewis,50,Female,O+,Hypertension,2023-01-24,Dr. Emily Brown,AIIMS Delhi,Cigna,11195.27,122,Emergency,2023-02-03,Ibuprofen,Abnormal
+Brittany King,73,Female,AB+,Asthma,2023-12-18,Dr. Amit Verma,AIIMS Delhi,Max Bupa,18890.35,275,Elective,2023-12-27,Atorvastatin,Normal
+Megan Walker,36,Male,B-,Asthma,2023-08-05,Dr. Michael Johnson,City Hospital,HDFC Ergo,20471.72,202,Urgent,2023-08-19,Aspirin,Normal
+Leslie Terry,42,Female,O-,Asthma,2022-11-19,Dr. Sarah Wilson,Global Health Center,Star Health,32724.64,314,Elective,2022-11-25,Ibuprofen,Normal
+Amanda White,23,Female,B-,Diabetes,2022-08-01,Dr. Sunita Patel,Sun Pharma Clinic,Cigna,15755.86,476,Elective,2022-08-05,Omeprazole,Normal
+Emily Davis,41,Male,AB-,Diabetes,2019-06-01,Dr. Rajesh Kumar,Rainbow Hospital,Medicare,11408.09,325,Emergency,2019-06-07,Salbutamol,Abnormal
+Rohit Verma,21,Male,B-,Obesity,2019-12-23,Dr. Matthew Smith,AIIMS Delhi,Star Health,43139.04,225,Emergency,2019-12-27,Aspirin,Normal
+Kavita Dubey,51,Male,A+,Arthritis,2019-10-09,Dr. Priya Sharma,Medanta Hospital,Cigna,18728.26,222,Elective,2019-10-16,Atorvastatin,Inconclusive
+Rajesh Mishra,85,Female,A-,Diabetes,2019-10-23,Dr. Amit Verma,Max Hospital,Cigna,28964.96,455,Elective,2019-11-07,Atorvastatin,Inconclusive
+Jessica Taylor,49,Male,B-,Asthma,2020-08-25,Dr. Amit Verma,Medanta Hospital,Cigna,7396.65,243,Emergency,2020-09-07,Insulin,Inconclusive
+Laura Hall,44,Male,O-,Arthritis,2022-06-13,Dr. Amit Verma,Rainbow Hospital,HDFC Ergo,38808.86,430,Urgent,2022-06-15,Atorvastatin,Abnormal
+Megan Walker,77,Male,AB-,Arthritis,2021-02-04,Dr. Emily Brown,Sun Pharma Clinic,Max Bupa,17075.1,305,Urgent,2021-02-13,Salbutamol,Inconclusive
+Rohit Verma,44,Male,B-,Hypertension,2023-11-03,Dr. John White,Max Hospital,United Health,24126.03,293,Urgent,2023-11-07,Ibuprofen,Abnormal
+Kiran Desai,28,Male,A-,Obesity,2021-06-29,Dr. Samantha Davies,Max Hospital,Aetna,25936.39,418,Elective,2021-07-08,Omeprazole,Abnormal
+Amanda White,73,Female,AB-,Hypertension,2020-10-11,Dr. John White,City Hospital,Blue Cross,24875.98,235,Urgent,2020-10-16,Paracetamol,Abnormal
+Neha Joshi,55,Male,AB+,Cancer,2019-07-21,Dr. Priya Sharma,Medanta Hospital,Aetna,29571.17,270,Emergency,2019-07-23,Atorvastatin,Abnormal
+Anil Chauhan,53,Male,B+,Arthritis,2023-02-24,Dr. Matthew Smith,City Hospital,United Health,17683.04,277,Elective,2023-03-05,Omeprazole,Inconclusive
+Brandon Phillips,19,Female,B+,Hypertension,2020-04-11,Dr. Sunita Patel,Sun Pharma Clinic,Cigna,28212.14,382,Elective,2020-04-15,Amoxicillin,Abnormal
+Neha Joshi,58,Male,O+,Arthritis,2021-05-05,Dr. Emily Brown,Sun Pharma Clinic,Aetna,21861.51,395,Emergency,2021-05-09,Lisinopril,Inconclusive
+Aarav Sharma,81,Female,AB-,Cancer,2021-05-08,Dr. John White,Rainbow Hospital,United Health,19673.58,111,Urgent,2021-05-15,Metformin,Normal
+Anjali Tiwari,60,Female,O+,Cancer,2024-04-26,Dr. Priya Sharma,Rainbow Hospital,HDFC Ergo,13475.24,155,Elective,2024-05-03,Salbutamol,Abnormal
+Kevin Adams,56,Male,B+,Diabetes,2022-10-14,Dr. Amit Verma,City Hospital,Max Bupa,6207.73,201,Emergency,2022-10-23,Omeprazole,Abnormal
+Deepika Rao,47,Female,A-,Hypertension,2019-04-28,Dr. Michael Johnson,City Hospital,Blue Cross,19704.74,310,Elective,2019-05-04,Ibuprofen,Normal
+Suresh Yadav,71,Female,A-,Hypertension,2024-05-10,Dr. Sunita Patel,AIIMS Delhi,Cigna,18939.07,463,Urgent,2024-05-25,Amoxicillin,Normal
+Joshua Wright,57,Male,O-,Obesity,2020-02-18,Dr. Amit Verma,Sun Pharma Clinic,Medicare,42106.22,409,Emergency,2020-02-19,Insulin,Abnormal
+Ryan Scott,80,Female,O-,Asthma,2019-03-22,Dr. Priya Sharma,Fortis Medical,Max Bupa,20605.18,464,Elective,2019-04-03,Omeprazole,Inconclusive
+Kavita Dubey,71,Male,B+,Asthma,2023-02-10,Dr. Emily Brown,Care Hospital,Blue Cross,36433.49,148,Elective,2023-02-17,Metformin,Normal
+Rajesh Mishra,53,Female,A-,Arthritis,2023-01-27,Dr. Sunita Patel,Sun Pharma Clinic,HDFC Ergo,49657.54,383,Emergency,2023-02-08,Atorvastatin,Normal
+Brandon Phillips,31,Female,O+,Hypertension,2019-12-04,Dr. Sunita Patel,Rainbow Hospital,Aetna,25797.54,137,Urgent,2019-12-09,Amoxicillin,Abnormal
+Leslie Terry,69,Male,O+,Diabetes,2019-01-22,Dr. Priya Sharma,AIIMS Delhi,Star Health,35163.3,337,Elective,2019-01-27,Amoxicillin,Normal
+Neha Joshi,49,Female,B+,Hypertension,2023-08-08,Dr. Amit Verma,AIIMS Delhi,Aetna,32314.49,190,Elective,2023-08-13,Paracetamol,Inconclusive
+Crystal Turner,68,Male,A-,Arthritis,2023-04-13,Dr. Matthew Smith,AIIMS Delhi,Max Bupa,21113.91,210,Urgent,2023-04-14,Metformin,Inconclusive
+Daniel Allen,45,Female,A+,Arthritis,2023-07-20,Dr. Priya Sharma,Care Hospital,United Health,24979.4,406,Emergency,2023-07-29,Metformin,Abnormal
+Melissa Campbell,43,Male,AB-,Cancer,2020-02-14,Dr. Rajesh Kumar,Care Hospital,Aetna,49518.08,272,Emergency,2020-02-16,Paracetamol,Normal
+Vikram Patel,39,Male,A+,Hypertension,2021-11-15,Dr. Samantha Davies,Medanta Hospital,Cigna,33110.3,377,Elective,2021-11-17,Omeprazole,Normal
+Manish Pandey,45,Male,AB-,Obesity,2019-12-22,Dr. John White,Medanta Hospital,Aetna,22513.4,334,Emergency,2019-12-23,Paracetamol,Inconclusive
+Rahul Sinha,65,Male,A-,Cancer,2021-04-21,Dr. Sarah Wilson,Sun Pharma Clinic,Medicare,37063.9,391,Emergency,2021-04-26,Lisinopril,Normal
+Joshua Wright,59,Female,B+,Obesity,2019-12-26,Dr. Samantha Davies,Sun Pharma Clinic,Medicare,20079.73,411,Urgent,2020-01-06,Amoxicillin,Abnormal
+James Lewis,47,Male,B-,Diabetes,2022-06-16,Dr. Priya Sharma,Fortis Medical,Cigna,38206.1,487,Emergency,2022-06-29,Salbutamol,Normal
+Sunita Gupta,35,Female,O-,Obesity,2020-02-18,Dr. John White,Max Hospital,Aetna,15712.88,471,Urgent,2020-02-21,Amoxicillin,Inconclusive
+Leslie Terry,35,Female,AB-,Arthritis,2023-05-31,Dr. Rajesh Kumar,Rainbow Hospital,HDFC Ergo,34162.09,247,Emergency,2023-06-13,Aspirin,Inconclusive
+Leslie Terry,61,Male,B-,Asthma,2019-04-21,Dr. Sunita Patel,Max Hospital,HDFC Ergo,28466.24,193,Elective,2019-05-06,Metformin,Normal
+Laura Hall,26,Male,A+,Arthritis,2019-10-17,Dr. Amit Verma,Apollo Healthcare,Blue Cross,31668.38,204,Emergency,2019-10-21,Insulin,Normal
+Jessica Taylor,77,Female,B+,Arthritis,2020-02-09,Dr. John White,AIIMS Delhi,Cigna,18639.53,395,Elective,2020-02-13,Aspirin,Abnormal
+David Clark,28,Female,O+,Hypertension,2019-12-10,Dr. Emily Brown,Care Hospital,HDFC Ergo,39214.6,346,Emergency,2019-12-18,Omeprazole,Abnormal
+Neha Joshi,56,Male,B+,Obesity,2021-02-18,Dr. Matthew Smith,Sun Pharma Clinic,United Health,21881.61,410,Elective,2021-02-26,Paracetamol,Abnormal
+Suresh Yadav,78,Male,B+,Cancer,2019-01-09,Dr. Michael Johnson,Medanta Hospital,Max Bupa,23204.99,312,Elective,2019-01-10,Atorvastatin,Abnormal
+Laura Hall,57,Male,O+,Diabetes,2024-03-02,Dr. John White,Global Health Center,Blue Cross,13740.27,323,Elective,2024-03-04,Atorvastatin,Inconclusive
+Amber Perez,80,Female,A+,Arthritis,2021-02-28,Dr. John White,Max Hospital,Cigna,26497.65,285,Urgent,2021-03-15,Metformin,Inconclusive
+Brian Nelson,36,Female,O-,Arthritis,2019-10-29,Dr. Sunita Patel,Global Health Center,Blue Cross,5555.18,494,Emergency,2019-11-03,Omeprazole,Abnormal
+Amber Perez,28,Male,O+,Cancer,2023-08-27,Dr. Matthew Smith,Fortis Medical,HDFC Ergo,31373.59,475,Elective,2023-09-03,Paracetamol,Normal
+Kevin Adams,62,Male,AB+,Arthritis,2020-03-05,Dr. John White,Fortis Medical,Aetna,49416.15,351,Emergency,2020-03-20,Paracetamol,Normal
+Melissa Campbell,71,Female,AB+,Arthritis,2021-06-01,Dr. Amit Verma,Medanta Hospital,Blue Cross,36682.12,201,Elective,2021-06-04,Ibuprofen,Inconclusive
+Pooja Mehta,75,Male,B+,Cancer,2019-05-01,Dr. Amit Verma,Max Hospital,United Health,49232.62,309,Elective,2019-05-13,Salbutamol,Normal
+Kevin Adams,39,Male,AB+,Diabetes,2021-02-12,Dr. Matthew Smith,Apollo Healthcare,Star Health,6335.0,220,Elective,2021-02-14,Amoxicillin,Inconclusive
+Brandon Phillips,30,Male,A+,Obesity,2023-03-20,Dr. Sarah Wilson,City Hospital,Medicare,14498.08,103,Elective,2023-03-21,Salbutamol,Inconclusive
+Brandon Phillips,52,Female,O-,Obesity,2022-05-22,Dr. Samantha Davies,Medanta Hospital,Star Health,49975.03,222,Elective,2022-05-29,Omeprazole,Abnormal
+Samantha Green,25,Female,AB-,Diabetes,2019-01-07,Dr. John White,AIIMS Delhi,Aetna,32085.91,371,Elective,2019-01-15,Aspirin,Abnormal
+Chris Martin,78,Female,B-,Diabetes,2022-07-30,Dr. Samantha Davies,City Hospital,Star Health,44304.55,476,Elective,2022-08-13,Amoxicillin,Normal
+Joshua Wright,80,Female,A-,Obesity,2021-05-26,Dr. Emily Brown,Apollo Healthcare,HDFC Ergo,18223.83,199,Urgent,2021-06-10,Ibuprofen,Inconclusive
+Ryan Scott,82,Male,B+,Hypertension,2023-06-20,Dr. Matthew Smith,Rainbow Hospital,Max Bupa,12562.38,328,Emergency,2023-06-22,Amoxicillin,Inconclusive
+Daniel Allen,48,Male,B-,Cancer,2023-03-23,Dr. Priya Sharma,Apollo Healthcare,HDFC Ergo,49701.27,114,Emergency,2023-04-03,Atorvastatin,Abnormal
+Melissa Campbell,53,Male,AB+,Arthritis,2021-09-02,Dr. Priya Sharma,AIIMS Delhi,Max Bupa,9069.88,454,Elective,2021-09-17,Aspirin,Inconclusive
+Melissa Campbell,26,Female,O+,Arthritis,2023-03-02,Dr. John White,Rainbow Hospital,HDFC Ergo,41380.14,214,Elective,2023-03-14,Paracetamol,Abnormal
+Neha Joshi,32,Male,AB-,Arthritis,2022-04-27,Dr. Sunita Patel,Apollo Healthcare,Star Health,10733.79,260,Elective,2022-05-12,Salbutamol,Inconclusive
+Aarav Sharma,57,Male,B-,Hypertension,2021-05-17,Dr. Samantha Davies,AIIMS Delhi,Cigna,9796.37,104,Urgent,2021-05-23,Amoxicillin,Abnormal
+Anjali Tiwari,55,Male,O-,Arthritis,2021-07-22,Dr. Sarah Wilson,Fortis Medical,Blue Cross,38617.7,459,Emergency,2021-07-25,Salbutamol,Abnormal
+Anil Chauhan,82,Male,AB+,Arthritis,2022-03-21,Dr. Sunita Patel,Sun Pharma Clinic,United Health,36686.32,292,Emergency,2022-03-29,Atorvastatin,Normal
+Amber Perez,44,Male,A+,Cancer,2023-10-21,Dr. John White,Fortis Medical,Blue Cross,49597.84,380,Elective,2023-10-29,Atorvastatin,Abnormal
+Rachel Carter,78,Female,O+,Hypertension,2019-05-28,Dr. Matthew Smith,Fortis Medical,Cigna,36549.89,380,Elective,2019-06-06,Paracetamol,Normal
+Bobby Jackson,24,Female,O-,Arthritis,2019-12-02,Dr. Amit Verma,Sun Pharma Clinic,Max Bupa,18098.67,174,Emergency,2019-12-12,Aspirin,Inconclusive
+Arjun Nair,19,Female,A-,Arthritis,2023-05-28,Dr. Amit Verma,Care Hospital,HDFC Ergo,35575.04,186,Emergency,2023-06-11,Paracetamol,Abnormal
+David Clark,40,Male,A-,Asthma,2022-08-24,Dr. Sarah Wilson,Care Hospital,Blue Cross,33213.76,306,Emergency,2022-08-30,Metformin,Normal
+Sneha Iyer,68,Female,AB+,Arthritis,2022-05-05,Dr. John White,Apollo Healthcare,Max Bupa,43920.31,432,Elective,2022-05-08,Lisinopril,Inconclusive
+Stephanie Baker,74,Female,A+,Diabetes,2019-08-27,Dr. Priya Sharma,Sun Pharma Clinic,Cigna,6036.2,393,Urgent,2019-08-29,Amoxicillin,Abnormal
+Justin Mitchell,30,Male,O+,Hypertension,2022-08-13,Dr. John White,Fortis Medical,Blue Cross,9474.86,132,Urgent,2022-08-25,Insulin,Normal
+Emily Davis,20,Female,O-,Diabetes,2021-11-28,Dr. Sarah Wilson,Rainbow Hospital,Medicare,38907.87,206,Urgent,2021-12-12,Paracetamol,Normal
+Joshua Wright,41,Male,O-,Obesity,2019-09-09,Dr. Amit Verma,Global Health Center,Cigna,34368.82,144,Urgent,2019-09-10,Lisinopril,Normal
+Neha Joshi,33,Female,AB-,Asthma,2019-12-18,Dr. Rajesh Kumar,Max Hospital,United Health,7077.48,365,Elective,2019-12-25,Insulin,Abnormal
+Suresh Yadav,80,Female,AB-,Asthma,2022-01-07,Dr. Sunita Patel,Apollo Healthcare,Aetna,15669.52,196,Emergency,2022-01-16,Lisinopril,Normal
+Suresh Yadav,45,Female,AB+,Cancer,2023-02-02,Dr. John White,Apollo Healthcare,United Health,16730.35,432,Emergency,2023-02-12,Omeprazole,Abnormal
+Neha Joshi,50,Female,B+,Asthma,2020-02-22,Dr. Matthew Smith,Max Hospital,Star Health,30363.9,431,Urgent,2020-02-24,Salbutamol,Normal
+Michael Johnson,37,Female,O+,Hypertension,2019-02-23,Dr. Sunita Patel,Apollo Healthcare,United Health,10607.96,156,Urgent,2019-03-05,Insulin,Abnormal
+Amit Kumar,60,Male,AB-,Obesity,2023-05-13,Dr. Amit Verma,Max Hospital,United Health,5443.85,293,Emergency,2023-05-18,Omeprazole,Normal
+Pooja Mehta,40,Female,O-,Diabetes,2021-12-19,Dr. Sarah Wilson,Fortis Medical,United Health,32336.01,124,Emergency,2021-12-25,Atorvastatin,Abnormal
+Kavita Dubey,62,Female,O-,Asthma,2019-09-19,Dr. Rajesh Kumar,Rainbow Hospital,Blue Cross,34590.33,173,Elective,2019-09-24,Salbutamol,Inconclusive
+Rahul Sinha,24,Female,B-,Arthritis,2022-05-31,Dr. Emily Brown,AIIMS Delhi,Max Bupa,49381.08,339,Urgent,2022-06-07,Lisinopril,Abnormal
+Jessica Taylor,84,Male,AB+,Arthritis,2023-10-24,Dr. Matthew Smith,Care Hospital,Star Health,43036.05,424,Emergency,2023-10-26,Paracetamol,Inconclusive
+Sneha Iyer,29,Male,A+,Diabetes,2023-03-03,Dr. Michael Johnson,Sun Pharma Clinic,Aetna,48297.48,317,Urgent,2023-03-08,Insulin,Inconclusive
+Suresh Yadav,79,Female,A-,Hypertension,2019-01-29,Dr. Sunita Patel,City Hospital,HDFC Ergo,36616.63,483,Elective,2019-02-08,Aspirin,Inconclusive
+Brian Nelson,85,Male,O-,Cancer,2022-10-13,Dr. Michael Johnson,Max Hospital,Blue Cross,8380.51,168,Urgent,2022-10-28,Atorvastatin,Normal
+Jessica Taylor,81,Female,B+,Obesity,2024-06-09,Dr. Samantha Davies,Max Hospital,Medicare,18052.91,347,Elective,2024-06-11,Lisinopril,Normal
+Aarav Sharma,68,Male,AB+,Arthritis,2021-11-21,Dr. Rajesh Kumar,Sun Pharma Clinic,Max Bupa,7587.35,103,Urgent,2021-12-05,Amoxicillin,Abnormal
+Anil Chauhan,63,Male,A+,Obesity,2023-12-29,Dr. Amit Verma,Care Hospital,Star Health,5398.87,320,Elective,2024-01-10,Aspirin,Normal
+Megan Walker,83,Male,O+,Diabetes,2024-02-14,Dr. Rajesh Kumar,AIIMS Delhi,United Health,15174.29,302,Elective,2024-02-22,Lisinopril,Abnormal
+Jessica Taylor,41,Female,A-,Hypertension,2022-09-06,Dr. Emily Brown,AIIMS Delhi,Blue Cross,20918.2,322,Emergency,2022-09-20,Atorvastatin,Inconclusive
+Arjun Nair,32,Male,AB+,Diabetes,2019-10-01,Dr. John White,Medanta Hospital,Aetna,12214.06,201,Elective,2019-10-08,Lisinopril,Normal
+Michael Johnson,80,Female,B+,Obesity,2023-03-19,Dr. John White,Rainbow Hospital,HDFC Ergo,10913.8,155,Emergency,2023-04-01,Ibuprofen,Normal
+Matthew Brown,82,Male,B-,Diabetes,2022-10-21,Dr. Samantha Davies,Care Hospital,Aetna,24544.78,248,Elective,2022-11-04,Amoxicillin,Normal
+Brandon Phillips,72,Male,B+,Arthritis,2021-11-13,Dr. Sunita Patel,Fortis Medical,Medicare,43887.51,458,Emergency,2021-11-16,Omeprazole,Normal
+David Clark,31,Male,B-,Asthma,2022-07-12,Dr. Amit Verma,Max Hospital,Medicare,10953.31,119,Elective,2022-07-23,Aspirin,Normal
+Jessica Taylor,20,Male,A-,Diabetes,2021-02-17,Dr. Michael Johnson,Fortis Medical,Cigna,14979.89,318,Elective,2021-02-24,Metformin,Inconclusive
+Jessica Taylor,24,Female,A-,Obesity,2021-01-14,Dr. Samantha Davies,Care Hospital,Cigna,19392.84,124,Emergency,2021-01-19,Metformin,Normal
+Sunita Gupta,59,Male,AB+,Hypertension,2020-07-27,Dr. Sarah Wilson,Apollo Healthcare,HDFC Ergo,13317.8,351,Elective,2020-08-11,Atorvastatin,Abnormal
+Pooja Mehta,30,Male,B+,Obesity,2021-01-08,Dr. Samantha Davies,Global Health Center,Star Health,15721.35,241,Emergency,2021-01-20,Salbutamol,Abnormal
+Neha Joshi,31,Male,A-,Diabetes,2022-04-16,Dr. Sunita Patel,Max Hospital,Max Bupa,46647.53,138,Urgent,2022-05-01,Salbutamol,Abnormal
+Anil Chauhan,78,Male,B+,Diabetes,2019-09-19,Dr. John White,Rainbow Hospital,United Health,45121.4,488,Urgent,2019-09-23,Atorvastatin,Abnormal
+Chris Martin,33,Female,A-,Hypertension,2021-05-08,Dr. Michael Johnson,City Hospital,Blue Cross,31961.91,456,Emergency,2021-05-17,Lisinopril,Normal
+Ryan Scott,25,Male,O+,Hypertension,2022-11-03,Dr. Michael Johnson,Apollo Healthcare,Blue Cross,24698.52,360,Elective,2022-11-12,Insulin,Abnormal
+Emily Davis,52,Male,B+,Diabetes,2019-11-24,Dr. Sunita Patel,Global Health Center,Aetna,44561.98,362,Elective,2019-12-04,Insulin,Inconclusive
+Andrew Roberts,85,Female,AB+,Cancer,2020-08-29,Dr. Matthew Smith,Rainbow Hospital,Medicare,12699.91,123,Urgent,2020-09-10,Aspirin,Abnormal
+Rohit Verma,36,Female,B+,Obesity,2023-11-24,Dr. Rajesh Kumar,Max Hospital,Cigna,29056.77,100,Urgent,2023-12-07,Atorvastatin,Inconclusive
+Joshua Wright,65,Female,A-,Arthritis,2023-12-16,Dr. Matthew Smith,AIIMS Delhi,HDFC Ergo,45425.11,250,Elective,2023-12-25,Metformin,Inconclusive
+Aarav Sharma,63,Male,AB+,Cancer,2020-06-08,Dr. Michael Johnson,Global Health Center,Medicare,37517.1,452,Elective,2020-06-09,Lisinopril,Inconclusive
+Kevin Adams,44,Female,B-,Obesity,2020-07-04,Dr. Sarah Wilson,Care Hospital,Blue Cross,25072.52,473,Urgent,2020-07-08,Omeprazole,Abnormal
+Anjali Tiwari,79,Male,O-,Cancer,2021-07-29,Dr. Amit Verma,Max Hospital,Max Bupa,47450.98,192,Urgent,2021-08-01,Lisinopril,Normal
+Anil Chauhan,38,Male,O+,Arthritis,2022-05-29,Dr. Priya Sharma,AIIMS Delhi,Medicare,24187.78,332,Urgent,2022-06-02,Omeprazole,Normal
+Andrew Roberts,85,Male,A+,Asthma,2019-07-24,Dr. John White,City Hospital,Medicare,42195.3,490,Urgent,2019-07-31,Metformin,Normal
+Sneha Iyer,28,Female,B+,Arthritis,2022-05-13,Dr. Rajesh Kumar,Apollo Healthcare,Star Health,43372.41,143,Emergency,2022-05-14,Ibuprofen,Abnormal
+Brandon Phillips,74,Male,AB+,Obesity,2021-09-07,Dr. Sunita Patel,City Hospital,United Health,33236.86,163,Emergency,2021-09-10,Metformin,Normal
+Daniel Allen,55,Male,O+,Cancer,2019-01-03,Dr. Sunita Patel,City Hospital,Cigna,24221.09,175,Elective,2019-01-18,Lisinopril,Normal
+Rachel Carter,67,Male,O-,Cancer,2019-08-14,Dr. Priya Sharma,Fortis Medical,Star Health,8433.05,270,Emergency,2019-08-18,Atorvastatin,Normal
+Rohit Verma,37,Male,O+,Asthma,2020-11-16,Dr. Amit Verma,Care Hospital,Blue Cross,45190.29,451,Elective,2020-11-26,Salbutamol,Abnormal
+Matthew Brown,31,Female,O-,Arthritis,2021-01-25,Dr. Matthew Smith,Apollo Healthcare,Aetna,43777.13,176,Urgent,2021-02-09,Ibuprofen,Abnormal
+Anjali Tiwari,67,Female,O-,Diabetes,2019-08-20,Dr. John White,Fortis Medical,Blue Cross,9070.12,165,Emergency,2019-08-30,Omeprazole,Abnormal
+Bobby Jackson,81,Female,O-,Arthritis,2024-06-15,Dr. Sarah Wilson,Medanta Hospital,Blue Cross,41096.34,434,Emergency,2024-06-22,Omeprazole,Abnormal
+Ashley Young,81,Female,B-,Hypertension,2019-06-21,Dr. John White,Rainbow Hospital,Cigna,36639.2,220,Elective,2019-07-01,Metformin,Normal
+Priya Singh,64,Female,B+,Diabetes,2019-05-03,Dr. Samantha Davies,Medanta Hospital,Blue Cross,18261.38,173,Urgent,2019-05-18,Omeprazole,Normal
+Deepika Rao,46,Male,B+,Diabetes,2024-05-24,Dr. Amit Verma,Care Hospital,Aetna,36325.51,317,Elective,2024-06-05,Metformin,Inconclusive
+Vikram Patel,27,Female,B+,Diabetes,2019-10-28,Dr. Amit Verma,Apollo Healthcare,Cigna,8467.94,391,Elective,2019-11-03,Ibuprofen,Normal
+David Clark,35,Female,O-,Hypertension,2023-01-19,Dr. Emily Brown,City Hospital,United Health,10007.0,130,Urgent,2023-01-25,Metformin,Inconclusive
+Brandon Phillips,40,Male,A+,Hypertension,2023-09-02,Dr. Emily Brown,Rainbow Hospital,United Health,46361.76,356,Elective,2023-09-09,Aspirin,Abnormal
+Rajesh Mishra,52,Male,O+,Cancer,2023-03-02,Dr. John White,Global Health Center,Aetna,14850.79,194,Urgent,2023-03-06,Insulin,Inconclusive
+Amit Kumar,77,Female,AB-,Arthritis,2022-08-07,Dr. John White,AIIMS Delhi,Aetna,41150.27,431,Elective,2022-08-14,Aspirin,Abnormal
+Vikram Patel,31,Male,AB-,Asthma,2023-05-14,Dr. Samantha Davies,City Hospital,Cigna,17699.31,377,Emergency,2023-05-28,Paracetamol,Normal
+Joshua Wright,19,Female,B-,Asthma,2020-02-18,Dr. Rajesh Kumar,Max Hospital,United Health,8826.77,391,Urgent,2020-02-29,Metformin,Inconclusive
+David Clark,23,Male,AB-,Diabetes,2024-04-16,Dr. Rajesh Kumar,Medanta Hospital,United Health,48143.26,356,Emergency,2024-04-21,Atorvastatin,Abnormal
+Andrew Roberts,63,Male,A-,Obesity,2021-04-14,Dr. Michael Johnson,Apollo Healthcare,Blue Cross,6065.84,295,Elective,2021-04-29,Salbutamol,Normal
+Meena Jain,38,Male,O-,Diabetes,2023-12-18,Dr. Priya Sharma,Max Hospital,Cigna,41336.42,434,Emergency,2023-12-29,Ibuprofen,Inconclusive
+Megan Walker,84,Female,O-,Cancer,2020-11-25,Dr. Samantha Davies,Global Health Center,HDFC Ergo,6800.58,464,Urgent,2020-11-30,Omeprazole,Normal
+Deepika Rao,27,Male,O-,Diabetes,2023-07-07,Dr. Amit Verma,Fortis Medical,Medicare,27451.05,332,Elective,2023-07-08,Ibuprofen,Abnormal
+Rajesh Mishra,26,Female,AB-,Obesity,2019-07-02,Dr. Amit Verma,Sun Pharma Clinic,United Health,49376.45,231,Elective,2019-07-04,Ibuprofen,Normal
+Ryan Scott,80,Male,AB-,Obesity,2021-04-01,Dr. Sarah Wilson,AIIMS Delhi,Max Bupa,21502.95,419,Elective,2021-04-08,Atorvastatin,Normal
+Rachel Carter,70,Female,AB+,Arthritis,2019-03-29,Dr. Rajesh Kumar,Max Hospital,Aetna,11955.3,153,Elective,2019-04-08,Omeprazole,Normal
+Ryan Scott,69,Male,B-,Hypertension,2023-11-26,Dr. Priya Sharma,Medanta Hospital,Max Bupa,26081.99,373,Elective,2023-12-04,Paracetamol,Normal
+Kavita Dubey,31,Female,O+,Cancer,2021-04-02,Dr. Priya Sharma,Medanta Hospital,Star Health,49839.72,348,Emergency,2021-04-08,Amoxicillin,Normal
+Rahul Sinha,76,Male,B+,Hypertension,2019-10-26,Dr. Sunita Patel,Medanta Hospital,Aetna,49451.48,496,Elective,2019-11-06,Metformin,Abnormal
+Jessica Taylor,78,Male,A+,Cancer,2023-11-13,Dr. John White,Fortis Medical,United Health,33605.93,142,Emergency,2023-11-14,Paracetamol,Abnormal
+Emily Davis,28,Female,O-,Hypertension,2021-12-10,Dr. Matthew Smith,AIIMS Delhi,Aetna,9159.86,319,Elective,2021-12-14,Lisinopril,Normal
+Arjun Nair,62,Female,O-,Hypertension,2022-01-01,Dr. Amit Verma,Care Hospital,Star Health,46066.9,392,Elective,2022-01-13,Metformin,Inconclusive
+Joshua Wright,43,Male,B+,Obesity,2022-09-22,Dr. Samantha Davies,City Hospital,Blue Cross,45342.55,175,Elective,2022-10-06,Atorvastatin,Normal
+Rachel Carter,70,Female,A+,Hypertension,2024-04-15,Dr. Amit Verma,Sun Pharma Clinic,Medicare,6641.87,481,Emergency,2024-04-29,Omeprazole,Inconclusive
+Daniel Allen,39,Female,B-,Obesity,2020-03-05,Dr. Sarah Wilson,City Hospital,Star Health,41620.07,108,Elective,2020-03-09,Lisinopril,Inconclusive
+Pooja Mehta,81,Female,O+,Hypertension,2020-12-21,Dr. Michael Johnson,Care Hospital,Star Health,10102.1,190,Elective,2020-12-27,Omeprazole,Abnormal
+Kavita Dubey,38,Female,O+,Obesity,2023-09-27,Dr. John White,Fortis Medical,Medicare,49791.34,153,Emergency,2023-10-08,Metformin,Inconclusive
+Michael Johnson,31,Female,A-,Arthritis,2021-06-28,Dr. Sarah Wilson,City Hospital,United Health,43326.74,208,Emergency,2021-07-07,Amoxicillin,Inconclusive
+John Smith,32,Male,O-,Diabetes,2020-12-19,Dr. Emily Brown,Care Hospital,HDFC Ergo,5342.23,291,Emergency,2021-01-01,Insulin,Abnormal
+Rahul Sinha,51,Female,O+,Arthritis,2020-05-09,Dr. John White,City Hospital,Aetna,6181.11,291,Urgent,2020-05-10,Salbutamol,Abnormal
+Leslie Terry,39,Female,B-,Asthma,2024-06-16,Dr. Sunita Patel,Global Health Center,HDFC Ergo,42284.75,395,Elective,2024-06-23,Ibuprofen,Inconclusive
+John Smith,40,Female,AB-,Asthma,2019-11-21,Dr. Sunita Patel,Apollo Healthcare,Blue Cross,27691.57,423,Urgent,2019-11-28,Omeprazole,Inconclusive
+Kiran Desai,38,Female,B-,Diabetes,2019-07-11,Dr. John White,City Hospital,Blue Cross,6251.83,462,Urgent,2019-07-12,Paracetamol,Inconclusive
+John Smith,21,Male,O-,Arthritis,2022-07-17,Dr. Samantha Davies,AIIMS Delhi,Cigna,34363.52,213,Elective,2022-07-30,Aspirin,Inconclusive
+Sneha Iyer,66,Female,A+,Obesity,2019-06-19,Dr. Amit Verma,City Hospital,Medicare,9991.92,405,Emergency,2019-07-04,Paracetamol,Normal
+Meena Jain,51,Male,A-,Diabetes,2021-10-09,Dr. Samantha Davies,Max Hospital,HDFC Ergo,9530.23,111,Elective,2021-10-23,Paracetamol,Abnormal
+Kevin Adams,27,Male,O+,Hypertension,2023-12-28,Dr. Emily Brown,AIIMS Delhi,Blue Cross,18443.97,191,Urgent,2024-01-03,Salbutamol,Inconclusive
+Joshua Wright,22,Male,AB-,Obesity,2021-09-18,Dr. Sarah Wilson,Rainbow Hospital,Aetna,12127.47,479,Elective,2021-09-28,Paracetamol,Normal
+Joshua Wright,21,Male,B+,Cancer,2023-11-11,Dr. Priya Sharma,Max Hospital,Aetna,19739.29,212,Emergency,2023-11-17,Ibuprofen,Abnormal
+Rahul Sinha,79,Male,A-,Obesity,2022-12-21,Dr. Matthew Smith,Sun Pharma Clinic,Max Bupa,24622.79,304,Emergency,2022-12-30,Lisinopril,Normal
+Arjun Nair,53,Female,A-,Asthma,2023-06-13,Dr. Sarah Wilson,Fortis Medical,Blue Cross,40734.48,469,Elective,2023-06-26,Omeprazole,Abnormal
+Jessica Taylor,52,Female,A-,Asthma,2021-02-23,Dr. Sunita Patel,Global Health Center,Star Health,21828.22,423,Emergency,2021-03-02,Amoxicillin,Normal
+Rohit Verma,83,Female,O+,Obesity,2022-05-21,Dr. Michael Johnson,Medanta Hospital,HDFC Ergo,6347.3,192,Elective,2022-06-04,Omeprazole,Normal
+Matthew Brown,49,Male,B-,Arthritis,2021-01-31,Dr. Amit Verma,Medanta Hospital,Medicare,5433.48,452,Emergency,2021-02-06,Atorvastatin,Normal
+Amanda White,59,Male,A-,Hypertension,2020-08-03,Dr. Sunita Patel,Rainbow Hospital,Cigna,9631.41,242,Urgent,2020-08-13,Salbutamol,Inconclusive
+Amit Kumar,71,Female,AB-,Obesity,2020-02-10,Dr. Rajesh Kumar,Sun Pharma Clinic,Max Bupa,7105.63,240,Elective,2020-02-14,Paracetamol,Normal
+Chris Martin,39,Female,O+,Cancer,2022-03-26,Dr. Matthew Smith,City Hospital,Aetna,46023.94,245,Emergency,2022-03-27,Omeprazole,Normal
+Daniel Allen,85,Male,AB-,Arthritis,2019-02-03,Dr. Emily Brown,Apollo Healthcare,HDFC Ergo,37546.42,240,Elective,2019-02-05,Atorvastatin,Abnormal
+Neha Joshi,58,Female,A+,Hypertension,2020-09-03,Dr. Emily Brown,Sun Pharma Clinic,Medicare,42938.4,416,Emergency,2020-09-15,Metformin,Normal
+Sunita Gupta,19,Male,A-,Obesity,2023-10-31,Dr. John White,Max Hospital,Blue Cross,8960.75,470,Elective,2023-11-12,Insulin,Normal
+Justin Mitchell,24,Female,A+,Diabetes,2019-04-09,Dr. Priya Sharma,Fortis Medical,Star Health,35956.47,294,Elective,2019-04-14,Ibuprofen,Normal
+Brittany King,76,Male,B+,Obesity,2023-11-01,Dr. Sarah Wilson,Care Hospital,Max Bupa,35070.59,367,Urgent,2023-11-04,Aspirin,Inconclusive
+David Clark,80,Female,AB-,Arthritis,2021-09-15,Dr. Priya Sharma,Fortis Medical,United Health,37012.16,280,Urgent,2021-09-19,Aspirin,Inconclusive
+Stephanie Baker,44,Male,A-,Hypertension,2019-05-04,Dr. Rajesh Kumar,Max Hospital,Max Bupa,41833.01,196,Elective,2019-05-08,Paracetamol,Abnormal
+Deepika Rao,85,Female,AB+,Arthritis,2021-07-18,Dr. Amit Verma,Rainbow Hospital,Medicare,46135.64,212,Elective,2021-07-29,Omeprazole,Abnormal
+Samantha Green,83,Male,O+,Cancer,2019-05-21,Dr. John White,AIIMS Delhi,United Health,47817.26,395,Urgent,2019-05-26,Paracetamol,Normal
+Amanda White,31,Male,B-,Diabetes,2024-01-06,Dr. Amit Verma,Fortis Medical,Aetna,26430.82,371,Elective,2024-01-14,Atorvastatin,Abnormal
+Pooja Mehta,28,Female,O+,Cancer,2019-11-05,Dr. Michael Johnson,Care Hospital,Star Health,7392.07,239,Elective,2019-11-12,Paracetamol,Normal
+Stephanie Baker,66,Female,B-,Obesity,2020-01-23,Dr. Amit Verma,Global Health Center,United Health,28830.32,352,Urgent,2020-01-30,Omeprazole,Normal
+Rachel Carter,24,Male,A-,Cancer,2019-08-24,Dr. Rajesh Kumar,Global Health Center,United Health,15744.52,372,Emergency,2019-08-25,Lisinopril,Normal
+Samantha Green,69,Female,O+,Diabetes,2020-03-26,Dr. Matthew Smith,Sun Pharma Clinic,Cigna,12696.31,204,Elective,2020-04-07,Lisinopril,Inconclusive
+Joshua Wright,54,Male,A-,Cancer,2021-10-27,Dr. Sarah Wilson,Sun Pharma Clinic,United Health,43365.38,452,Emergency,2021-11-11,Ibuprofen,Abnormal
+Rachel Carter,26,Male,B+,Obesity,2024-01-17,Dr. Amit Verma,City Hospital,Max Bupa,24256.51,110,Emergency,2024-01-25,Lisinopril,Normal
+Rajesh Mishra,19,Female,O-,Asthma,2019-01-03,Dr. Sunita Patel,Sun Pharma Clinic,Medicare,7032.94,108,Urgent,2019-01-11,Lisinopril,Normal
+Megan Walker,82,Male,B+,Diabetes,2019-07-24,Dr. Samantha Davies,Sun Pharma Clinic,Max Bupa,38066.68,379,Elective,2019-07-29,Amoxicillin,Abnormal
+Sarah Wilson,76,Male,AB-,Obesity,2022-12-25,Dr. Michael Johnson,Global Health Center,Max Bupa,10074.25,451,Urgent,2022-12-31,Metformin,Normal
+Michael Johnson,46,Male,AB-,Hypertension,2019-03-05,Dr. Sarah Wilson,Care Hospital,Star Health,14283.84,145,Emergency,2019-03-09,Omeprazole,Inconclusive
+Vikram Patel,53,Female,B+,Obesity,2024-02-08,Dr. Samantha Davies,Medanta Hospital,HDFC Ergo,31511.65,241,Elective,2024-02-19,Aspirin,Normal
+Brittany King,84,Female,A-,Hypertension,2023-06-17,Dr. Sarah Wilson,Medanta Hospital,United Health,9958.58,104,Elective,2023-06-25,Ibuprofen,Abnormal
+Rachel Carter,37,Female,B+,Obesity,2021-09-24,Dr. Priya Sharma,Fortis Medical,Aetna,25423.62,211,Elective,2021-09-29,Salbutamol,Normal
+Sunita Gupta,80,Female,A+,Hypertension,2020-12-22,Dr. Rajesh Kumar,City Hospital,United Health,11197.35,245,Urgent,2021-01-02,Insulin,Normal
+Neha Joshi,52,Male,B-,Hypertension,2022-04-13,Dr. Priya Sharma,Fortis Medical,Cigna,6446.15,281,Emergency,2022-04-28,Omeprazole,Abnormal
+Emily Davis,30,Female,AB+,Asthma,2020-09-28,Dr. Sarah Wilson,Care Hospital,Star Health,41197.11,171,Urgent,2020-10-01,Aspirin,Abnormal
+Suresh Yadav,71,Male,AB+,Obesity,2019-06-25,Dr. Sarah Wilson,Sun Pharma Clinic,Blue Cross,21918.47,323,Emergency,2019-06-30,Ibuprofen,Inconclusive
+Chris Martin,58,Female,O-,Obesity,2021-05-25,Dr. John White,Care Hospital,Max Bupa,6245.28,386,Emergency,2021-06-02,Omeprazole,Normal
+Brandon Phillips,35,Female,B-,Asthma,2021-11-14,Dr. Amit Verma,Global Health Center,United Health,7409.12,301,Emergency,2021-11-20,Omeprazole,Inconclusive
+Aarav Sharma,77,Female,A+,Diabetes,2019-04-23,Dr. Priya Sharma,Medanta Hospital,Medicare,41987.31,389,Elective,2019-04-28,Atorvastatin,Normal
+Pooja Mehta,83,Male,B-,Asthma,2019-10-23,Dr. Emily Brown,AIIMS Delhi,Cigna,45277.36,427,Emergency,2019-11-01,Lisinopril,Inconclusive
+Anil Chauhan,18,Female,B-,Diabetes,2019-05-18,Dr. Amit Verma,Global Health Center,Medicare,28392.02,226,Emergency,2019-05-19,Paracetamol,Abnormal
+Priya Singh,82,Female,O+,Diabetes,2024-03-11,Dr. Matthew Smith,Care Hospital,Max Bupa,49221.33,220,Urgent,2024-03-13,Lisinopril,Inconclusive
+Rachel Carter,74,Male,O+,Cancer,2022-07-26,Dr. Amit Verma,AIIMS Delhi,Cigna,12684.9,479,Urgent,2022-07-27,Insulin,Normal
+David Clark,79,Female,AB+,Arthritis,2019-07-24,Dr. Emily Brown,Medanta Hospital,United Health,22603.51,457,Emergency,2019-08-03,Amoxicillin,Abnormal
+Jessica Taylor,36,Male,AB+,Hypertension,2019-09-04,Dr. John White,City Hospital,United Health,6533.76,433,Urgent,2019-09-14,Salbutamol,Abnormal
+Rohit Verma,63,Male,O-,Arthritis,2021-07-27,Dr. Rajesh Kumar,AIIMS Delhi,Star Health,27528.73,357,Emergency,2021-08-01,Atorvastatin,Inconclusive
+Megan Walker,67,Male,B+,Arthritis,2019-11-07,Dr. Sarah Wilson,Medanta Hospital,Max Bupa,37183.2,171,Elective,2019-11-13,Lisinopril,Abnormal
+Amit Kumar,79,Female,O-,Asthma,2022-09-11,Dr. Sarah Wilson,Rainbow Hospital,United Health,10823.99,265,Urgent,2022-09-14,Salbutamol,Abnormal
+Brittany King,69,Male,A+,Diabetes,2023-10-11,Dr. Amit Verma,Max Hospital,Medicare,34936.74,355,Urgent,2023-10-23,Amoxicillin,Abnormal
+Brandon Phillips,47,Male,A-,Cancer,2023-01-31,Dr. John White,Care Hospital,Medicare,7786.7,228,Emergency,2023-02-15,Metformin,Inconclusive
+Amit Kumar,74,Female,A+,Cancer,2020-10-19,Dr. Emily Brown,Care Hospital,Blue Cross,49499.19,393,Urgent,2020-10-21,Aspirin,Normal
+Kiran Desai,80,Female,AB+,Cancer,2020-02-17,Dr. Amit Verma,Care Hospital,Cigna,8870.82,112,Urgent,2020-02-29,Paracetamol,Normal
+Rohit Verma,35,Male,AB-,Hypertension,2022-03-09,Dr. Priya Sharma,Medanta Hospital,Blue Cross,35706.25,472,Urgent,2022-03-18,Insulin,Abnormal
+Arjun Nair,44,Female,AB-,Obesity,2022-06-20,Dr. Michael Johnson,AIIMS Delhi,Medicare,24749.51,420,Elective,2022-07-05,Paracetamol,Inconclusive
+Neha Joshi,34,Female,A-,Diabetes,2021-10-18,Dr. Rajesh Kumar,Global Health Center,Star Health,6014.41,248,Elective,2021-10-22,Omeprazole,Inconclusive
+Matthew Brown,26,Male,AB+,Diabetes,2021-12-30,Dr. Sunita Patel,Rainbow Hospital,United Health,22964.88,129,Urgent,2022-01-09,Paracetamol,Inconclusive
+David Clark,51,Male,A+,Obesity,2021-05-13,Dr. Sunita Patel,Medanta Hospital,Aetna,11267.99,380,Urgent,2021-05-18,Atorvastatin,Inconclusive
+Sunita Gupta,48,Female,A-,Asthma,2024-01-27,Dr. Rajesh Kumar,Medanta Hospital,Medicare,47745.85,406,Urgent,2024-02-06,Salbutamol,Normal
+Ashley Young,79,Male,AB+,Arthritis,2019-03-27,Dr. Rajesh Kumar,Sun Pharma Clinic,Cigna,34265.16,320,Elective,2019-03-29,Lisinopril,Normal
+Priya Singh,25,Male,B-,Asthma,2022-05-30,Dr. John White,City Hospital,Max Bupa,7346.32,492,Elective,2022-06-13,Ibuprofen,Abnormal
+Justin Mitchell,72,Male,A-,Hypertension,2019-08-30,Dr. Sarah Wilson,Medanta Hospital,Star Health,13714.05,323,Emergency,2019-09-14,Aspirin,Normal
+Neha Joshi,19,Male,O+,Arthritis,2023-03-22,Dr. Michael Johnson,Global Health Center,Aetna,49592.24,107,Urgent,2023-04-06,Aspirin,Normal
+Amit Kumar,25,Male,O-,Cancer,2020-08-01,Dr. Samantha Davies,Medanta Hospital,Cigna,49914.0,166,Urgent,2020-08-02,Omeprazole,Abnormal
+Brian Nelson,33,Male,A-,Obesity,2024-04-05,Dr. Sunita Patel,Sun Pharma Clinic,Star Health,45393.81,212,Elective,2024-04-14,Lisinopril,Abnormal
+Melissa Campbell,55,Male,AB+,Obesity,2022-11-30,Dr. Michael Johnson,Apollo Healthcare,Aetna,20598.6,310,Urgent,2022-12-09,Salbutamol,Abnormal
+Rahul Sinha,28,Male,B+,Asthma,2020-04-17,Dr. Michael Johnson,Max Hospital,Medicare,21757.55,172,Emergency,2020-04-22,Aspirin,Inconclusive
+Chris Martin,76,Male,A+,Hypertension,2023-09-09,Dr. Matthew Smith,Fortis Medical,HDFC Ergo,18518.58,143,Emergency,2023-09-10,Lisinopril,Inconclusive
+John Smith,81,Male,O+,Hypertension,2021-06-28,Dr. Sunita Patel,Max Hospital,HDFC Ergo,13299.21,320,Urgent,2021-06-29,Metformin,Inconclusive
+Anil Chauhan,22,Female,A+,Asthma,2023-03-26,Dr. Samantha Davies,Fortis Medical,Cigna,39076.35,274,Urgent,2023-04-10,Salbutamol,Abnormal
+Jessica Taylor,25,Male,O+,Arthritis,2024-03-24,Dr. Matthew Smith,Rainbow Hospital,Max Bupa,24072.58,468,Urgent,2024-04-04,Insulin,Abnormal
+Rajesh Mishra,66,Female,B-,Cancer,2024-02-02,Dr. Matthew Smith,Fortis Medical,Medicare,49946.27,494,Urgent,2024-02-03,Lisinopril,Abnormal
+Ryan Scott,68,Male,AB+,Obesity,2020-07-04,Dr. Matthew Smith,Global Health Center,Aetna,10593.79,391,Urgent,2020-07-15,Atorvastatin,Abnormal
+Kavita Dubey,74,Female,A+,Hypertension,2019-01-19,Dr. Rajesh Kumar,Medanta Hospital,Max Bupa,33698.44,384,Emergency,2019-01-27,Omeprazole,Normal
+Brittany King,28,Female,AB-,Diabetes,2021-06-21,Dr. Matthew Smith,Fortis Medical,United Health,44107.49,165,Emergency,2021-06-24,Ibuprofen,Normal
+Samantha Green,24,Male,A-,Arthritis,2019-03-20,Dr. Michael Johnson,Sun Pharma Clinic,Star Health,6888.0,467,Emergency,2019-03-23,Metformin,Inconclusive
+Kiran Desai,50,Male,AB-,Asthma,2023-01-11,Dr. Sarah Wilson,Max Hospital,Star Health,9912.36,359,Elective,2023-01-12,Paracetamol,Inconclusive
+Amit Kumar,48,Male,AB-,Asthma,2021-01-30,Dr. John White,Apollo Healthcare,HDFC Ergo,44413.39,173,Emergency,2021-02-13,Atorvastatin,Inconclusive
+Sarah Wilson,60,Female,AB-,Hypertension,2024-04-14,Dr. Sarah Wilson,City Hospital,Blue Cross,21573.59,248,Emergency,2024-04-19,Salbutamol,Normal
+Vikram Patel,45,Female,AB-,Cancer,2021-02-14,Dr. Sarah Wilson,City Hospital,Blue Cross,22149.03,432,Emergency,2021-02-28,Paracetamol,Normal
+Ryan Scott,82,Female,A-,Asthma,2023-06-23,Dr. Sarah Wilson,Sun Pharma Clinic,Max Bupa,19262.27,199,Urgent,2023-06-24,Lisinopril,Normal
+Leslie Terry,49,Female,B-,Hypertension,2020-10-06,Dr. Priya Sharma,Max Hospital,Max Bupa,37975.92,309,Elective,2020-10-18,Paracetamol,Abnormal
+Ashley Young,82,Male,AB-,Arthritis,2021-09-18,Dr. Sunita Patel,Sun Pharma Clinic,HDFC Ergo,15339.35,164,Urgent,2021-09-28,Aspirin,Abnormal
+Rachel Carter,35,Female,AB+,Obesity,2020-10-04,Dr. Priya Sharma,Care Hospital,HDFC Ergo,27726.17,175,Urgent,2020-10-06,Amoxicillin,Inconclusive
+Melissa Campbell,43,Male,O-,Diabetes,2019-12-08,Dr. John White,Fortis Medical,Max Bupa,38428.43,164,Emergency,2019-12-10,Omeprazole,Normal
+Justin Mitchell,39,Male,B+,Asthma,2023-11-11,Dr. John White,Care Hospital,Star Health,10735.38,456,Urgent,2023-11-20,Aspirin,Inconclusive
+Meena Jain,33,Female,AB-,Asthma,2022-05-31,Dr. Priya Sharma,City Hospital,Medicare,38243.68,281,Elective,2022-06-10,Omeprazole,Inconclusive
+Chris Martin,73,Female,O-,Arthritis,2019-10-03,Dr. Amit Verma,Global Health Center,Medicare,11851.54,103,Urgent,2019-10-15,Salbutamol,Abnormal
+Rachel Carter,76,Female,AB-,Hypertension,2019-12-28,Dr. Sarah Wilson,Fortis Medical,Medicare,15451.86,352,Elective,2020-01-06,Metformin,Inconclusive
+Megan Walker,85,Female,AB+,Obesity,2021-02-25,Dr. Amit Verma,AIIMS Delhi,Aetna,41629.42,476,Urgent,2021-03-03,Aspirin,Abnormal
+Megan Walker,53,Female,A-,Obesity,2020-08-06,Dr. Priya Sharma,Fortis Medical,United Health,26898.61,214,Emergency,2020-08-09,Lisinopril,Abnormal
+Joshua Wright,31,Male,AB+,Cancer,2019-07-16,Dr. Michael Johnson,Rainbow Hospital,Blue Cross,6230.76,120,Urgent,2019-07-20,Insulin,Normal
+Aarav Sharma,80,Male,AB-,Cancer,2020-07-31,Dr. John White,Sun Pharma Clinic,Blue Cross,42396.7,251,Emergency,2020-08-10,Paracetamol,Abnormal
+Jessica Taylor,81,Female,A-,Cancer,2020-07-24,Dr. Priya Sharma,Medanta Hospital,Medicare,38492.49,213,Urgent,2020-08-05,Paracetamol,Abnormal
+Rajesh Mishra,82,Female,AB+,Hypertension,2022-07-15,Dr. Michael Johnson,Apollo Healthcare,Star Health,45152.26,119,Elective,2022-07-27,Paracetamol,Inconclusive
+Megan Walker,58,Male,A+,Arthritis,2022-07-08,Dr. Sunita Patel,AIIMS Delhi,HDFC Ergo,44245.17,212,Urgent,2022-07-09,Aspirin,Abnormal
+David Clark,37,Female,B+,Arthritis,2021-10-14,Dr. Amit Verma,Max Hospital,Medicare,47787.47,470,Urgent,2021-10-19,Aspirin,Normal
+Jessica Taylor,26,Female,B-,Arthritis,2019-12-31,Dr. John White,Fortis Medical,HDFC Ergo,33396.19,220,Urgent,2020-01-01,Atorvastatin,Abnormal
+Megan Walker,41,Female,B-,Obesity,2022-09-30,Dr. Emily Brown,Care Hospital,Star Health,29453.6,251,Emergency,2022-10-08,Aspirin,Normal
+Brandon Phillips,54,Female,O-,Obesity,2020-05-21,Dr. John White,Apollo Healthcare,Blue Cross,25913.12,263,Urgent,2020-06-01,Paracetamol,Abnormal
+Justin Mitchell,68,Male,O-,Hypertension,2022-05-15,Dr. Sunita Patel,City Hospital,United Health,17056.57,210,Elective,2022-05-22,Metformin,Inconclusive
+Melissa Campbell,59,Female,AB-,Hypertension,2021-03-12,Dr. Emily Brown,Care Hospital,HDFC Ergo,16731.47,127,Elective,2021-03-25,Amoxicillin,Inconclusive
+Manish Pandey,61,Male,AB+,Hypertension,2021-04-19,Dr. Sarah Wilson,AIIMS Delhi,Cigna,40079.84,156,Urgent,2021-04-23,Salbutamol,Abnormal
+Suresh Yadav,20,Male,O+,Diabetes,2023-05-18,Dr. Samantha Davies,Medanta Hospital,Medicare,34471.92,365,Emergency,2023-05-30,Atorvastatin,Inconclusive
+Arjun Nair,38,Female,B-,Obesity,2023-06-30,Dr. Samantha Davies,Medanta Hospital,HDFC Ergo,14702.68,475,Emergency,2023-07-03,Metformin,Normal
+Priya Singh,85,Male,O+,Hypertension,2019-03-28,Dr. Matthew Smith,Fortis Medical,Aetna,15350.24,495,Urgent,2019-03-31,Aspirin,Normal
+Rahul Sinha,33,Female,O+,Cancer,2023-08-03,Dr. Matthew Smith,Apollo Healthcare,Medicare,8325.06,469,Urgent,2023-08-15,Omeprazole,Normal
+Aarav Sharma,37,Male,O+,Cancer,2023-08-30,Dr. Matthew Smith,Medanta Hospital,HDFC Ergo,28056.0,111,Elective,2023-09-09,Lisinopril,Abnormal
+Arjun Nair,30,Female,O-,Hypertension,2020-08-19,Dr. Priya Sharma,Max Hospital,HDFC Ergo,30244.83,347,Elective,2020-08-26,Insulin,Inconclusive
+Sneha Iyer,66,Male,O-,Arthritis,2021-03-17,Dr. Michael Johnson,Apollo Healthcare,Max Bupa,15082.74,112,Elective,2021-03-23,Aspirin,Abnormal
+Sarah Wilson,79,Male,AB+,Obesity,2019-10-22,Dr. Priya Sharma,Apollo Healthcare,Blue Cross,14345.68,350,Urgent,2019-11-04,Aspirin,Normal
+Anjali Tiwari,69,Female,B-,Diabetes,2023-04-21,Dr. Matthew Smith,Care Hospital,United Health,38323.0,177,Emergency,2023-04-29,Atorvastatin,Inconclusive
+Ryan Scott,70,Male,AB+,Arthritis,2020-03-04,Dr. Michael Johnson,Sun Pharma Clinic,Max Bupa,19085.73,433,Emergency,2020-03-17,Atorvastatin,Abnormal
+Amber Perez,79,Male,A-,Hypertension,2022-12-03,Dr. John White,AIIMS Delhi,Aetna,12294.19,483,Emergency,2022-12-05,Ibuprofen,Normal
+Chris Martin,32,Male,O+,Hypertension,2019-12-16,Dr. Michael Johnson,Sun Pharma Clinic,Blue Cross,38704.7,380,Elective,2019-12-27,Omeprazole,Normal
+Meena Jain,33,Female,AB+,Arthritis,2024-03-03,Dr. Matthew Smith,Rainbow Hospital,Star Health,32679.52,290,Urgent,2024-03-18,Ibuprofen,Normal
+Meena Jain,84,Male,AB-,Asthma,2022-05-23,Dr. Emily Brown,Sun Pharma Clinic,Cigna,47129.11,482,Urgent,2022-05-28,Ibuprofen,Normal
+Megan Walker,78,Male,AB-,Hypertension,2020-01-03,Dr. Emily Brown,Apollo Healthcare,Aetna,19032.82,196,Emergency,2020-01-06,Paracetamol,Inconclusive
+Amanda White,60,Male,A+,Asthma,2021-08-17,Dr. Amit Verma,Apollo Healthcare,Star Health,33635.46,215,Elective,2021-08-27,Metformin,Normal
+Rahul Sinha,54,Female,AB+,Obesity,2022-07-02,Dr. John White,Fortis Medical,Cigna,8486.43,178,Emergency,2022-07-15,Aspirin,Abnormal
+Kavita Dubey,51,Male,B+,Asthma,2022-04-17,Dr. John White,Medanta Hospital,United Health,48499.65,477,Urgent,2022-04-28,Amoxicillin,Normal
+Rajesh Mishra,18,Male,B-,Diabetes,2024-03-18,Dr. Sarah Wilson,AIIMS Delhi,Blue Cross,12416.83,100,Elective,2024-03-31,Paracetamol,Normal
+Suresh Yadav,83,Female,O+,Arthritis,2021-08-24,Dr. Matthew Smith,Rainbow Hospital,Medicare,15834.78,301,Elective,2021-08-30,Omeprazole,Inconclusive
+David Clark,63,Female,AB-,Asthma,2019-06-10,Dr. Sarah Wilson,Max Hospital,Blue Cross,47547.05,242,Urgent,2019-06-25,Ibuprofen,Abnormal
+Ashley Young,74,Female,AB+,Arthritis,2019-09-04,Dr. John White,Medanta Hospital,Blue Cross,6138.3,287,Elective,2019-09-13,Atorvastatin,Inconclusive
+Jessica Taylor,45,Male,O+,Obesity,2020-01-02,Dr. Rajesh Kumar,Max Hospital,Max Bupa,21244.61,199,Emergency,2020-01-17,Salbutamol,Abnormal
+Leslie Terry,30,Female,AB+,Asthma,2024-03-02,Dr. Sarah Wilson,Fortis Medical,Aetna,34124.82,428,Elective,2024-03-03,Omeprazole,Normal
+Justin Mitchell,50,Female,A+,Asthma,2023-08-14,Dr. Emily Brown,Global Health Center,Max Bupa,27063.52,342,Urgent,2023-08-15,Insulin,Normal
+Rohit Verma,65,Male,B+,Arthritis,2023-02-16,Dr. Amit Verma,Apollo Healthcare,HDFC Ergo,42532.9,161,Emergency,2023-02-19,Amoxicillin,Inconclusive
+Amber Perez,25,Female,A-,Asthma,2020-07-22,Dr. Sunita Patel,Global Health Center,Aetna,19969.92,444,Elective,2020-08-05,Ibuprofen,Inconclusive
+Andrew Roberts,64,Male,O+,Hypertension,2023-09-12,Dr. Rajesh Kumar,Apollo Healthcare,Cigna,42127.14,356,Emergency,2023-09-23,Lisinopril,Normal
+Kavita Dubey,74,Male,AB+,Asthma,2020-02-11,Dr. Michael Johnson,Care Hospital,Blue Cross,33588.49,101,Elective,2020-02-23,Lisinopril,Inconclusive
+Matthew Brown,33,Female,O-,Asthma,2023-09-09,Dr. Priya Sharma,Global Health Center,Max Bupa,8967.29,146,Emergency,2023-09-21,Paracetamol,Normal
+Bobby Jackson,20,Male,A+,Cancer,2022-07-30,Dr. Emily Brown,Apollo Healthcare,Cigna,18850.2,448,Urgent,2022-08-05,Aspirin,Inconclusive
+Brandon Phillips,34,Female,A+,Hypertension,2022-12-16,Dr. Amit Verma,Fortis Medical,Blue Cross,30426.8,311,Emergency,2022-12-21,Aspirin,Abnormal
+Arjun Nair,40,Female,AB+,Arthritis,2021-06-19,Dr. Priya Sharma,Sun Pharma Clinic,Star Health,31041.33,278,Urgent,2021-06-24,Insulin,Abnormal
+Kevin Adams,39,Male,O+,Cancer,2022-01-06,Dr. Sunita Patel,Care Hospital,Star Health,34070.36,449,Elective,2022-01-16,Aspirin,Abnormal
+Justin Mitchell,82,Female,A-,Asthma,2023-05-03,Dr. Matthew Smith,Max Hospital,Max Bupa,16738.07,159,Urgent,2023-05-07,Ibuprofen,Abnormal
+Suresh Yadav,77,Female,AB-,Asthma,2021-02-12,Dr. Sarah Wilson,City Hospital,Star Health,36557.97,422,Elective,2021-02-23,Metformin,Normal
+Michael Johnson,78,Female,AB-,Arthritis,2024-01-24,Dr. Amit Verma,Medanta Hospital,United Health,12323.55,379,Emergency,2024-01-26,Metformin,Abnormal
+Samantha Green,76,Female,O+,Hypertension,2023-09-05,Dr. Matthew Smith,Medanta Hospital,Star Health,26715.09,305,Elective,2023-09-09,Metformin,Normal
+Brandon Phillips,82,Male,O+,Hypertension,2023-05-05,Dr. Sarah Wilson,Care Hospital,Aetna,12381.17,185,Elective,2023-05-10,Salbutamol,Inconclusive
+Megan Walker,43,Male,B+,Arthritis,2020-11-13,Dr. Rajesh Kumar,Apollo Healthcare,United Health,40678.85,172,Elective,2020-11-26,Amoxicillin,Abnormal
+Rajesh Mishra,76,Male,B+,Cancer,2023-12-14,Dr. Matthew Smith,Fortis Medical,Medicare,13306.71,204,Elective,2023-12-17,Paracetamol,Inconclusive
+Sneha Iyer,37,Female,A+,Hypertension,2019-11-23,Dr. Priya Sharma,Sun Pharma Clinic,HDFC Ergo,36445.09,341,Urgent,2019-11-29,Omeprazole,Abnormal
+Amber Perez,49,Male,O+,Cancer,2020-10-13,Dr. Amit Verma,Care Hospital,Star Health,45410.96,445,Urgent,2020-10-26,Omeprazole,Inconclusive
+Emily Davis,27,Female,O-,Arthritis,2023-02-25,Dr. Rajesh Kumar,Max Hospital,Blue Cross,39552.98,288,Elective,2023-03-07,Atorvastatin,Inconclusive
+Aarav Sharma,68,Male,B-,Cancer,2021-10-20,Dr. Rajesh Kumar,Max Hospital,United Health,24593.03,273,Elective,2021-10-24,Ibuprofen,Abnormal
+Anjali Tiwari,54,Female,O+,Arthritis,2023-08-09,Dr. Rajesh Kumar,Fortis Medical,HDFC Ergo,13078.31,303,Urgent,2023-08-17,Insulin,Normal
+Amanda White,28,Female,A-,Arthritis,2023-11-02,Dr. Rajesh Kumar,AIIMS Delhi,Star Health,10793.28,359,Elective,2023-11-09,Amoxicillin,Normal
+Laura Hall,69,Female,A+,Obesity,2021-05-20,Dr. Priya Sharma,Global Health Center,Max Bupa,27592.77,499,Elective,2021-05-25,Atorvastatin,Inconclusive
+Sarah Wilson,32,Male,O+,Asthma,2023-04-05,Dr. Priya Sharma,AIIMS Delhi,Aetna,20170.21,462,Urgent,2023-04-12,Lisinopril,Normal
+James Lewis,76,Female,A+,Hypertension,2020-07-30,Dr. Priya Sharma,Sun Pharma Clinic,Max Bupa,21519.69,406,Urgent,2020-07-31,Atorvastatin,Abnormal
+Jessica Taylor,61,Female,A+,Asthma,2020-07-01,Dr. Matthew Smith,Medanta Hospital,HDFC Ergo,5788.35,266,Elective,2020-07-04,Metformin,Inconclusive
+Pooja Mehta,63,Male,O+,Cancer,2019-12-25,Dr. Michael Johnson,Apollo Healthcare,Blue Cross,37705.43,424,Elective,2019-12-27,Omeprazole,Abnormal
+Matthew Brown,76,Male,O-,Diabetes,2019-06-06,Dr. Samantha Davies,City Hospital,Blue Cross,32420.91,470,Urgent,2019-06-12,Paracetamol,Abnormal
+James Lewis,28,Female,AB+,Hypertension,2021-03-31,Dr. Amit Verma,Fortis Medical,Medicare,42658.4,321,Emergency,2021-04-01,Aspirin,Inconclusive
+Kiran Desai,56,Male,A+,Obesity,2022-03-20,Dr. Sunita Patel,Care Hospital,United Health,38609.14,498,Emergency,2022-03-28,Lisinopril,Inconclusive
+Brian Nelson,23,Female,B+,Arthritis,2020-08-06,Dr. Rajesh Kumar,Care Hospital,Cigna,5842.35,312,Urgent,2020-08-11,Ibuprofen,Abnormal
+Rahul Sinha,77,Female,A-,Cancer,2020-04-05,Dr. Samantha Davies,Max Hospital,Medicare,32512.38,472,Urgent,2020-04-06,Salbutamol,Abnormal
+Brittany King,71,Female,O+,Hypertension,2024-03-19,Dr. Rajesh Kumar,Medanta Hospital,Star Health,19383.93,327,Emergency,2024-03-28,Amoxicillin,Inconclusive
+Laura Hall,44,Male,O+,Obesity,2021-04-05,Dr. Sarah Wilson,Apollo Healthcare,Max Bupa,30259.66,276,Emergency,2021-04-06,Aspirin,Inconclusive
+Megan Walker,65,Female,AB+,Obesity,2021-07-13,Dr. Emily Brown,City Hospital,Blue Cross,33118.82,185,Urgent,2021-07-24,Atorvastatin,Inconclusive
+Jessica Taylor,71,Male,AB+,Asthma,2023-03-04,Dr. Sunita Patel,Care Hospital,Blue Cross,22029.3,163,Emergency,2023-03-12,Omeprazole,Normal
+Deepika Rao,32,Female,B+,Cancer,2023-04-20,Dr. John White,Rainbow Hospital,HDFC Ergo,20841.11,211,Elective,2023-05-03,Salbutamol,Abnormal
+Bobby Jackson,64,Male,AB-,Asthma,2022-01-01,Dr. John White,Max Hospital,HDFC Ergo,27267.49,337,Elective,2022-01-10,Amoxicillin,Normal
+Kavita Dubey,69,Female,A+,Asthma,2023-08-27,Dr. Emily Brown,AIIMS Delhi,Medicare,22250.9,434,Elective,2023-09-02,Omeprazole,Abnormal
+Arjun Nair,21,Male,B+,Asthma,2022-06-23,Dr. Priya Sharma,Global Health Center,HDFC Ergo,47547.01,266,Urgent,2022-07-02,Aspirin,Normal
+Ryan Scott,78,Male,AB-,Diabetes,2023-03-02,Dr. John White,Rainbow Hospital,Cigna,43263.91,182,Elective,2023-03-12,Atorvastatin,Inconclusive
+Sneha Iyer,40,Female,B-,Obesity,2019-09-29,Dr. Priya Sharma,City Hospital,Cigna,30992.1,335,Emergency,2019-10-04,Salbutamol,Abnormal
+Sneha Iyer,40,Female,A-,Asthma,2023-09-12,Dr. Amit Verma,Max Hospital,Max Bupa,37492.08,135,Emergency,2023-09-18,Metformin,Inconclusive
+Rachel Carter,70,Female,O+,Diabetes,2023-05-23,Dr. Matthew Smith,Rainbow Hospital,Medicare,37210.77,410,Urgent,2023-05-30,Insulin,Inconclusive
+Priya Singh,74,Female,A+,Obesity,2023-07-21,Dr. Rajesh Kumar,Medanta Hospital,HDFC Ergo,37248.11,361,Urgent,2023-07-28,Amoxicillin,Abnormal
+Pooja Mehta,31,Male,AB+,Asthma,2023-03-24,Dr. Priya Sharma,AIIMS Delhi,Star Health,23580.19,273,Emergency,2023-04-06,Aspirin,Abnormal
+Deepika Rao,51,Male,AB-,Arthritis,2022-11-21,Dr. Emily Brown,Sun Pharma Clinic,Cigna,39064.13,275,Elective,2022-11-23,Amoxicillin,Abnormal
+Chris Martin,51,Female,A+,Cancer,2019-10-31,Dr. Matthew Smith,City Hospital,Cigna,44607.68,388,Elective,2019-11-09,Lisinopril,Abnormal
+Amber Perez,38,Female,O-,Arthritis,2021-06-19,Dr. Matthew Smith,AIIMS Delhi,Blue Cross,11593.68,249,Elective,2021-06-30,Lisinopril,Inconclusive
+Manish Pandey,21,Male,AB+,Cancer,2022-04-11,Dr. Matthew Smith,Medanta Hospital,HDFC Ergo,26463.85,187,Elective,2022-04-12,Ibuprofen,Inconclusive
+James Lewis,58,Female,O+,Hypertension,2022-08-20,Dr. Michael Johnson,Sun Pharma Clinic,Blue Cross,26779.93,294,Emergency,2022-08-23,Paracetamol,Abnormal
+Manish Pandey,57,Male,B-,Cancer,2020-07-23,Dr. Priya Sharma,Max Hospital,Star Health,27445.56,391,Urgent,2020-08-02,Metformin,Inconclusive
+Megan Walker,47,Male,AB-,Arthritis,2019-03-09,Dr. Priya Sharma,Medanta Hospital,Medicare,17216.31,373,Urgent,2019-03-16,Insulin,Normal
+Sunita Gupta,75,Male,B-,Obesity,2023-06-21,Dr. Amit Verma,Max Hospital,Cigna,36033.69,333,Emergency,2023-07-03,Metformin,Inconclusive
+Rahul Sinha,53,Male,B-,Arthritis,2023-08-29,Dr. Priya Sharma,AIIMS Delhi,United Health,7738.93,216,Emergency,2023-09-13,Salbutamol,Inconclusive
+David Clark,77,Male,A+,Obesity,2023-06-06,Dr. Priya Sharma,Max Hospital,Max Bupa,10238.29,142,Elective,2023-06-17,Aspirin,Normal
+Daniel Allen,45,Female,AB+,Asthma,2019-01-20,Dr. John White,Apollo Healthcare,Max Bupa,39982.81,199,Urgent,2019-01-30,Salbutamol,Abnormal
+Aarav Sharma,50,Female,AB+,Hypertension,2022-07-16,Dr. Samantha Davies,Rainbow Hospital,Max Bupa,28139.01,430,Elective,2022-07-19,Lisinopril,Inconclusive
+Sneha Iyer,61,Female,AB+,Arthritis,2021-06-20,Dr. Amit Verma,Sun Pharma Clinic,Aetna,19364.34,360,Elective,2021-06-22,Amoxicillin,Normal
+Kavita Dubey,26,Female,AB+,Diabetes,2024-03-10,Dr. Emily Brown,Medanta Hospital,Blue Cross,13711.8,155,Emergency,2024-03-24,Aspirin,Abnormal
+James Lewis,57,Female,O-,Diabetes,2022-11-03,Dr. Sarah Wilson,Max Hospital,Blue Cross,19569.44,198,Elective,2022-11-08,Ibuprofen,Normal
+Samantha Green,38,Female,O-,Arthritis,2022-05-04,Dr. John White,Fortis Medical,Cigna,46977.96,341,Elective,2022-05-17,Atorvastatin,Normal
+Anil Chauhan,60,Female,AB-,Hypertension,2020-09-22,Dr. Sarah Wilson,Care Hospital,HDFC Ergo,5255.26,306,Emergency,2020-09-29,Omeprazole,Abnormal
+Stephanie Baker,35,Female,AB+,Diabetes,2023-08-04,Dr. Sunita Patel,Max Hospital,United Health,18265.86,291,Emergency,2023-08-16,Atorvastatin,Abnormal
+John Smith,59,Male,B-,Asthma,2021-10-27,Dr. Matthew Smith,Apollo Healthcare,Medicare,15941.2,266,Urgent,2021-11-04,Amoxicillin,Inconclusive
+Brittany King,78,Male,O+,Arthritis,2024-05-19,Dr. Emily Brown,Max Hospital,United Health,49411.81,400,Elective,2024-06-03,Metformin,Normal
+Sunita Gupta,61,Female,AB-,Hypertension,2024-03-06,Dr. Priya Sharma,Sun Pharma Clinic,Blue Cross,44638.24,137,Elective,2024-03-11,Omeprazole,Normal
+Anjali Tiwari,56,Male,A-,Hypertension,2020-05-17,Dr. Sarah Wilson,Rainbow Hospital,United Health,30050.35,249,Urgent,2020-05-23,Metformin,Normal
+Melissa Campbell,26,Female,AB-,Hypertension,2023-03-11,Dr. Sunita Patel,AIIMS Delhi,Star Health,26074.69,335,Elective,2023-03-26,Atorvastatin,Normal
+Rachel Carter,51,Female,A+,Cancer,2019-09-02,Dr. John White,Care Hospital,HDFC Ergo,41272.92,124,Urgent,2019-09-13,Metformin,Inconclusive
+Sarah Wilson,20,Female,A+,Asthma,2023-11-24,Dr. Samantha Davies,Rainbow Hospital,Max Bupa,17719.09,270,Urgent,2023-12-07,Paracetamol,Inconclusive
+Amit Kumar,29,Male,B+,Asthma,2023-09-30,Dr. Priya Sharma,Global Health Center,Max Bupa,32451.42,197,Emergency,2023-10-14,Omeprazole,Abnormal
+Amanda White,75,Male,AB-,Diabetes,2020-01-08,Dr. Sarah Wilson,Medanta Hospital,Max Bupa,28747.13,454,Urgent,2020-01-19,Omeprazole,Normal
+Emily Davis,55,Male,O+,Diabetes,2019-01-18,Dr. Samantha Davies,Care Hospital,Blue Cross,16648.38,214,Urgent,2019-01-22,Atorvastatin,Inconclusive
